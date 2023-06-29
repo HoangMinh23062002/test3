@@ -53,3 +53,38 @@ WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Withdraw (1)'
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account')
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Deposit (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Deposit (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Home (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Customer Login (1)'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b (1)'),
+	'3', true)
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Login (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Deposit (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Amount to be Deposited_form-control n_97f4dd (1)'),
+	'')
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Deposit_1 (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Amount to be Deposited_form-control n_97f4dd (1)'),
+	'45645454545678')
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Withdrawl (1)'))
+
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Amount to be Deposited_form-control n_97f4dd (1)'),
+	'5678')
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Withdraw (1)'))
+
+WebUI.closeBrowser()
