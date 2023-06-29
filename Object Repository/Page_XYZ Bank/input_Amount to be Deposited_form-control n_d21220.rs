@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Amount to be Deposited_form-control n_97f4dd</name>
+   <name>input_Amount to be Deposited_form-control n_d21220</name>
    <tag></tag>
-   <elementGuidId>c35d5246-3d26-4e9c-b2b7-07f6c725b435</elementGuidId>
+   <elementGuidId>2b9799e8-840e-41b9-b6e2-db53850212e6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.form-control.ng-untouched.ng-dirty.ng-valid-number.ng-valid.ng-valid-required</value>
+         <value>input.form-control.ng-invalid.ng-touched.ng-dirty.ng-invalid-number</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>872e1dd1-d55b-4f90-80f3-14cfe7f8c80b</webElementGuid>
+      <webElementGuid>d7d23366-97c2-4f1e-8b5a-4fa44f968889</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>4fca83c9-c452-44e9-8aee-b0ea51d183a1</webElementGuid>
+      <webElementGuid>63e858ca-8d04-46df-b5a8-b9454b283cea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required</value>
-      <webElementGuid>3abdff22-b063-41b1-9d03-1a1850062739</webElementGuid>
+      <value>form-control ng-invalid ng-touched ng-dirty ng-invalid-number</value>
+      <webElementGuid>7ef88047-72be-4e02-a93a-e7855e47d8d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>dad57976-bb0d-4c14-ac43-8b78c32b6cfc</webElementGuid>
+      <webElementGuid>1cbe1585-1d76-4852-b5d8-559b07185dd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>b1ba47aa-8cbf-4a1b-bdb5-a59cd063d8f0</webElementGuid>
+      <webElementGuid>eb6c7236-e104-4cb2-9f03-a908dc35e2d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]</value>
-      <webElementGuid>2da69809-96e1-4879-9f95-3a83e4c4c41e</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-invalid-number&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-invalid ng-touched ng-dirty ng-invalid-number&quot;]</value>
+      <webElementGuid>a3c8e2eb-d1be-4117-b5a8-a179326df836</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='number']</value>
-      <webElementGuid>768e52f4-8b98-43f0-8135-5353047fccec</webElementGuid>
+      <webElementGuid>98eb7fbf-e9f8-4c89-ade9-c0208317293a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>cad65821-1be2-4f49-a1cc-96010e2ae730</webElementGuid>
+      <webElementGuid>6bd48c00-bc86-4d87-9b12-e4cf9bc63070</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @placeholder = 'amount']</value>
-      <webElementGuid>f974c4de-ab12-42f2-9a9a-44022091f9c9</webElementGuid>
+      <webElementGuid>1bd0ca65-4a73-44bf-93f9-629d2e73b964</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

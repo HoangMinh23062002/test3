@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Amount to be Deposited_form-control n_97f4dd</name>
+   <name>input_First Name_form-control ng-pristine n_693e51 (1)</name>
    <tag></tag>
-   <elementGuidId>c35d5246-3d26-4e9c-b2b7-07f6c725b435</elementGuidId>
+   <elementGuidId>d63db30e-c620-438d-9d75-ab91b8f5dbf7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type='number']</value>
+         <value>//input[@type='text']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.form-control.ng-untouched.ng-dirty.ng-valid-number.ng-valid.ng-valid-required</value>
+         <value>input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,55 +22,55 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>872e1dd1-d55b-4f90-80f3-14cfe7f8c80b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>number</value>
-      <webElementGuid>4fca83c9-c452-44e9-8aee-b0ea51d183a1</webElementGuid>
+      <webElementGuid>8bb799af-cd04-403a-bf8e-826ec7633201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required</value>
-      <webElementGuid>3abdff22-b063-41b1-9d03-1a1850062739</webElementGuid>
+      <value>form-control ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
+      <webElementGuid>7447d286-ef2b-4e5c-a7dc-41a7a0f99263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c96006e9-9a23-4caa-9a04-ca70a3f0224d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-model</name>
       <type>Main</type>
-      <value>amount</value>
-      <webElementGuid>dad57976-bb0d-4c14-ac43-8b78c32b6cfc</webElementGuid>
+      <value>fName</value>
+      <webElementGuid>405be41f-2917-4992-b575-da48da05ca05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>amount</value>
-      <webElementGuid>b1ba47aa-8cbf-4a1b-bdb5-a59cd063d8f0</webElementGuid>
+      <value>First Name</value>
+      <webElementGuid>908db5a8-5a4c-43c4-bf01-84f05343bbe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]</value>
-      <webElementGuid>2da69809-96e1-4879-9f95-3a83e4c4c41e</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-invalid-required&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-pristine ng-untouched ng-invalid ng-invalid-required&quot;]</value>
+      <webElementGuid>489b1f30-bed0-48bc-8c45-eccd68552bc7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type='number']</value>
-      <webElementGuid>768e52f4-8b98-43f0-8135-5353047fccec</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>35d25027-f13e-41f6-b9e3-80c92dc7d63e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,14 +78,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>cad65821-1be2-4f49-a1cc-96010e2ae730</webElementGuid>
+      <webElementGuid>4c991f87-5b60-4069-a1af-087b614e76db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @placeholder = 'amount']</value>
-      <webElementGuid>f974c4de-ab12-42f2-9a9a-44022091f9c9</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'First Name']</value>
+      <webElementGuid>74e7a7ba-380f-4c19-a391-89f9443d3172</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Deposit_1</name>
+   <name>button_Login (3)</name>
    <tag></tag>
-   <elementGuidId>377c800a-07d6-40f6-bdcd-565252c94368</elementGuidId>
+   <elementGuidId>dcba96c8-0bf3-457c-971a-ffa1a585a944</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@value='']</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,15 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>41c4650d-60ef-4656-b23b-e9c60ddf7518</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>5da75c6a-7832-485f-88a5-ca9e96ce266f</webElementGuid>
+      <webElementGuid>c08af9c2-7b7a-4422-ab4a-95a65653f759</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,47 +30,71 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>7be4749f-9158-49ee-99ba-3db5a0bad674</webElementGuid>
+      <webElementGuid>697ba3c9-4938-493b-b9fe-f2468d271346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>dcb770ed-c39e-4bd9-85e5-350e84b2aa33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>custId != ''</value>
+      <webElementGuid>6b2eb2f5-f00b-4a73-9c2e-c1d314d8c996</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Deposit</value>
-      <webElementGuid>f2b8600b-ba43-415d-a2eb-11769edb9b70</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>f25ea454-8d2d-4503-918b-52023386f373</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
-      <webElementGuid>c4cb5e5f-e586-4c2c-9bea-91fddfb91146</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>5413438d-c50b-4c45-af62-df68dcdd4006</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@value='']</value>
-      <webElementGuid>9c293764-5d64-41a5-828e-5fc5193b3df7</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>63ba50b9-4e53-4a6d-ad08-9673bf7e9f11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount to be Deposited :'])[1]/following::button[1]</value>
-      <webElementGuid>38901622-f683-41b9-affa-55243f0cfc84</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Name :'])[1]/following::button[1]</value>
+      <webElementGuid>1d7c8ad7-4ca7-4ccb-a8ff-c910af6ce6e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawl'])[1]/following::button[1]</value>
-      <webElementGuid>d61afa15-9d8e-48c7-bc09-c7266b9e5172</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
+      <webElementGuid>5a404f8e-82b8-463a-b4aa-7c2ea11d413a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>a3707c72-90b6-46ac-b95e-8e32d28178c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,14 +102,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>c26fe1e7-78a1-4550-9411-70c86f009356</webElementGuid>
+      <webElementGuid>1b08079b-3266-441a-a0db-1e596867fc9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Deposit' or . = 'Deposit')]</value>
-      <webElementGuid>6bac1344-d869-4f08-9d8c-e42b69272460</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>1699b342-3d12-4f24-844f-b4331460f4ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

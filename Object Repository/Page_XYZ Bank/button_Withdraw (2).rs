@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Deposit_1</name>
+   <name>button_Withdraw (2)</name>
    <tag></tag>
-   <elementGuidId>377c800a-07d6-40f6-bdcd-565252c94368</elementGuidId>
+   <elementGuidId>e6fe0d58-68f9-4185-9949-6c579c3c63fc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>41c4650d-60ef-4656-b23b-e9c60ddf7518</webElementGuid>
+      <webElementGuid>330a1cb3-0bae-4b44-add4-999d9ff4a88b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>5da75c6a-7832-485f-88a5-ca9e96ce266f</webElementGuid>
+      <webElementGuid>78feb077-337a-4968-9f40-e8d8718b2520</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>7be4749f-9158-49ee-99ba-3db5a0bad674</webElementGuid>
+      <webElementGuid>1a592ccd-624a-4873-adad-a5378ea24ac0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Deposit</value>
-      <webElementGuid>f2b8600b-ba43-415d-a2eb-11769edb9b70</webElementGuid>
+      <value>Withdraw</value>
+      <webElementGuid>78d2123e-bc28-4b42-bd79-12ecf821d431</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
-      <webElementGuid>c4cb5e5f-e586-4c2c-9bea-91fddfb91146</webElementGuid>
+      <webElementGuid>9805ad0d-d279-47b3-a998-796e253553b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@value='']</value>
-      <webElementGuid>9c293764-5d64-41a5-828e-5fc5193b3df7</webElementGuid>
+      <webElementGuid>0473bcd2-50e0-45c2-a146-12860f3fabad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount to be Deposited :'])[1]/following::button[1]</value>
-      <webElementGuid>38901622-f683-41b9-affa-55243f0cfc84</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount to be Withdrawn :'])[1]/following::button[1]</value>
+      <webElementGuid>02e84686-6901-4cc6-afa0-60b9e4894d00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawl'])[1]/following::button[1]</value>
-      <webElementGuid>d61afa15-9d8e-48c7-bc09-c7266b9e5172</webElementGuid>
+      <webElementGuid>2997499d-952b-4887-b349-fc5ead24f455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Withdraw']/parent::*</value>
+      <webElementGuid>fd599a9d-f0b4-4ce0-9ba8-ca72c76e61cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>c26fe1e7-78a1-4550-9411-70c86f009356</webElementGuid>
+      <webElementGuid>135ae1b2-ca82-472f-a6e2-14243c1833bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Deposit' or . = 'Deposit')]</value>
-      <webElementGuid>6bac1344-d869-4f08-9d8c-e42b69272460</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Withdraw' or . = 'Withdraw')]</value>
+      <webElementGuid>aa8d62e1-9401-433b-8f45-d76ecfebdf15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

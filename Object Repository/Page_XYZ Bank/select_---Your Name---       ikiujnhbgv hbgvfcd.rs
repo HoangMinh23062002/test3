@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>select_---Your Name---       ikiujnhbgv hbgvfcd</name>
    <tag></tag>
-   <elementGuidId>78eb5bf9-d4fb-427a-a051-0ab248c86d14</elementGuidId>
+   <elementGuidId>7e6ed51f-e760-4e68-a755-fd80d7ab22f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//select[@id='userSelect']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-default</value>
+         <value>#userSelect</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,112 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>be6903cc-05f6-4a4c-bbe4-094b486e8d01</webElementGuid>
+      <value>select</value>
+      <webElementGuid>2b9a71dc-bf9c-4eb7-a3ee-5ea7f2c4385a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>ab654283-e0c9-4410-93e9-405048400ac5</webElementGuid>
+      <value>form-control ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>ea690e28-3b2e-4f82-85bb-d4b8ba85b64c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>f8f78538-c98a-49b0-9ecf-f195b517f787</webElementGuid>
+      <value>userSelect</value>
+      <webElementGuid>4206ce63-589b-4a6f-8d33-984edeb089a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userSelect</value>
+      <webElementGuid>34cafaef-40b0-4ca4-bf78-d1bcfedd3942</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-show</name>
+      <name>ng-model</name>
       <type>Main</type>
-      <value>custId != ''</value>
-      <webElementGuid>6baa8c60-cdd5-4571-9cd6-93a1e408c458</webElementGuid>
+      <value>custId</value>
+      <webElementGuid>cbcdb103-81eb-4351-ac9b-e26e0845e232</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>60d1367b-f0f0-4cc8-a2ff-60648e7753f9</webElementGuid>
+      <value>
+	      ---Your Name--- 
+	      ikiujnhbgv hbgvfcd
+	    </value>
+      <webElementGuid>28694187-b4a9-4639-89b3-da19e05924d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
-      <webElementGuid>7d80ab94-06e6-4770-b29a-bc07b288af97</webElementGuid>
+      <value>id(&quot;userSelect&quot;)</value>
+      <webElementGuid>db3fbada-4a07-457e-9c12-66bd16296088</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>0d931534-9baa-4fdc-aab2-3c507609c033</webElementGuid>
+      <value>//select[@id='userSelect']</value>
+      <webElementGuid>a4fb44c7-b0f1-4786-8361-4c87180b1913</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Name :'])[1]/following::button[1]</value>
-      <webElementGuid>665308b8-c16e-4fed-9102-564cc365cff3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Name :'])[1]/following::select[1]</value>
+      <webElementGuid>e7e86379-1410-4927-80a1-49db0325f15a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
-      <webElementGuid>82311aea-9d91-4c55-94b8-6272fdbb6020</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::select[1]</value>
+      <webElementGuid>50ae6a47-3566-45c7-95f9-e3443cc82495</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>6b55864c-7db2-4c71-ab78-f9b74140fc94</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[1]</value>
+      <webElementGuid>a752030e-2a38-446d-8c9d-c190a6599dc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>d8cf9b45-a312-45f2-bf0b-127aadf4eee3</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>a2d6c080-4ebc-4099-9c59-422f913cba2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>58b4f0f4-ef15-4e84-b491-7a0b4cd4024a</webElementGuid>
+      <value>//select[@name = 'userSelect' and @id = 'userSelect' and (text() = '
+	      ---Your Name--- 
+	      ikiujnhbgv hbgvfcd
+	    ' or . = '
+	      ---Your Name--- 
+	      ikiujnhbgv hbgvfcd
+	    ')]</value>
+      <webElementGuid>d8a0e6a8-d64d-4d5c-80b2-242c1b35ef76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

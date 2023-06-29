@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Amount to be Deposited_form-control n_97f4dd</name>
+   <name>input_Amount to be Deposited_form-control n_97f4dd (2)</name>
    <tag></tag>
-   <elementGuidId>c35d5246-3d26-4e9c-b2b7-07f6c725b435</elementGuidId>
+   <elementGuidId>ae8d863d-d643-4472-8c0b-b3155ff0115f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>872e1dd1-d55b-4f90-80f3-14cfe7f8c80b</webElementGuid>
+      <webElementGuid>2bbc769c-3148-4790-85dd-c145aaf07211</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>4fca83c9-c452-44e9-8aee-b0ea51d183a1</webElementGuid>
+      <webElementGuid>33398990-fa56-4bcb-a6b6-8a5c60aa829b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required</value>
-      <webElementGuid>3abdff22-b063-41b1-9d03-1a1850062739</webElementGuid>
+      <webElementGuid>1ed297ba-414c-4171-befb-ab42310a08a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>dad57976-bb0d-4c14-ac43-8b78c32b6cfc</webElementGuid>
+      <webElementGuid>6bbe3202-7174-4636-b096-e551294c1963</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>b1ba47aa-8cbf-4a1b-bdb5-a59cd063d8f0</webElementGuid>
+      <webElementGuid>1c9965ec-0ecf-41f4-aab0-004fe7be65f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]</value>
-      <webElementGuid>2da69809-96e1-4879-9f95-3a83e4c4c41e</webElementGuid>
+      <webElementGuid>080299a9-ee54-4a8f-b05f-a19ead0bc675</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='number']</value>
-      <webElementGuid>768e52f4-8b98-43f0-8135-5353047fccec</webElementGuid>
+      <webElementGuid>bfcb23ca-387b-474c-b11f-17d193050287</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>cad65821-1be2-4f49-a1cc-96010e2ae730</webElementGuid>
+      <webElementGuid>0ae6a767-93e6-4b1b-b45e-b92b0d467114</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @placeholder = 'amount']</value>
-      <webElementGuid>f974c4de-ab12-42f2-9a9a-44022091f9c9</webElementGuid>
+      <webElementGuid>384bfe6d-c510-4fda-aec5-627dd123bb21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

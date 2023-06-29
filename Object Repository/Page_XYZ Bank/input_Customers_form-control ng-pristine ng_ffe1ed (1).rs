@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Amount to be Deposited_form-control n_97f4dd</name>
+   <name>input_Customers_form-control ng-pristine ng_ffe1ed (1)</name>
    <tag></tag>
-   <elementGuidId>c35d5246-3d26-4e9c-b2b7-07f6c725b435</elementGuidId>
+   <elementGuidId>f78b0877-0653-4552-973e-3dc68bdae3a1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type='number']</value>
+         <value>//input[@type='text']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.form-control.ng-untouched.ng-dirty.ng-valid-number.ng-valid.ng-valid-required</value>
+         <value>input.form-control.ng-pristine.ng-untouched.ng-valid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,55 +22,55 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>872e1dd1-d55b-4f90-80f3-14cfe7f8c80b</webElementGuid>
+      <webElementGuid>78b15475-ae52-4437-aaf4-55a7609f4bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>number</value>
-      <webElementGuid>4fca83c9-c452-44e9-8aee-b0ea51d183a1</webElementGuid>
+      <value>text</value>
+      <webElementGuid>205a7f89-1cad-4a19-a46f-3dc8e822ea6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required</value>
-      <webElementGuid>3abdff22-b063-41b1-9d03-1a1850062739</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-model</name>
-      <type>Main</type>
-      <value>amount</value>
-      <webElementGuid>dad57976-bb0d-4c14-ac43-8b78c32b6cfc</webElementGuid>
+      <value>form-control ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>0b2055c6-354f-4100-9785-3bdde219d6bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>amount</value>
-      <webElementGuid>b1ba47aa-8cbf-4a1b-bdb5-a59cd063d8f0</webElementGuid>
+      <value>Search Customer</value>
+      <webElementGuid>f967fec2-c9aa-4a4e-bc6f-f95fea4504f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>searchCustomer</value>
+      <webElementGuid>df0ae6de-b29f-438a-adf2-b680d8d28bce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]</value>
-      <webElementGuid>2da69809-96e1-4879-9f95-3a83e4c4c41e</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop ng-scope&quot;]/form[@class=&quot;ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control ng-pristine ng-untouched ng-valid&quot;]</value>
+      <webElementGuid>8619cd76-340b-4223-9d94-b81ae5a56b15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type='number']</value>
-      <webElementGuid>768e52f4-8b98-43f0-8135-5353047fccec</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>48af7c7c-5ec2-40e3-be0d-2fc8adb6c938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,14 +78,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>cad65821-1be2-4f49-a1cc-96010e2ae730</webElementGuid>
+      <webElementGuid>810a628b-0c8e-47ea-9a8e-56d8e5c26d94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @placeholder = 'amount']</value>
-      <webElementGuid>f974c4de-ab12-42f2-9a9a-44022091f9c9</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Search Customer']</value>
+      <webElementGuid>243d8781-057f-4dba-88fd-69c9a91b345d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

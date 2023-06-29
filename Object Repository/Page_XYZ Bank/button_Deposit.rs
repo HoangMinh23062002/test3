@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ffdb5dc5-a6ad-407e-9f36-5244b49f6a44</webElementGuid>
+      <webElementGuid>e470e90b-0d4e-4ed2-8509-6f51dfb13e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>btnClass2</value>
-      <webElementGuid>77c17de0-1243-44ee-a57c-acda5491d131</webElementGuid>
+      <webElementGuid>64bc3dec-8d01-4d30-8183-63a2227a8d1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg tab</value>
-      <webElementGuid>2b9b5ee1-85b6-450f-ae1a-448c32e6b3e1</webElementGuid>
+      <webElementGuid>7ea6500a-7cee-43c6-9b3b-5f8b1a16933c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>deposit()</value>
-      <webElementGuid>76ca829d-274a-459b-89b3-61c3e61ebee1</webElementGuid>
+      <webElementGuid>5c54c550-637a-4b4a-929f-d878a6c0a651</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <value>Deposit
 		
 		</value>
-      <webElementGuid>3102bdc9-7518-40f5-87e9-b08aad261b2c</webElementGuid>
+      <webElementGuid>52a94b86-8f6b-4e1d-8958-893abc227c65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-lg tab&quot;]</value>
-      <webElementGuid>c06db650-7f28-496d-ae93-7de894a92d82</webElementGuid>
+      <webElementGuid>7eef0bba-931e-40f8-a1ff-a7ab1d012c6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::button[1]</value>
-      <webElementGuid>6b689934-6d61-4c04-a961-3632ad331026</webElementGuid>
+      <webElementGuid>0cb286da-d77f-4a12-9387-602262da241d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dollar'])[1]/following::button[2]</value>
-      <webElementGuid>8b0dd3d8-f273-4a2a-acec-889bf42fc0bb</webElementGuid>
+      <webElementGuid>2915de59-0ea6-4a6d-a979-d5b108898fad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawl'])[1]/preceding::button[1]</value>
-      <webElementGuid>406022aa-4a06-4c4f-b78a-eec10514b27a</webElementGuid>
+      <webElementGuid>b22fc689-f9cc-46de-8871-126fc5a04b1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Deposit']/parent::*</value>
-      <webElementGuid>c5d18d44-82b7-4609-81de-71e31dfcb66f</webElementGuid>
+      <webElementGuid>b9522c03-3e3d-4892-9f54-d54e360c9ee9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button[2]</value>
-      <webElementGuid>59d6f3da-9e15-4d6e-a0aa-7a62cef916ab</webElementGuid>
+      <webElementGuid>7f8754eb-def8-4622-912f-f4d6d840ea93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
 		' or . = 'Deposit
 		
 		')]</value>
-      <webElementGuid>b39c32f7-1e6f-438e-91d9-2b88ade6e4e6</webElementGuid>
+      <webElementGuid>d0c096c9-6350-4112-90ed-99cc979fe87a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Customer Login</name>
+   <name>button_Deposit (4)</name>
    <tag></tag>
-   <elementGuidId>e8aaaa4a-e981-4e4e-ba85-30d748cef67a</elementGuidId>
+   <elementGuidId>b568fad3-9b07-454b-87fe-f13ba3a403dd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-lg</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,100 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ff3f75e2-32f2-4231-8ec5-9d47f87a2212</webElementGuid>
+      <webElementGuid>390b9550-5cd9-4fe9-8945-de86240a119a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>btnClass2</value>
+      <webElementGuid>94d19450-a866-443f-9b61-5836f88920f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-lg</value>
-      <webElementGuid>494c97c4-c48b-44cf-ba8c-e9561da11df9</webElementGuid>
+      <value>btn btn-lg tab</value>
+      <webElementGuid>7ef8f1f2-3007-42d7-a5ca-87a9e968efba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-click</name>
       <type>Main</type>
-      <value>customer()</value>
-      <webElementGuid>d15ad1b7-3fa5-4f0b-963b-21c1ca5de919</webElementGuid>
+      <value>deposit()</value>
+      <webElementGuid>e47b4cbd-f911-45de-a960-0f4f70c64492</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Customer Login</value>
-      <webElementGuid>852b1df3-9005-4519-bce5-fb38949afa55</webElementGuid>
+      <value>Deposit
+		
+		</value>
+      <webElementGuid>76e8abcf-a09c-485c-973d-953b28fa8949</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-primary btn-lg&quot;]</value>
-      <webElementGuid>39862b63-1a9a-4ff2-aa76-292b75a1cc24</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-lg tab&quot;]</value>
+      <webElementGuid>f0857ce1-0165-4236-9bd9-b3dd0333d19e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
-      <webElementGuid>68bdd91f-b068-4aee-9682-c6661b8f7f46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::button[1]</value>
+      <webElementGuid>153297cf-c042-43a5-861e-13cabab27c4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='XYZ Bank'])[2]/following::button[2]</value>
-      <webElementGuid>e2c3a851-06e2-4b3e-87bd-37f36153dd7e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pound'])[1]/following::button[2]</value>
+      <webElementGuid>9f9815e0-f33b-4ec7-a025-11edf5ea1d7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Manager Login'])[1]/preceding::button[1]</value>
-      <webElementGuid>af500879-36aa-4553-b93f-b04f2be307fa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawl'])[1]/preceding::button[1]</value>
+      <webElementGuid>f5617769-64b1-468f-b16b-facaeadd0ceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Customer Login']/parent::*</value>
-      <webElementGuid>c37b3b3c-9412-42d7-b6e5-d1121819b823</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Deposit']/parent::*</value>
+      <webElementGuid>499fec50-4e4a-4515-a3bd-deaeba1190c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/button</value>
-      <webElementGuid>e58af7e5-c391-49e6-9556-0148e5f4c87b</webElementGuid>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>5cf88809-affd-4e21-a55c-bc4b7fd99a12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Customer Login' or . = 'Customer Login')]</value>
-      <webElementGuid>8640a5e3-050e-4d9b-bdc7-291b4e234e3d</webElementGuid>
+      <value>//button[(text() = 'Deposit
+		
+		' or . = 'Deposit
+		
+		')]</value>
+      <webElementGuid>bd968b03-f8d3-42b6-a13f-e0e902c98f64</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Withdraw</name>
+   <name>button_Customer Login (3)</name>
    <tag></tag>
-   <elementGuidId>8d5a88ec-adf6-4898-9a4f-4391a8768936</elementGuidId>
+   <elementGuidId>52b24873-6efe-484e-9632-2ced8e7cd965</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@value='']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-default</value>
+         <value>button.btn.btn-primary.btn-lg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7922ddbb-3978-463c-82a9-a9d7bc4707d5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>2f336e15-442e-41a1-b8fd-0a1088a5cc1f</webElementGuid>
+      <webElementGuid>b5c84c6e-2337-4765-967c-1d5dd6b07bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>0ff31007-562e-4cb0-a49a-8455465b701c</webElementGuid>
+      <value>btn btn-primary btn-lg</value>
+      <webElementGuid>bc769bf4-f5dc-4bd6-830b-76bd14358db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>customer()</value>
+      <webElementGuid>cc21f696-77a8-4b43-b28d-da5748bf57cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Withdraw</value>
-      <webElementGuid>40cd8810-b2a6-405f-b126-dd1f0b085d31</webElementGuid>
+      <value>Customer Login</value>
+      <webElementGuid>b6a8c693-6a31-4f58-8443-abce8e4b2f01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
-      <webElementGuid>0c82e308-f1b9-4fa8-9f95-584575a6f853</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-primary btn-lg&quot;]</value>
+      <webElementGuid>5dba00e6-43cf-4eb5-864b-e7ff7f7d70ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//button[@value='']</value>
-      <webElementGuid>70bd59c7-1622-4240-8a45-55c0433068f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
+      <webElementGuid>3e6e4e7b-1934-4f79-8c50-8b9e12aabccd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount to be Withdrawn :'])[1]/following::button[1]</value>
-      <webElementGuid>16cfed17-8d6e-4589-b3ac-8fff46baf957</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XYZ Bank'])[2]/following::button[2]</value>
+      <webElementGuid>37f0fddd-13d9-4884-939d-66e84cc17441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawl'])[1]/following::button[1]</value>
-      <webElementGuid>c1b3513e-46f7-4d44-acfd-e4f70e7bd711</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Manager Login'])[1]/preceding::button[1]</value>
+      <webElementGuid>40b85177-d379-4149-91e8-a25c43486cfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Withdraw']/parent::*</value>
-      <webElementGuid>c18b3976-3ebd-4621-b5aa-f8fb8d1e3504</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Customer Login']/parent::*</value>
+      <webElementGuid>39844412-7184-4bdf-b918-82d1b4883f62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>91fdb12f-8355-455e-9e24-4b07d25f1c8a</webElementGuid>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>e3f16760-a408-450d-9700-26e94046a4b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Withdraw' or . = 'Withdraw')]</value>
-      <webElementGuid>e08b3281-4e57-4d0f-9e31-4b1dc5468ae1</webElementGuid>
+      <value>//button[(text() = 'Customer Login' or . = 'Customer Login')]</value>
+      <webElementGuid>a261d554-20d3-412b-a840-f74b29385dc6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

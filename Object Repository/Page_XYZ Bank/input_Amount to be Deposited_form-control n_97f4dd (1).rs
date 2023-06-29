@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Amount to be Deposited_form-control n_97f4dd (1)</name>
    <tag></tag>
-   <elementGuidId>4822a0eb-c3e6-41f1-a054-a37113f71f53</elementGuidId>
+   <elementGuidId>49148e2c-b24c-402d-b0dd-6668a6547930</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>04f4ebba-95bc-4204-96a0-0200dbc14c90</webElementGuid>
+      <webElementGuid>c2b5e818-4396-46a4-b77a-07c0ce5487cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>ccf50341-1434-4182-ad65-4a2b10af9d30</webElementGuid>
+      <webElementGuid>b1b5f0aa-a0f3-47d5-944c-6be768f2c6ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required</value>
-      <webElementGuid>648e5a96-8f95-4c4d-b365-5687266d82a3</webElementGuid>
+      <webElementGuid>57ccbe65-16a5-4560-82a3-7ed5e8ca608a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>9f5302eb-9f15-4e1d-bd14-049cf994cd46</webElementGuid>
+      <webElementGuid>1003ee4d-8603-4e25-9c37-fff63007d972</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>201f0c9d-92f6-4568-b459-21bd36684181</webElementGuid>
+      <webElementGuid>1dd4a84a-7df7-4047-9446-33fb919b18c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-untouched ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]</value>
-      <webElementGuid>ff9de8a4-d1c2-4212-9c54-f7f22f7b87d5</webElementGuid>
+      <webElementGuid>b292844a-77fc-4da8-813a-a11476372b31</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='number']</value>
-      <webElementGuid>948db438-f156-4e83-884f-03544c25830d</webElementGuid>
+      <webElementGuid>7c66f48a-58bc-49e0-a478-da2b00268c45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>00b0a431-7544-4186-8171-5a5a0f8f5eb3</webElementGuid>
+      <webElementGuid>2b07dcf4-9019-461b-b3b7-a296ead3d831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @placeholder = 'amount']</value>
-      <webElementGuid>b9f6e3ae-b440-496c-b70e-446d9201866a</webElementGuid>
+      <webElementGuid>da3eb890-a4eb-410f-8058-218be6debb12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

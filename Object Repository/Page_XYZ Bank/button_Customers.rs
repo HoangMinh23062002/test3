@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Withdrawl</name>
+   <name>button_Customers</name>
    <tag></tag>
-   <elementGuidId>4d070062-345e-4efb-9268-45e57fd4a594</elementGuidId>
+   <elementGuidId>7592922c-4044-4a07-af6a-68fdfd750e90</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit'])[1]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Account'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9e125d31-8305-4551-a8fb-e6da5eaab3c4</webElementGuid>
+      <webElementGuid>30d72b7f-3d10-4d93-ae7f-6a98fd16e03d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>btnClass3</value>
-      <webElementGuid>cccef02b-064b-4f07-88ba-e89ca80b3f15</webElementGuid>
+      <webElementGuid>498de1a1-5a14-4e12-bf79-16639eecf266</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,73 +38,72 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg tab</value>
-      <webElementGuid>da48d80b-c0e8-4246-a9e1-b0206cc06b80</webElementGuid>
+      <webElementGuid>618929ae-9a26-4fc1-b068-79530e92eaa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ng-click</name>
       <type>Main</type>
-      <value>withdrawl()</value>
-      <webElementGuid>f6772722-2320-4262-8cab-f097c2e7cfe4</webElementGuid>
+      <value>showCust()</value>
+      <webElementGuid>9ad7aa4c-f2b0-4046-a47a-f12c61655aed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Withdrawl
-		
+      <value>Customers
 		</value>
-      <webElementGuid>afa81f1a-ea8c-42c8-abce-62c21335aab6</webElementGuid>
+      <webElementGuid>07d126af-10d1-426b-927f-6e84e330e2d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-lg tab&quot;]</value>
-      <webElementGuid>384e0024-a360-4273-91d6-b83245e08ffb</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-lg tab&quot;]</value>
+      <webElementGuid>29a5e0ee-2d9c-4384-96a2-cab29f5692cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit'])[1]/following::button[1]</value>
-      <webElementGuid>d29b0a52-0d75-4a4f-8473-436f239addc4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Account'])[1]/following::button[1]</value>
+      <webElementGuid>483b2eb1-d475-4368-89f3-f2474ae7e5b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::button[2]</value>
-      <webElementGuid>7b339e0c-0f4d-412d-992a-69562cbadb6c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Customer'])[1]/following::button[2]</value>
+      <webElementGuid>689d001b-a2d6-4242-98bf-e420879b7ffb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit Successful'])[1]/preceding::button[1]</value>
-      <webElementGuid>478559bf-d115-4398-a768-50a29a899906</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name :'])[1]/preceding::button[1]</value>
+      <webElementGuid>659ab886-9dc8-47b0-a160-2c4ddd87e31a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount to be Deposited :'])[1]/preceding::button[1]</value>
-      <webElementGuid>6d36d3d2-3f37-41db-9e67-33897a1a3428</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name :'])[1]/preceding::button[1]</value>
+      <webElementGuid>e5faa5a0-7bf6-4ef2-9710-4c263a069dd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Withdrawl']/parent::*</value>
-      <webElementGuid>d46c7b21-8de2-44ae-a1b9-477d6463e537</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Customers']/parent::*</value>
+      <webElementGuid>182f97c2-84ba-44e3-88dd-d53865f7a2f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,18 +111,16 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]</value>
-      <webElementGuid>1b472803-b07a-4999-8424-afa37822f0b3</webElementGuid>
+      <webElementGuid>dd404294-ef87-4a0d-a5ee-7c36d8eabd5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Withdrawl
-		
-		' or . = 'Withdrawl
-		
+      <value>//button[(text() = 'Customers
+		' or . = 'Customers
 		')]</value>
-      <webElementGuid>ec1d9a7b-22b2-4c8f-b110-ae2216358b09</webElementGuid>
+      <webElementGuid>662776b5-c876-4bab-87a5-3b1f5f81cd31</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
