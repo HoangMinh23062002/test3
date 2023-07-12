@@ -21,6 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:5173/')
 
+WebUI.click(findTestObject('null'))
 
+WebUI.setText(findTestObject('null'), 
+    'Bún')
+WebUI.delay(3)
+WebUI.click(findTestObject('null'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    '134567890')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+

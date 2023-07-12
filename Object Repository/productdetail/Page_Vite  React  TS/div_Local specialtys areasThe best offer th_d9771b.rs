@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Local specialtys areasThe best offer th_d9771b</name>
+   <tag></tag>
+   <elementGuidId>b5bbb485-f663-46bb-ae18-363ad80228d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-g1rznr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4fdd2f6f-c0f8-4487-a02b-2a258b997e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-g1rznr</value>
+      <webElementGuid>e3f8176b-f5a4-440a-92fd-c01907ecf27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Local specialty's areasThe best offer that we offer to the world</value>
+      <webElementGuid>a99eff76-afe7-4ca9-9c70-95a2a60eb3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-g1rznr&quot;]</value>
+      <webElementGuid>59532d07-a176-4d77-b991-d892d5511055</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div</value>
+      <webElementGuid>36d18af3-5e4d-4693-aa53-325fa230e85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>f4cf8fdd-6530-48ba-971f-b380e40af697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Local specialty&quot; , &quot;'&quot; , &quot;s areasThe best offer that we offer to the world&quot;) or . = concat(&quot;Local specialty&quot; , &quot;'&quot; , &quot;s areasThe best offer that we offer to the world&quot;))]</value>
+      <webElementGuid>2b64a838-a9e1-4b61-97d7-be8c2b1ecd4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

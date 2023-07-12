@@ -21,46 +21,46 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account')
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Home'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Bank Manager Login'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'), 'lkjhgf')
+WebUI.setText(findTestObject('null'), 'lkjhgf')
 
-WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'), 'jnbhgvf')
+WebUI.setText(findTestObject('null'), 'jnbhgvf')
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-untouched n_322706'), '8765')
+WebUI.setText(findTestObject('null'), '8765')
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Open Account'))
+WebUI.click(findTestObject('null'))
 
 //WebUI.selectOptionByValue(findTestObject('Object Repository/Page_XYZ Bank/select_---Customer Name---       Hemnbvcfcxrmoine G_fc2164'), 
    // '4', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_XYZ Bank/select_---Currency---       Dollar      Pou_e54511'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Pound', true)
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Process'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Customers'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Delete'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'), 'kjh')
+WebUI.setText(findTestObject('null'), 'kjh')
 
-WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'), 'hbgt')
+WebUI.setText(findTestObject('null'), 'hbgt')
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-untouched n_322706'), 'gt')
+WebUI.setText(findTestObject('null'), 'gt')
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer_1'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
