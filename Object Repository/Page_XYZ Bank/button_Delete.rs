@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Delete</name>
    <tag></tag>
-   <elementGuidId>c1741246-9fd7-47b2-8115-8d49397ecb09</elementGuidId>
+   <elementGuidId>f1171ebe-7e13-4942-af7a-88cd2ee85f96</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='E725JB'])[1]/following::button[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='E859AB'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>td:nth-of-type(5) > button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3fff0e97-0038-4fcd-93f3-759944d35766</webElementGuid>
+      <webElementGuid>59120db9-c3b3-4094-b363-62dcd372dc28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>deleteCust(cust)</value>
-      <webElementGuid>355078a0-df67-437f-8b75-28ea116583c5</webElementGuid>
+      <webElementGuid>1dadfa17-8900-4b0b-8e86-dde513f06df7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>33cafbc5-585e-4637-bce7-ceab3a58a779</webElementGuid>
+      <webElementGuid>fb45f788-bc1c-4783-bf4e-515ddc731cc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,47 +46,55 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop ng-scope&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[5]/button[1]</value>
-      <webElementGuid>506d56fd-a7c6-421d-bbb8-734b9ec986b9</webElementGuid>
+      <webElementGuid>6c4d5861-db78-4df9-ba4e-5f1f393a54b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='E725JB'])[1]/following::button[1]</value>
-      <webElementGuid>4429d286-6bf8-4e03-b32f-71781aa611ff</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E859AB'])[1]/following::button[1]</value>
+      <webElementGuid>a6094e08-ce5a-4317-ba39-98f3868b2b70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potter'])[1]/following::button[1]</value>
-      <webElementGuid>d94b2abe-7d27-4f2e-b70d-0607fa6bed8c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Granger'])[1]/following::button[1]</value>
+      <webElementGuid>b0d2ae1d-f623-49f9-a368-382d906b4df5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ron'])[1]/preceding::button[1]</value>
-      <webElementGuid>cac27f77-a948-43be-9cd5-397db94341f6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harry'])[1]/preceding::button[1]</value>
+      <webElementGuid>864d148f-649e-456a-97cd-524278b91a35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weasly'])[1]/preceding::button[1]</value>
-      <webElementGuid>4b9cdac9-d1f4-43a1-8703-a63fddf4de29</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potter'])[1]/preceding::button[1]</value>
+      <webElementGuid>462bd5c4-fb5a-480d-a372-060be9b61ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>e120edd6-9ad5-4f50-b233-85fbb39f97ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[5]/button</value>
-      <webElementGuid>6afe2b5e-ee2f-46c9-a84f-49ffa09615e5</webElementGuid>
+      <value>//td[5]/button</value>
+      <webElementGuid>64f09517-ee94-43ba-bf41-6c339d7121b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>9fb87b8b-ad9d-4445-8be5-840e0992fb0f</webElementGuid>
+      <webElementGuid>35bb5b55-e024-4e7c-bf8d-b59695f2a600</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

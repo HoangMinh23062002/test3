@@ -3,7 +3,7 @@
    <description></description>
    <name>select_---Currency---       Dollar      Pou_e54511</name>
    <tag></tag>
-   <elementGuidId>27132b14-5a7e-4ec1-ae44-a2b0c3938036</elementGuidId>
+   <elementGuidId>90ca0bd7-b270-4ce6-b9ad-1e7b741b85df</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>ca65bb8c-2ca6-4b77-89e7-fc625744a38a</webElementGuid>
+      <webElementGuid>933b8f23-c352-41b5-8194-fd61ca228764</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
-      <webElementGuid>70f70db9-f23b-45a4-86cb-304493b0b7ea</webElementGuid>
+      <webElementGuid>9198a9d8-871d-48b1-aab5-997d9bf51c8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>currency</value>
-      <webElementGuid>75121914-874f-4f49-ae79-49497db201a3</webElementGuid>
+      <webElementGuid>67636875-6f2d-4fd3-9311-cd829f2c779f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>currency</value>
-      <webElementGuid>07354b5b-f8e9-4777-8a20-f33de41b4a67</webElementGuid>
+      <webElementGuid>93922179-030b-4420-a491-ed95d6c05f57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>currency</value>
-      <webElementGuid>34e13a10-20bc-4e59-8af6-7560e0ae2e90</webElementGuid>
+      <webElementGuid>cf68f134-c41b-4d9f-94e5-2b52ebe12893</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
 	      		Pound 
 	      		Rupee
 	    	</value>
-      <webElementGuid>51079473-b081-4a92-9975-509f75e79ddf</webElementGuid>
+      <webElementGuid>5635ab3b-08c7-429b-aec3-ec07570b18a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;currency&quot;)</value>
-      <webElementGuid>25c12628-8ed8-4c96-8753-7ac1e31e07b7</webElementGuid>
+      <webElementGuid>b3c4de46-f58c-49e7-96d0-45fca06153e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='currency']</value>
-      <webElementGuid>a42f3d12-cd1c-4bad-87b4-e1a1da564508</webElementGuid>
+      <webElementGuid>55d52f1b-655f-475e-8e8f-163cd332708d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency :'])[1]/following::select[1]</value>
-      <webElementGuid>6e570e8a-06cd-4b7c-abfd-a4947bc77f18</webElementGuid>
+      <webElementGuid>ceb64743-5642-43c9-a1b5-08f8d055f606</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer :'])[1]/following::select[2]</value>
-      <webElementGuid>9da2fc82-a1ce-4304-ad6a-fa82b79991f4</webElementGuid>
+      <webElementGuid>600b9856-e727-47df-b6d0-ebfa8d5b1896</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Process'])[1]/preceding::select[1]</value>
-      <webElementGuid>6e7a9bb5-b81b-4a59-8c1e-d2d32562e0c6</webElementGuid>
+      <webElementGuid>2477a9b1-3304-43e5-80c9-830d5af159dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'currency', '&quot;', ')')])[1]/preceding::select[1]</value>
-      <webElementGuid>c41223f6-7abc-467d-aa82-b809a254ce8f</webElementGuid>
+      <webElementGuid>aab9ddad-5365-44e7-bdfe-7fea44808a0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>484a07c4-1f9c-41cb-8c1e-eff800dd059b</webElementGuid>
+      <webElementGuid>6da73fa7-99c9-437a-b4aa-fc8941d1e7e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
 	      		Pound 
 	      		Rupee
 	    	')]</value>
-      <webElementGuid>da3a807c-a2b6-43c7-83ba-acd75fb55224</webElementGuid>
+      <webElementGuid>f0c9edd9-110d-463e-b077-2da4d8178a4c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

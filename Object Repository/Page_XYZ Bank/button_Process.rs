@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Process</name>
    <tag></tag>
-   <elementGuidId>f1c6e178-1c2e-4d20-beed-47d982163f3b</elementGuidId>
+   <elementGuidId>ffc09f14-19b9-4b3f-b396-8d0a3a7bba3e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7772ed5a-8917-43c2-9bf1-13ef96b620c4</webElementGuid>
+      <webElementGuid>415042cb-45b3-43bf-8a86-4cc490ff9d4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>7349d503-5981-4edc-aebf-a1f2aff14df1</webElementGuid>
+      <webElementGuid>7a055730-239f-4e36-88d3-b597e512e03a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Process</value>
-      <webElementGuid>9cb280af-beb1-476b-9d87-2f9056c9a86f</webElementGuid>
+      <webElementGuid>d6d229f5-732c-4ea9-821f-925bdea55be0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop&quot;]/form[@class=&quot;ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/button[1]</value>
-      <webElementGuid>734ddc1a-a694-4ee7-85c1-8c0a8775cdb6</webElementGuid>
+      <webElementGuid>597150dd-2494-4c96-a000-69b09d2c4e11</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@value='']</value>
-      <webElementGuid>86481101-d49d-404b-8935-aaf66bc958ea</webElementGuid>
+      <webElementGuid>e44b471a-e6cc-42e3-a816-904ba9666d30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency :'])[1]/following::button[1]</value>
-      <webElementGuid>55b6197a-5bb5-4d03-ba63-acffde69fdff</webElementGuid>
+      <webElementGuid>2a2450cc-96dc-4eec-a4ca-db6edd3412f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer :'])[1]/following::button[1]</value>
-      <webElementGuid>cecdc5f7-252b-4282-a7df-567285bd7f03</webElementGuid>
+      <webElementGuid>3745785d-f5cb-4e39-9461-2dfe0c6e2340</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Process']/parent::*</value>
-      <webElementGuid>bda6bdb4-b140-4578-95ed-2a316297f605</webElementGuid>
+      <webElementGuid>189ccb1c-e0c6-4244-a085-413102f060dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>2edad228-7039-4396-a540-c3ee1f251930</webElementGuid>
+      <webElementGuid>1e1a415c-5230-478b-bafa-50abb95922ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Process' or . = 'Process')]</value>
-      <webElementGuid>b758d6a4-bd2e-4a6d-a8ac-f21918c84a4f</webElementGuid>
+      <webElementGuid>4a65e58c-0fb5-485c-ad9e-5d813db46abb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

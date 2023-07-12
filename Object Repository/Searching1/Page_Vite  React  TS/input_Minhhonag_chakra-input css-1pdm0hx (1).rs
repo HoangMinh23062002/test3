@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Minhhonag_chakra-input css-1pdm0hx (1)</name>
+   <tag></tag>
+   <elementGuidId>3c15cb03-2170-468d-97a7-d161e2bb8013</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.css-1pdm0hx</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'search' and @placeholder = 'Search']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>// input[@type =&quot;search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e53bbbc0-05da-4b71-8036-a69f393ce61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>7c155d58-31c2-45c0-b189-0d12780d6fc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>79815a2d-bd03-44cc-81ec-7708d2f228c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-1pdm0hx</value>
+      <webElementGuid>e93cb992-ece2-402f-bbb9-3f471e346adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-1w0dmnq&quot;]/div[@class=&quot;css-1r2n8g3&quot;]/div[@class=&quot;chakra-input__group css-bx0blc&quot;]/input[@class=&quot;chakra-input css-1pdm0hx&quot;]</value>
+      <webElementGuid>3b7de523-3873-4eb8-86a0-d24f452d0fc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>e06e6b22-e99f-47d2-8c45-47971cfd5244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/input</value>
+      <webElementGuid>8a767c70-53d4-444d-89bc-75582ff62bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>0d6a07b9-398e-4bea-b201-fd179f788f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @placeholder = 'Search']</value>
+      <webElementGuid>c996907e-789a-41f8-8d8a-316bb4e3f28d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

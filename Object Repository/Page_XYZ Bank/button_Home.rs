@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Home</name>
    <tag></tag>
-   <elementGuidId>c5ece14e-7f55-47dc-8bf8-8192ac1a659b</elementGuidId>
+   <elementGuidId>5fd553bc-8377-4d95-b8d9-803e3dfea4f6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>26ef7bb8-fa64-44ef-a4c6-42c555dda982</webElementGuid>
+      <webElementGuid>7c080415-4652-42d8-a2a1-803975d59712</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn home</value>
-      <webElementGuid>710a80db-d015-4c37-a385-5707fa3dae72</webElementGuid>
+      <webElementGuid>6c068b5c-3d2f-4775-bc0b-12f44467af8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>home()</value>
-      <webElementGuid>82a465e9-d8e6-426c-b67e-e24f12e90aed</webElementGuid>
+      <webElementGuid>2b126eb5-654b-4452-bc0f-472d2d1c1f1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Home</value>
-      <webElementGuid>fc8b458b-2543-4772-a79e-06427f8b5a69</webElementGuid>
+      <webElementGuid>9d6116d4-2532-444b-a67f-7f7375f392f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;box mainhdr&quot;]/button[@class=&quot;btn home&quot;]</value>
-      <webElementGuid>61eb3638-9759-46f8-aa35-b48d4b922f5c</webElementGuid>
+      <webElementGuid>c83c45a4-4bac-4f25-91f6-139e8558ab6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='XYZ Bank'])[2]/preceding::button[1]</value>
-      <webElementGuid>d8edfeed-376d-47de-8576-0d29e9892129</webElementGuid>
+      <webElementGuid>023694e4-0fe2-4552-86f8-1d97c720a6ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::button[1]</value>
-      <webElementGuid>f066225f-e79a-4241-8ad9-98576a3350d2</webElementGuid>
+      <webElementGuid>368ccf55-c290-417a-9d90-3fc6260368cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
-      <webElementGuid>94d8db4b-ed31-4bce-8ba7-eecdea053066</webElementGuid>
+      <webElementGuid>ccfe8051-0a9a-455a-bb8b-e9bde6a739d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>b83b08d2-2788-4709-95c4-481f9d0f86bd</webElementGuid>
+      <webElementGuid>e06be2a0-3e74-4958-8f7a-71e52cbae634</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Home' or . = 'Home')]</value>
-      <webElementGuid>b9ea0085-198e-4e12-b75e-9612bb6d5a2c</webElementGuid>
+      <webElementGuid>459b65be-f168-4bf4-9339-7438d8e2fa4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

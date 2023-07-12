@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Customers</name>
    <tag></tag>
-   <elementGuidId>7592922c-4044-4a07-af6a-68fdfd750e90</elementGuidId>
+   <elementGuidId>3c9d1eef-219e-4186-a29a-4d3272d1cda0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>30d72b7f-3d10-4d93-ae7f-6a98fd16e03d</webElementGuid>
+      <webElementGuid>27966086-8a81-455b-b1df-7b87f2386e64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>btnClass3</value>
-      <webElementGuid>498de1a1-5a14-4e12-bf79-16639eecf266</webElementGuid>
+      <webElementGuid>06e16465-1e6a-4ac3-848f-ca4bea7a2d31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg tab</value>
-      <webElementGuid>618929ae-9a26-4fc1-b068-79530e92eaa7</webElementGuid>
+      <webElementGuid>2eb03462-599a-4891-b248-2152665fd8d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>showCust()</value>
-      <webElementGuid>9ad7aa4c-f2b0-4046-a47a-f12c61655aed</webElementGuid>
+      <webElementGuid>1fbca58d-b233-4770-ac49-c1de86e3d950</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <type>Main</type>
       <value>Customers
 		</value>
-      <webElementGuid>07d126af-10d1-426b-927f-6e84e330e2d1</webElementGuid>
+      <webElementGuid>e16a10c0-ca1a-4221-b65c-4f119074f59a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-lg tab&quot;]</value>
-      <webElementGuid>29a5e0ee-2d9c-4384-96a2-cab29f5692cb</webElementGuid>
+      <webElementGuid>69a85bef-68e1-4081-982a-5d02d2a41dbd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Account'])[1]/following::button[1]</value>
-      <webElementGuid>483b2eb1-d475-4368-89f3-f2474ae7e5b7</webElementGuid>
+      <webElementGuid>50f40c78-3167-44f7-bca5-85dda167349f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,23 +79,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Customer'])[1]/following::button[2]</value>
-      <webElementGuid>689d001b-a2d6-4242-98bf-e420879b7ffb</webElementGuid>
+      <webElementGuid>0ceeea5a-25c4-4cbe-bec2-9ccffbfd5cc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name :'])[1]/preceding::button[1]</value>
-      <webElementGuid>659ab886-9dc8-47b0-a160-2c4ddd87e31a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer :'])[1]/preceding::button[1]</value>
+      <webElementGuid>54f430d0-a403-4421-88af-dc9e788123c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name :'])[1]/preceding::button[1]</value>
-      <webElementGuid>e5faa5a0-7bf6-4ef2-9710-4c263a069dd2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency :'])[1]/preceding::button[1]</value>
+      <webElementGuid>1a500bdc-cd7d-48d2-8d79-0e6bd8c53aac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Customers']/parent::*</value>
-      <webElementGuid>182f97c2-84ba-44e3-88dd-d53865f7a2f3</webElementGuid>
+      <webElementGuid>eee7ab09-bfe6-4a06-8de4-1c779e942f57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]</value>
-      <webElementGuid>dd404294-ef87-4a0d-a5ee-7c36d8eabd5a</webElementGuid>
+      <webElementGuid>2ac51ebc-67c4-46f8-9803-ccddfcbb0e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,6 +121,6 @@
       <value>//button[(text() = 'Customers
 		' or . = 'Customers
 		')]</value>
-      <webElementGuid>662776b5-c876-4bab-87a5-3b1f5f81cd31</webElementGuid>
+      <webElementGuid>c0a21563-2cf7-4288-9287-c0ad4f5bc16b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

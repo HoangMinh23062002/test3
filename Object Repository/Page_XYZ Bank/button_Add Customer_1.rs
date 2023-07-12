@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add Customer_1</name>
    <tag></tag>
-   <elementGuidId>e489e99f-b9e4-46ad-a662-eaf0514abc74</elementGuidId>
+   <elementGuidId>d5787235-acff-4017-bb01-ec6c2f4f1d47</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>749b4d14-8ad9-4e2a-bbec-742808801ea6</webElementGuid>
+      <webElementGuid>d5fe30b9-1de7-4d39-99fe-3b0360e41200</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2aaa2ed8-84cf-4a34-9785-47717db0af55</webElementGuid>
+      <webElementGuid>26518719-c221-4889-b229-f952c33e058c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>a4d2afcf-908c-440c-b9ab-831e68252360</webElementGuid>
+      <webElementGuid>c136452f-2794-436f-83a8-894894be6ee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Customer</value>
-      <webElementGuid>843c3b40-e23d-47e3-a059-5068becaa9c5</webElementGuid>
+      <webElementGuid>94993cb6-9b1f-470b-8444-5db38f5cf982</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-invalid-required&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
-      <webElementGuid>572c73f3-e785-4277-b2f0-dd74521bdec6</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop&quot;]/form[@class=&quot;ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>50167026-bdb0-42c3-8b8b-ebda16802a4f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@value='']</value>
-      <webElementGuid>2bb21c37-05ff-49c4-a623-02e61d065fd3</webElementGuid>
+      <webElementGuid>6eab8227-8062-459f-bdba-dafc7ee52c62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Code :'])[1]/following::button[1]</value>
-      <webElementGuid>8832a938-436a-42c8-945f-4e7d3079f156</webElementGuid>
+      <webElementGuid>844db2b0-c110-4964-9d55-83f272e652fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name :'])[1]/following::button[1]</value>
-      <webElementGuid>fab2f47b-2d46-4e54-8a21-36b82698efdf</webElementGuid>
+      <webElementGuid>8994036d-e451-44ec-b2f3-483c300db5ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>b7e980b8-0a88-4235-a12a-6339e562ab12</webElementGuid>
+      <webElementGuid>b3dce994-86b0-40b5-aaf5-74d0a89e6e33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Add Customer' or . = 'Add Customer')]</value>
-      <webElementGuid>c85e43ea-2ca1-402b-ad53-d621ccc3a695</webElementGuid>
+      <webElementGuid>09f49912-1b3e-4989-a9ab-ba726c2bdc9d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

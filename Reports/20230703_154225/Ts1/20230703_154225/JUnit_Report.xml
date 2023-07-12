@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Ts1" time="31.346" tests="3" failures="1" errors="0">
+   <testsuite name="Ts1" tests="3" failures="1" errors="0" time="31.346" skipped="0" timestamp="2023-07-03 15:42:35" hostname="htminh - DN-AAVN-WS-650.mshome.net" id="Test Suites/Ts1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230703_154225\\Ts1\\20230703_154225"/>
+         <property name="logFiles" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230703_154225\\Ts1\\20230703_154225\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230703_154225\\Ts1\\20230703_154225\\1688373786675.png"/>
+         <property name="hostName" value="htminh - DN-AAVN-WS-650.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.32.1"/>
+         <property name="sessionId" value="53ccf42ba8fb45f54fb4773f1aac4181"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/Doauto" time="11.81" classname="Test Cases/Login/Doauto" status="PASSED">
+         <system-out><![CDATA[2023-07-03 15:42:35 - [TEST_CASE][PASSED] - Test Cases/Login/Doauto: Test Cases/Login/Doauto
+
+2023-07-03 15:42:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-03 15:42:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-03 15:42:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-03 15:42:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-03 15:42:40 - [TEST_STEP][PASSED] - navigateToUrl("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account"): Navigate to 'https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account' successfully
+
+2023-07-03 15:42:41 - [MESSAGE][PASSED] - Navigate to 'https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account' successfully
+
+2023-07-03 15:42:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/tesattuo/Page_XYZ Bank/button_Home")): Object: 'Object Repository/tesattuo/Page_XYZ Bank/button_Home' is clicked on
+
+2023-07-03 15:42:43 - [MESSAGE][PASSED] - Object: 'Object Repository/tesattuo/Page_XYZ Bank/button_Home' is clicked on
+
+2023-07-03 15:42:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/tesattuo/Page_XYZ Bank/button_Customer Login")): Object: 'Object Repository/tesattuo/Page_XYZ Bank/button_Customer Login' is clicked on
+
+2023-07-03 15:42:44 - [MESSAGE][PASSED] - Object: 'Object Repository/tesattuo/Page_XYZ Bank/button_Customer Login' is clicked on
+
+2023-07-03 15:42:44 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b"), "2", true): All options with value '2' are selected in object 'Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b'  using regular expression
+
+2023-07-03 15:42:46 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b'  using regular expression
+
+2023-07-03 15:42:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/tesattuo/Page_XYZ Bank/button_Login")): Object: 'Object Repository/tesattuo/Page_XYZ Bank/button_Login' is clicked on
+
+2023-07-03 15:42:46 - [MESSAGE][PASSED] - Object: 'Object Repository/tesattuo/Page_XYZ Bank/button_Login' is clicked on
+
+2023-07-03 15:42:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-03 15:42:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Example" time="9.366" classname="Test Cases/Login/Example" status="PASSED">
+         <system-out><![CDATA[2023-07-03 15:42:47 - [TEST_CASE][PASSED] - Test Cases/Login/Example: Test Cases/Login/Example
+
+2023-07-03 15:42:48 - [TEST_STEP][PASSED] - openBrowser("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account"): Browser is opened with url: 'https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account'
+
+2023-07-03 15:42:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-03 15:42:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-03 15:42:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account'
+
+2023-07-03 15:42:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ẽample/Page_XYZ Bank/button_Home")): Object: 'Object Repository/ẽample/Page_XYZ Bank/button_Home' is clicked on
+
+2023-07-03 15:42:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ẽample/Page_XYZ Bank/button_Home' is clicked on
+
+2023-07-03 15:42:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ẽample/Page_XYZ Bank/button_Customer Login")): Object: 'Object Repository/ẽample/Page_XYZ Bank/button_Customer Login' is clicked on
+
+2023-07-03 15:42:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ẽample/Page_XYZ Bank/button_Customer Login' is clicked on
+
+2023-07-03 15:42:53 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-03 15:42:54 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-03 15:42:54 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b"), "2", true): All options with value '2' are selected in object 'Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b'  using regular expression
+
+2023-07-03 15:42:55 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b'  using regular expression
+
+2023-07-03 15:42:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Ẽample/Page_XYZ Bank/button_Login")): Object: 'Object Repository/Ẽample/Page_XYZ Bank/button_Login' is clicked on
+
+2023-07-03 15:42:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Ẽample/Page_XYZ Bank/button_Login' is clicked on
+
+2023-07-03 15:42:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-03 15:42:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/manager" time="9.733" classname="Test Cases/Login/manager" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Login/manager FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at manager.run(manager:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1688373745393.run(TempTestSuite1688373745393.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:80)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2023-07-03 15:42:57 - [TEST_CASE][FAILED] - Test Cases/Login/manager: Test Cases/Login/manager FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at manager.run(manager:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1688373745393.run(TempTestSuite1688373745393.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:80)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2023-07-03 15:42:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-03 15:42:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-03 15:42:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-03 15:42:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-03 15:42:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account"): Navigate to 'https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account' successfully
+
+2023-07-03 15:43:00 - [MESSAGE][PASSED] - Navigate to 'https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account' successfully
+
+2023-07-03 15:43:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_XYZ Bank/button_Home")): Object: 'Object Repository/Page_XYZ Bank/button_Home' is clicked on
+
+2023-07-03 15:43:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_XYZ Bank/button_Home' is clicked on
+
+2023-07-03 15:43:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_XYZ Bank/button_Bank Manager Login")): Object: 'Object Repository/Page_XYZ Bank/button_Bank Manager Login' is clicked on
+
+2023-07-03 15:43:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_XYZ Bank/button_Bank Manager Login' is clicked on
+
+2023-07-03 15:43:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_XYZ Bank/button_Add Customer")): Object: 'Object Repository/Page_XYZ Bank/button_Add Customer' is clicked on
+
+2023-07-03 15:43:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_XYZ Bank/button_Add Customer' is clicked on
+
+2023-07-03 15:43:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51"), "lkjhgf"): Text 'lkjhgf' is set on object 'Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'
+
+2023-07-03 15:43:04 - [MESSAGE][PASSED] - Text 'lkjhgf' is set on object 'Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'
+
+2023-07-03 15:43:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d"), "jnbhgvf"): Text 'jnbhgvf' is set on object 'Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'
+
+2023-07-03 15:43:04 - [MESSAGE][PASSED] - Text 'jnbhgvf' is set on object 'Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'
+
+2023-07-03 15:43:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d")): Object: 'Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d' is clicked on
+
+2023-07-03 15:43:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d' is clicked on
+
+2023-07-03 15:43:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-untouched n_322706"), "8765"): Text '8765' is set on object 'Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-untouched n_322706'
+
+2023-07-03 15:43:06 - [MESSAGE][PASSED] - Text '8765' is set on object 'Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-untouched n_322706'
+
+2023-07-03 15:43:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_XYZ Bank/button_Add Customer_1")): Object: 'Object Repository/Page_XYZ Bank/button_Add Customer_1' is clicked on
+
+2023-07-03 15:43:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_XYZ Bank/button_Add Customer_1' is clicked on
+
+2023-07-03 15:43:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_XYZ Bank/button_Open Account")): Object: 'Object Repository/Page_XYZ Bank/button_Open Account' is clicked on
+
+2023-07-03 15:43:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_XYZ Bank/button_Open Account' is clicked on
+
+2023-07-03 15:43:06 - [TEST_STEP][FAILED] - selectOptionByValue(findTestObject("Object Repository/Page_XYZ Bank/select_---Customer Name---       Hemnbvcfcxrmoine G_fc2164"), "4", true): Unable to select option by value  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to select option by value  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at manager.run(manager:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1688373745393.run(TempTestSuite1688373745393.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:80)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at Script1688108113666.run(Script1688108113666.groovy:42)
+	... 13 more
+)
+
+2023-07-03 15:43:06 - [MESSAGE][WARNING] - Test object with id 'Object Repository/Page_XYZ Bank/select_---Customer Name---       Hemnbvcfcxrmoine G_fc2164' does not exist
+
+2023-07-03 15:43:06 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2023-07-03 15:43:06 - [MESSAGE][FAILED] - Unable to select option by value  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to select option by value  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at manager.run(manager:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1688373745393.run(TempTestSuite1688373745393.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:80)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at Script1688108113666.run(Script1688108113666.groovy:42)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\htminh\\git\\test3\\Reports\\20230703_154225\\Ts1\\20230703_154225\\1688373786675.png]]]]></system-out>
+         <system-err><![CDATA[2023-07-03 15:42:57 - [TEST_CASE][FAILED] - Test Cases/Login/manager: Test Cases/Login/manager FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at manager.run(manager:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1688373745393.run(TempTestSuite1688373745393.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:80)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-03 15:42:35 - [TEST_SUITE][FAILED] - Ts1: Test Cases/Login/manager FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at manager.run(manager:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1688373745393.run(TempTestSuite1688373745393.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:80)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-07-03 15:42:35 - [TEST_SUITE][FAILED] - Ts1: Test Cases/Login/manager FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$2.call(Unknown Source)
+	at manager.run(manager:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1688373745393.run(TempTestSuite1688373745393.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:80)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

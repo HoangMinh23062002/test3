@@ -1,0 +1,45 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Ts1,Edge Chromium 114,,,2023-06-30 14:31:01,2023-06-30 14:31:41,40.174s,PASSED
+,,,,,,,
+Test Cases/Login/Doauto,Edge Chromium 114,,,2023-06-30 14:31:02,2023-06-30 14:31:13,11.331s,PASSED
+"openBrowser("""")",Edge Chromium 114,,,2023-06-30 14:31:03,2023-06-30 14:31:06,3.786s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account"")",Edge Chromium 114,,,2023-06-30 14:31:06,2023-06-30 14:31:08,1.155s,PASSED
+"click(findTestObject(""Object Repository/tesattuo/Page_XYZ Bank/button_Home""))",Edge Chromium 114,,,2023-06-30 14:31:08,2023-06-30 14:31:10,1.929s,PASSED
+"click(findTestObject(""Object Repository/tesattuo/Page_XYZ Bank/button_Customer Login""))",Edge Chromium 114,,,2023-06-30 14:31:10,2023-06-30 14:31:10,0.478s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b""), ""2"", true)",Edge Chromium 114,,,2023-06-30 14:31:10,2023-06-30 14:31:12,1.569s,PASSED
+"click(findTestObject(""Object Repository/tesattuo/Page_XYZ Bank/button_Login""))",Edge Chromium 114,,,2023-06-30 14:31:12,2023-06-30 14:31:12,0.471s,PASSED
+closeBrowser(),Edge Chromium 114,,,2023-06-30 14:31:12,2023-06-30 14:31:13,0.996s,PASSED
+,,,,,,,
+Test Cases/Login/Example,Edge Chromium 114,,,2023-06-30 14:31:13,2023-06-30 14:31:21,8.381s,PASSED
+"openBrowser(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account"")",Edge Chromium 114,,,2023-06-30 14:31:14,2023-06-30 14:31:17,2.997s,PASSED
+"click(findTestObject(""Object Repository/ẽample/Page_XYZ Bank/button_Home""))",Edge Chromium 114,,,2023-06-30 14:31:17,2023-06-30 14:31:18,1.315s,PASSED
+"click(findTestObject(""Object Repository/ẽample/Page_XYZ Bank/button_Customer Login""))",Edge Chromium 114,,,2023-06-30 14:31:18,2023-06-30 14:31:18,0.652s,PASSED
+maximizeWindow(),Edge Chromium 114,,,2023-06-30 14:31:18,2023-06-30 14:31:19,0.269s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/tesattuo/Page_XYZ Bank/select_---Your Name---       Hermoine Grang_6e895b""), ""2"", true)",Edge Chromium 114,,,2023-06-30 14:31:19,2023-06-30 14:31:20,1.295s,PASSED
+"click(findTestObject(""Object Repository/Ẽample/Page_XYZ Bank/button_Login""))",Edge Chromium 114,,,2023-06-30 14:31:20,2023-06-30 14:31:20,0.428s,PASSED
+closeBrowser(),Edge Chromium 114,,,2023-06-30 14:31:20,2023-06-30 14:31:21,0.913s,PASSED
+,,,,,,,
+Test Cases/Login/manager,Edge Chromium 114,,,2023-06-30 14:31:21,2023-06-30 14:31:41,19.993s,PASSED
+"openBrowser("""")",Edge Chromium 114,,,2023-06-30 14:31:22,2023-06-30 14:31:23,1.589s,PASSED
+"navigateToUrl(""https://www.globalsqa.com/angularJs-protractor/BankingProject/#/account"")",Edge Chromium 114,,,2023-06-30 14:31:23,2023-06-30 14:31:25,1.459s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Home""))",Edge Chromium 114,,,2023-06-30 14:31:25,2023-06-30 14:31:26,1.369s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Bank Manager Login""))",Edge Chromium 114,,,2023-06-30 14:31:26,2023-06-30 14:31:27,0.588s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Add Customer""))",Edge Chromium 114,,,2023-06-30 14:31:27,2023-06-30 14:31:28,0.904s,PASSED
+"setText(findTestObject(""Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51""), ""lkjhgf"")",Edge Chromium 114,,,2023-06-30 14:31:28,2023-06-30 14:31:29,1.128s,PASSED
+"setText(findTestObject(""Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d""), ""jnbhgvf"")",Edge Chromium 114,,,2023-06-30 14:31:29,2023-06-30 14:31:30,0.787s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d""))",Edge Chromium 114,,,2023-06-30 14:31:30,2023-06-30 14:31:30,0.426s,PASSED
+"setText(findTestObject(""Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-untouched n_322706""), ""8765"")",Edge Chromium 114,,,2023-06-30 14:31:30,2023-06-30 14:31:31,0.778s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Add Customer_1""))",Edge Chromium 114,,,2023-06-30 14:31:31,2023-06-30 14:31:31,0.432s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Open Account""))",Edge Chromium 114,,,2023-06-30 14:31:31,2023-06-30 14:31:32,0.446s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_XYZ Bank/select_---Customer Name---       Hermoine G_fc2164""), ""4"", true)",Edge Chromium 114,,,2023-06-30 14:31:32,2023-06-30 14:31:34,1.824s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_XYZ Bank/select_---Currency---       Dollar      Pou_e54511""), ""Pound"", true)",Edge Chromium 114,,,2023-06-30 14:31:34,2023-06-30 14:31:35,1.200s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Process""))",Edge Chromium 114,,,2023-06-30 14:31:35,2023-06-30 14:31:35,0.439s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Customers""))",Edge Chromium 114,,,2023-06-30 14:31:35,2023-06-30 14:31:35,0.229s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Delete""))",Edge Chromium 114,,,2023-06-30 14:31:35,2023-06-30 14:31:36,0.861s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Add Customer""))",Edge Chromium 114,,,2023-06-30 14:31:36,2023-06-30 14:31:37,0.634s,PASSED
+"setText(findTestObject(""Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51""), ""kjh"")",Edge Chromium 114,,,2023-06-30 14:31:37,2023-06-30 14:31:38,0.884s,PASSED
+"setText(findTestObject(""Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d""), ""hbgt"")",Edge Chromium 114,,,2023-06-30 14:31:38,2023-06-30 14:31:39,0.761s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d""))",Edge Chromium 114,,,2023-06-30 14:31:39,2023-06-30 14:31:39,0.423s,PASSED
+"setText(findTestObject(""Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-untouched n_322706""), ""gt"")",Edge Chromium 114,,,2023-06-30 14:31:39,2023-06-30 14:31:40,0.784s,PASSED
+"click(findTestObject(""Object Repository/Page_XYZ Bank/button_Add Customer_1""))",Edge Chromium 114,,,2023-06-30 14:31:40,2023-06-30 14:31:40,0.497s,PASSED
+closeBrowser(),Edge Chromium 114,,,2023-06-30 14:31:40,2023-06-30 14:31:41,1.077s,PASSED
