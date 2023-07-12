@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Ts1</name>
+   <name>LC</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>18c32cbd-76b0-4fe0-8508-e551a7abcb94</testSuiteGuid>
+   <testSuiteGuid>0be9631c-014e-40d2-8574-2a12c8290fdd</testSuiteGuid>
    <testCaseLink>
-      <guid>9c10fdf8-bec8-467a-9fc2-b8f30ad4e8ff</guid>
+      <guid>2c4d21db-634d-47ea-bc69-01b7ccc345f0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Doauto</testCaseId>
+      <testCaseId>Test Cases/LC/Searching</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7fd89181-abc0-4683-b280-35bf4a9c0009</guid>
+      <guid>8e238f71-b4fa-4948-b950-94279130a8cd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Example</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3b57b9bb-cedb-4224-b699-ef3c81c61395</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/manager</testCaseId>
+      <testCaseId>Test Cases/LC/Product detail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

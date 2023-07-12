@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:5173/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/productdetail/Page_Vite  React  TS/p_product'))
 
 WebUI.click(findTestObject('Object Repository/productdetail/Page_Vite  React  TS/button_22'))
