@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div[2]/div/a[2]/p</value>
+         <value>//p[(text() = 'product' or . = 'product')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>dec1d24f-951e-4201-970a-b3ba94b427d2</webElementGuid>
+      <webElementGuid>12d8b182-f7fb-47ca-b682-4a23d2d9187d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-text css-r547q5</value>
-      <webElementGuid>0eae007d-f9b6-4e8d-87d9-a3a085ee7d16</webElementGuid>
+      <webElementGuid>daf5623e-faa5-4480-b92b-c0595a9ddc75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>product</value>
-      <webElementGuid>9e24143a-d3d0-461f-bab5-4ebf559657a4</webElementGuid>
+      <webElementGuid>3d4cdc0c-03a6-4513-a405-f2f05cc01084</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-s90c9j&quot;]/div[@class=&quot;css-1n2mv2k&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1lf2fxr&quot;]/a[2]/p[@class=&quot;chakra-text css-r547q5&quot;]</value>
-      <webElementGuid>f368660d-722f-4212-8f33-89044c7883e8</webElementGuid>
+      <webElementGuid>3d54a654-b8e8-4cba-afdf-19f636f60182</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/a[2]/p</value>
-      <webElementGuid>f5e07399-d113-4bed-aa44-e5d720cbbff1</webElementGuid>
+      <webElementGuid>0d576b3b-d614-41f9-a410-a103e25f85c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='subscribe'])[1]/preceding::p[9]</value>
-      <webElementGuid>40a3d662-ea1b-4455-ae09-2cb6c68c8abc</webElementGuid>
+      <webElementGuid>97cdbb1e-6865-44c6-8adb-7e5b0786d4bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::p[22]</value>
-      <webElementGuid>d7c1ee5d-dec7-4948-99eb-fedc15e400a8</webElementGuid>
+      <webElementGuid>1b51c970-72ce-4a68-afd1-607379391016</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='product']/parent::*</value>
-      <webElementGuid>b4d08f30-0c54-4e42-880f-422341b1620a</webElementGuid>
+      <webElementGuid>5e019fe4-dc65-47a9-8381-b889056d47cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/p</value>
-      <webElementGuid>a01a7ae8-d480-451c-84c9-b1c019ada7c9</webElementGuid>
+      <webElementGuid>a5c25206-330e-44f0-aa60-9b97ee9df5da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'product' or . = 'product')]</value>
-      <webElementGuid>b315d4ba-a117-4d08-b1ae-670eba3de227</webElementGuid>
+      <webElementGuid>c6fee777-7a78-4539-9d4e-34fdbd41a453</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

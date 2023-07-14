@@ -1,0 +1,62 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LC,Chrome 114.0.0.0,,,2023-07-12 17:02:25,2023-07-12 17:04:24,1m - 58.660s,FAILED
+,,,,,,,
+Test Cases/LC/Searching,Chrome 114.0.0.0,,,2023-07-12 17:02:26,2023-07-12 17:04:19,1m - 53.807s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-12 17:02:26,2023-07-12 17:02:29,3.029s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-12 17:02:29,2023-07-12 17:02:30,0.897s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-12 17:02:30,2023-07-12 17:02:30,0.155s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_product (1)""))",Chrome 114.0.0.0,,,2023-07-12 17:02:30,2023-07-12 17:02:31,0.906s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:02:31,2023-07-12 17:02:36,5.041s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (3)""), ""Bún"")",Chrome 114.0.0.0,,,2023-07-12 17:02:36,2023-07-12 17:02:37,0.749s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_178a87 (1)""))",Chrome 114.0.0.0,,,2023-07-12 17:02:37,2023-07-12 17:02:37,0.403s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-12 17:02:37,2023-07-12 17:02:40,3.002s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/button_2 (1)""))",Chrome 114.0.0.0,,,2023-07-12 17:02:40,2023-07-12 17:02:42,1.762s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-12 17:02:42,2023-07-12 17:02:45,3.017s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/button_3 (1)""))",Chrome 114.0.0.0,,,2023-07-12 17:02:45,2023-07-12 17:02:46,0.765s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-12 17:02:46,2023-07-12 17:02:49,3.004s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-12 17:02:49,2023-07-12 17:02:52,3.008s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), ""Bánh Tráng 73"")",Chrome 114.0.0.0,,,2023-07-12 17:02:52,2023-07-12 17:02:53,0.758s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:02:53,2023-07-12 17:02:58,5.004s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-12 17:02:58,2023-07-12 17:02:59,1.159s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-12 17:02:59,2023-07-12 17:03:02,3.437s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/label_More than 800.000""))",Chrome 114.0.0.0,,,2023-07-12 17:03:02,2023-07-12 17:03:03,0.548s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), ""@#$%^&*()"")",Chrome 114.0.0.0,,,2023-07-12 17:03:03,2023-07-12 17:03:06,3.644s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:03:06,2023-07-12 17:03:11,5.011s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosSearchMessage""), ""There is no result found with keyword: @#$%^&*()"")",Chrome 114.0.0.0,,,2023-07-12 17:03:11,2023-07-12 17:03:12,0.380s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_ff2b61""))",Chrome 114.0.0.0,,,2023-07-12 17:03:12,2023-07-12 17:03:12,0.452s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-12 17:03:12,2023-07-12 17:03:13,0.431s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-12 17:03:13,2023-07-12 17:03:16,2.964s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/label_More than 800.000""))",Chrome 114.0.0.0,,,2023-07-12 17:03:16,2023-07-12 17:03:16,0.544s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_421523""))",Chrome 114.0.0.0,,,2023-07-12 17:03:16,2023-07-12 17:03:19,3.080s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_allKhMinhhonag""))",Chrome 114.0.0.0,,,2023-07-12 17:03:19,2023-07-12 17:03:20,0.492s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:03:20,2023-07-12 17:03:25,5.003s,PASSED
+"setText(findTestObject(""Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), "" 76543"")",Chrome 114.0.0.0,,,2023-07-12 17:03:25,2023-07-12 17:03:26,0.735s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:03:26,2023-07-12 17:03:31,5.005s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosSearchMessage""), ""There is no result found with keyword: 76543"")",Chrome 114.0.0.0,,,2023-07-12 17:03:31,2023-07-12 17:03:31,0.376s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-12 17:03:31,2023-07-12 17:03:31,0.423s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-12 17:03:31,2023-07-12 17:03:34,3.051s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-12 17:03:34,2023-07-12 17:03:35,0.492s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:03:35,2023-07-12 17:03:40,5.017s,PASSED
+"setText(findTestObject(""Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), "" Chung Cake is a traditional cake of Vietnam. The cake implies gratitude of later generations to their forefather and hometown. Ingredients of Chung Cake include sticky rice, green bean, pork, dong leaves, and other additional spices as salt and pepper. Chung Cake is often made on traditional Tet Holiday of Vietnamese people and Hung King Festival (on the 10th day of the third lunar month). Chung Cake has the oldest history in traditional Vietnam cuisine. It is mentioned regularly in historical documents. The traditional cake has a significant position in the heart of Vietnamese people. The cake originated from a legend relating to Lang Lieu Prince, son of the 6th Hung King. The legend recalls the next generation about the national tradition. It is also a meaningful explanation and origin "")",Chrome 114.0.0.0,,,2023-07-12 17:03:40,2023-07-12 17:03:42,1.805s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosTooMuchCharacter""), ""Too many characters, Enter major again"")",Chrome 114.0.0.0,,,2023-07-12 17:03:42,2023-07-12 17:03:44,2.087s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:03:44,2023-07-12 17:03:49,5.010s,PASSED
+"setText(findTestObject(""Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), "" Cá nục Lào"")",Chrome 114.0.0.0,,,2023-07-12 17:03:49,2023-07-12 17:03:50,0.747s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosSearchMessage""), ""There is no result found with keyword: Cá nục Lào"")",Chrome 114.0.0.0,,,2023-07-12 17:03:50,2023-07-12 17:03:54,4.843s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:03:54,2023-07-12 17:03:59,5.015s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx""), ""' or 1=1--"")",Chrome 114.0.0.0,,,2023-07-12 17:03:59,2023-07-12 17:04:00,0.772s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_178a87""))",Chrome 114.0.0.0,,,2023-07-12 17:04:00,2023-07-12 17:04:01,0.446s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:04:01,2023-07-12 17:04:06,5.003s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_There is no result found with keyword  or 11--""), ""There is no result found with keyword: ' or 1=1--"")",Chrome 114.0.0.0,,,2023-07-12 17:04:06,2023-07-12 17:04:06,0.373s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx""), ""<script>alert(""hihiihi"")</script>"")",Chrome 114.0.0.0,,,2023-07-12 17:04:06,2023-07-12 17:04:07,0.722s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_homeproductabout uscontact0Local specia_fa4591""))",Chrome 114.0.0.0,,,2023-07-12 17:04:07,2023-07-12 17:04:07,0.414s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:04:07,2023-07-12 17:04:12,5.018s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_Invalid searching keyword""), ""Invalid searching keyword"")",Chrome 114.0.0.0,,,2023-07-12 17:04:12,2023-07-12 17:04:13,0.360s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx""), ""b"")",Chrome 114.0.0.0,,,2023-07-12 17:04:13,2023-07-12 17:04:13,0.732s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-12 17:04:13,2023-07-12 17:04:18,5.010s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter""), ""Searching keyword should be more than 1 letter"")",Chrome 114.0.0.0,,,2023-07-12 17:04:18,2023-07-12 17:04:19,0.364s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-12 17:04:19,2023-07-12 17:04:19,0.780s,PASSED
+,,,,,,,
+Test Cases/LC/Product detail,Chrome 114.0.0.0,,,2023-07-12 17:04:19,2023-07-12 17:04:24,4.476s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-12 17:04:20,2023-07-12 17:04:21,1.637s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-12 17:04:21,2023-07-12 17:04:22,1.009s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-12 17:04:22,2023-07-12 17:04:24,1.466s,FAILED

@@ -1,0 +1,94 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LC,Chrome 114.0.0.0,,,2023-07-14 08:19:02,2023-07-14 08:21:37,2m - 35.248s,PASSED
+,,,,,,,
+Test Cases/LC/Searching,Chrome 114.0.0.0,,,2023-07-14 08:19:02,2023-07-14 08:20:53,1m - 51.288s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-14 08:19:02,2023-07-14 08:19:05,2.425s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-14 08:19:05,2023-07-14 08:19:06,0.788s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-14 08:19:06,2023-07-14 08:19:06,0.169s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_product (1)""))",Chrome 114.0.0.0,,,2023-07-14 08:19:06,2023-07-14 08:19:06,0.577s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:19:06,2023-07-14 08:19:11,5.031s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (3)""), ""Bún"")",Chrome 114.0.0.0,,,2023-07-14 08:19:11,2023-07-14 08:19:12,0.793s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_178a87 (1)""))",Chrome 114.0.0.0,,,2023-07-14 08:19:12,2023-07-14 08:19:13,0.412s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-14 08:19:13,2023-07-14 08:19:16,3.008s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/button_2 (1)""))",Chrome 114.0.0.0,,,2023-07-14 08:19:16,2023-07-14 08:19:17,1.551s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-14 08:19:17,2023-07-14 08:19:20,3.006s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/button_3 (1)""))",Chrome 114.0.0.0,,,2023-07-14 08:19:20,2023-07-14 08:19:21,0.997s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-14 08:19:21,2023-07-14 08:19:24,3.013s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-14 08:19:24,2023-07-14 08:19:27,3.017s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), ""Bánh Tráng 73"")",Chrome 114.0.0.0,,,2023-07-14 08:19:27,2023-07-14 08:19:28,0.797s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:19:28,2023-07-14 08:19:33,5.006s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-14 08:19:33,2023-07-14 08:19:33,0.466s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-14 08:19:33,2023-07-14 08:19:36,2.962s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/label_More than 800.000""))",Chrome 114.0.0.0,,,2023-07-14 08:19:36,2023-07-14 08:19:37,0.554s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), ""@#$%^&*()"")",Chrome 114.0.0.0,,,2023-07-14 08:19:37,2023-07-14 08:19:41,3.609s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:19:41,2023-07-14 08:19:46,5.016s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosSearchMessage""), ""There is no result found with keyword: @#$%^&*()"")",Chrome 114.0.0.0,,,2023-07-14 08:19:46,2023-07-14 08:19:46,0.380s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_ff2b61""))",Chrome 114.0.0.0,,,2023-07-14 08:19:46,2023-07-14 08:19:46,0.442s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-14 08:19:46,2023-07-14 08:19:47,0.477s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-14 08:19:47,2023-07-14 08:19:50,2.851s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/label_More than 800.000""))",Chrome 114.0.0.0,,,2023-07-14 08:19:50,2023-07-14 08:19:50,0.536s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_421523""))",Chrome 114.0.0.0,,,2023-07-14 08:19:50,2023-07-14 08:19:53,2.924s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_allKhMinhhonag""))",Chrome 114.0.0.0,,,2023-07-14 08:19:53,2023-07-14 08:19:54,0.475s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:19:54,2023-07-14 08:19:59,5.014s,PASSED
+"setText(findTestObject(""Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), "" 76543"")",Chrome 114.0.0.0,,,2023-07-14 08:19:59,2023-07-14 08:19:59,0.780s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:19:59,2023-07-14 08:20:05,5.017s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosSearchMessage""), ""There is no result found with keyword: 76543"")",Chrome 114.0.0.0,,,2023-07-14 08:20:05,2023-07-14 08:20:05,0.491s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-14 08:20:05,2023-07-14 08:20:05,0.448s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-14 08:20:05,2023-07-14 08:20:08,2.970s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/span_Filter_chakra-radio__control css-vtg3j9""))",Chrome 114.0.0.0,,,2023-07-14 08:20:08,2023-07-14 08:20:09,0.480s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:20:09,2023-07-14 08:20:14,5.018s,PASSED
+"setText(findTestObject(""Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), "" Chung Cake is a traditional cake of Vietnam. The cake implies gratitude of later generations to their forefather and hometown. Ingredients of Chung Cake include sticky rice, green bean, pork, dong leaves, and other additional spices as salt and pepper. Chung Cake is often made on traditional Tet Holiday of Vietnamese people and Hung King Festival (on the 10th day of the third lunar month). Chung Cake has the oldest history in traditional Vietnam cuisine. It is mentioned regularly in historical documents. The traditional cake has a significant position in the heart of Vietnamese people. The cake originated from a legend relating to Lang Lieu Prince, son of the 6th Hung King. The legend recalls the next generation about the national tradition. It is also a meaningful explanation and origin "")",Chrome 114.0.0.0,,,2023-07-14 08:20:14,2023-07-14 08:20:16,1.730s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosTooMuchCharacter""), ""Too many characters, Enter major again"")",Chrome 114.0.0.0,,,2023-07-14 08:20:16,2023-07-14 08:20:18,2.029s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:20:18,2023-07-14 08:20:23,5.008s,PASSED
+"setText(findTestObject(""Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (1)""), "" Cá nục Lào"")",Chrome 114.0.0.0,,,2023-07-14 08:20:23,2023-07-14 08:20:23,0.727s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/ErrosSearchMessage""), ""There is no result found with keyword: Cá nục Lào"")",Chrome 114.0.0.0,,,2023-07-14 08:20:23,2023-07-14 08:20:28,4.720s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:20:28,2023-07-14 08:20:33,5.016s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx""), ""' or 1=1--"")",Chrome 114.0.0.0,,,2023-07-14 08:20:33,2023-07-14 08:20:34,0.779s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_178a87""))",Chrome 114.0.0.0,,,2023-07-14 08:20:34,2023-07-14 08:20:34,0.406s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:20:34,2023-07-14 08:20:39,5.006s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_There is no result found with keyword  or 11--""), ""There is no result found with keyword: ' or 1=1--"")",Chrome 114.0.0.0,,,2023-07-14 08:20:39,2023-07-14 08:20:40,0.373s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx""), ""<script>alert(""hihiihi"")</script>"")",Chrome 114.0.0.0,,,2023-07-14 08:20:40,2023-07-14 08:20:41,0.809s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_homeproductabout uscontact0Local specia_fa4591""))",Chrome 114.0.0.0,,,2023-07-14 08:20:41,2023-07-14 08:20:41,0.429s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:20:41,2023-07-14 08:20:46,5.018s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_Invalid searching keyword""), ""Invalid searching keyword"")",Chrome 114.0.0.0,,,2023-07-14 08:20:46,2023-07-14 08:20:46,0.383s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx""), ""b"")",Chrome 114.0.0.0,,,2023-07-14 08:20:46,2023-07-14 08:20:47,0.723s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-14 08:20:47,2023-07-14 08:20:52,5.015s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter""), ""Searching keyword should be more than 1 letter"")",Chrome 114.0.0.0,,,2023-07-14 08:20:52,2023-07-14 08:20:52,0.352s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-14 08:20:52,2023-07-14 08:20:53,0.793s,PASSED
+,,,,,,,
+Test Cases/LC/Product detail,Chrome 114.0.0.0,,,2023-07-14 08:20:53,2023-07-14 08:21:37,43.649s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-14 08:20:54,2023-07-14 08:20:55,1.412s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-14 08:20:55,2023-07-14 08:20:56,0.649s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-14 08:20:56,2023-07-14 08:20:56,0.134s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-14 08:20:56,2023-07-14 08:20:56,0.441s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_22""))",Chrome 114.0.0.0,,,2023-07-14 08:20:56,2023-07-14 08:21:01,4.746s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/img_d_chakra-image css-lxd7e7""))",Chrome 114.0.0.0,,,2023-07-14 08:21:01,2023-07-14 08:21:05,3.569s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:05,2023-07-14 08:21:08,3.319s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:08,2023-07-14 08:21:08,0.411s,PASSED
+"doubleClick(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:08,2023-07-14 08:21:09,0.643s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:09,2023-07-14 08:21:09,0.521s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_Add to cart""))",Chrome 114.0.0.0,,,2023-07-14 08:21:09,2023-07-14 08:21:10,0.545s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_You item already in shopping cart""), 0)",Chrome 114.0.0.0,,,2023-07-14 08:21:10,2023-07-14 08:21:10,0.508s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Successfully""), 0)",Chrome 114.0.0.0,,,2023-07-14 08:21:10,2023-07-14 08:21:11,0.345s,PASSED
+"setText(findTestObject(""productdetail/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as""), ""1345678"")",Chrome 114.0.0.0,,,2023-07-14 08:21:11,2023-07-14 08:21:12,0.805s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_Buy now""))",Chrome 114.0.0.0,,,2023-07-14 08:21:12,2023-07-14 08:21:12,0.460s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/a_Gi ch bnh 29""))",Chrome 114.0.0.0,,,2023-07-14 08:21:12,2023-07-14 08:21:13,0.571s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_Reviews""))",Chrome 114.0.0.0,,,2023-07-14 08:21:13,2023-07-14 08:21:16,3.672s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-14 08:21:16,2023-07-14 08:21:17,0.614s,PASSED
+"setText(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx""), ""Bún"")",Chrome 114.0.0.0,,,2023-07-14 08:21:17,2023-07-14 08:21:21,4.214s,PASSED
+delay(4),Chrome 114.0.0.0,,,2023-07-14 08:21:21,2023-07-14 08:21:25,4.011s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b""))",Chrome 114.0.0.0,,,2023-07-14 08:21:25,2023-07-14 08:21:26,0.779s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/img_Filter_chakra-image css-lxd7e7""))",Chrome 114.0.0.0,,,2023-07-14 08:21:26,2023-07-14 08:21:26,0.436s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:26,2023-07-14 08:21:30,3.584s,PASSED
+"doubleClick(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:30,2023-07-14 08:21:30,0.490s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:30,2023-07-14 08:21:31,0.406s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-14 08:21:31,2023-07-14 08:21:31,0.383s,PASSED
+"setText(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as""), ""1345678"")",Chrome 114.0.0.0,,,2023-07-14 08:21:31,2023-07-14 08:21:32,0.758s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_Add to cart""))",Chrome 114.0.0.0,,,2023-07-14 08:21:32,2023-07-14 08:21:32,0.443s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/p_Show more""))",Chrome 114.0.0.0,,,2023-07-14 08:21:32,2023-07-14 08:21:33,0.551s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/p_Show less""))",Chrome 114.0.0.0,,,2023-07-14 08:21:33,2023-07-14 08:21:34,0.527s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_Reviews_1""))",Chrome 114.0.0.0,,,2023-07-14 08:21:34,2023-07-14 08:21:34,0.496s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_Description""))",Chrome 114.0.0.0,,,2023-07-14 08:21:34,2023-07-14 08:21:35,0.488s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_Buy now""))",Chrome 114.0.0.0,,,2023-07-14 08:21:35,2023-07-14 08:21:35,0.540s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-14 08:21:35,2023-07-14 08:21:36,0.708s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-14 08:21:36,2023-07-14 08:21:37,1.114s,PASSED
