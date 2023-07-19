@@ -1,0 +1,116 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LC,Chrome 114.0.0.0,,,2023-07-18 09:50:44,2023-07-18 09:53:33,2m - 49.231s,PASSED
+,,,,,,,
+Test Cases/LC/Cart,Chrome 114.0.0.0,,,2023-07-18 09:50:44,2023-07-18 09:52:00,1m - 15.727s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 09:50:45,2023-07-18 09:50:48,2.954s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-18 09:50:48,2023-07-18 09:50:49,1.198s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-18 09:50:49,2023-07-18 09:50:49,0.203s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-18 09:50:49,2023-07-18 09:50:50,0.794s,PASSED
+"setText(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""Bún"")",Chrome 114.0.0.0,,,2023-07-18 09:50:50,2023-07-18 09:50:57,6.496s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7""))",Chrome 114.0.0.0,,,2023-07-18 09:50:57,2023-07-18 09:51:01,4.195s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_Show more""))",Chrome 114.0.0.0,,,2023-07-18 09:51:01,2023-07-18 09:51:05,4.278s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d""))",Chrome 114.0.0.0,,,2023-07-18 09:51:05,2023-07-18 09:51:06,0.490s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_Show less""))",Chrome 114.0.0.0,,,2023-07-18 09:51:06,2023-07-18 09:51:06,0.390s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq""))",Chrome 114.0.0.0,,,2023-07-18 09:51:06,2023-07-18 09:51:07,0.515s,PASSED
+"setText(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as""), ""2345678"")",Chrome 114.0.0.0,,,2023-07-18 09:51:07,2023-07-18 09:51:07,0.925s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Add to cart""))",Chrome 114.0.0.0,,,2023-07-18 09:51:07,2023-07-18 09:51:08,0.483s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart""), 0)",Chrome 114.0.0.0,,,2023-07-18 09:51:08,2023-07-18 09:51:08,0.444s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Successfully""), 0)",Chrome 114.0.0.0,,,2023-07-18 09:51:08,2023-07-18 09:51:09,0.353s,PASSED
+"doubleClick(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:09,2023-07-18 09:51:09,0.712s,PASSED
+"doubleClick(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:09,2023-07-18 09:51:10,0.867s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:10,2023-07-18 09:51:11,0.473s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:11,2023-07-18 09:51:11,0.459s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:11,2023-07-18 09:51:12,0.370s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:12,2023-07-18 09:51:12,0.374s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:12,2023-07-18 09:51:13,0.474s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:51:13,2023-07-18 09:51:13,0.499s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Reviews""))",Chrome 114.0.0.0,,,2023-07-18 09:51:13,2023-07-18 09:51:14,0.528s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Description""))",Chrome 114.0.0.0,,,2023-07-18 09:51:14,2023-07-18 09:51:14,0.624s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Add to cart""))",Chrome 114.0.0.0,,,2023-07-18 09:51:14,2023-07-18 09:51:15,0.607s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk""))",Chrome 114.0.0.0,,,2023-07-18 09:51:15,2023-07-18 09:51:15,0.589s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8""))",Chrome 114.0.0.0,,,2023-07-18 09:51:15,2023-07-18 09:51:16,0.562s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Cancel""))",Chrome 114.0.0.0,,,2023-07-18 09:51:16,2023-07-18 09:51:16,0.527s,PASSED
+"setText(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh""), ""blackfriday"")",Chrome 114.0.0.0,,,2023-07-18 09:51:16,2023-07-18 09:51:18,1.188s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_apply""))",Chrome 114.0.0.0,,,2023-07-18 09:51:18,2023-07-18 09:51:18,0.414s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_- 1""))",Chrome 114.0.0.0,,,2023-07-18 09:51:18,2023-07-18 09:51:23,4.834s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi""))",Chrome 114.0.0.0,,,2023-07-18 09:51:23,2023-07-18 09:51:23,0.428s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8""))",Chrome 114.0.0.0,,,2023-07-18 09:51:23,2023-07-18 09:51:24,0.492s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Yes""))",Chrome 114.0.0.0,,,2023-07-18 09:51:24,2023-07-18 09:51:24,0.561s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_OK""))",Chrome 114.0.0.0,,,2023-07-18 09:51:24,2023-07-18 09:51:25,0.576s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Back to shop""))",Chrome 114.0.0.0,,,2023-07-18 09:51:25,2023-07-18 09:51:26,1.211s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Buy now""))",Chrome 114.0.0.0,,,2023-07-18 09:51:26,2023-07-18 09:51:30,3.715s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout""))",Chrome 114.0.0.0,,,2023-07-18 09:51:30,2023-07-18 09:51:30,0.432s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_23""))",Chrome 114.0.0.0,,,2023-07-18 09:51:30,2023-07-18 09:51:34,3.766s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh""), ""15"", true)",Chrome 114.0.0.0,,,2023-07-18 09:51:34,2023-07-18 09:51:38,3.971s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7""))",Chrome 114.0.0.0,,,2023-07-18 09:51:38,2023-07-18 09:51:42,3.639s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Buy now""))",Chrome 114.0.0.0,,,2023-07-18 09:51:42,2023-07-18 09:51:45,3.633s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout""))",Chrome 114.0.0.0,,,2023-07-18 09:51:45,2023-07-18 09:51:46,0.510s,PASSED
+"setText(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh""), ""eetyu"")",Chrome 114.0.0.0,,,2023-07-18 09:51:46,2023-07-18 09:51:47,0.762s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_apply""))",Chrome 114.0.0.0,,,2023-07-18 09:51:47,2023-07-18 09:51:47,0.406s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid""), 0)",Chrome 114.0.0.0,,,2023-07-18 09:51:47,2023-07-18 09:51:51,3.626s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25""))",Chrome 114.0.0.0,,,2023-07-18 09:51:51,2023-07-18 09:51:51,0.388s,PASSED
+"setText(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh""), ""tyuioghjkl"")",Chrome 114.0.0.0,,,2023-07-18 09:51:51,2023-07-18 09:51:52,1.080s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25""))",Chrome 114.0.0.0,,,2023-07-18 09:51:52,2023-07-18 09:51:52,0.405s,PASSED
+"setText(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh""), ""blackfriday"")",Chrome 114.0.0.0,,,2023-07-18 09:51:52,2023-07-18 09:51:53,0.816s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_apply""))",Chrome 114.0.0.0,,,2023-07-18 09:51:53,2023-07-18 09:51:54,0.389s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart""))",Chrome 114.0.0.0,,,2023-07-18 09:51:54,2023-07-18 09:51:58,4.654s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_Yes""))",Chrome 114.0.0.0,,,2023-07-18 09:51:58,2023-07-18 09:51:59,0.520s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/button_OK""))",Chrome 114.0.0.0,,,2023-07-18 09:51:59,2023-07-18 09:51:59,0.547s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-18 09:51:59,2023-07-18 09:52:00,0.814s,PASSED
+,,,,,,,
+Test Cases/LC/Filter,Chrome 114.0.0.0,,,2023-07-18 09:52:00,2023-07-18 09:52:36,36.097s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 09:52:01,2023-07-18 09:52:02,1.618s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-18 09:52:02,2023-07-18 09:52:03,0.955s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-18 09:52:03,2023-07-18 09:52:03,0.173s,PASSED
+"click(findTestObject(""Filter/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-18 09:52:03,2023-07-18 09:52:04,0.530s,PASSED
+delay(8),Chrome 114.0.0.0,,,2023-07-18 09:52:04,2023-07-18 09:52:12,8.050s,PASSED
+"dragAndDropToObject(findTestObject(""Filter/Page_Vite  React  TS/div_by price_example-track example-track-1""), findTestObject(""Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active""))",Chrome 114.0.0.0,,,2023-07-18 09:52:12,2023-07-18 09:52:14,1.641s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)""), ""20"", true)",Chrome 114.0.0.0,,,2023-07-18 09:52:14,2023-07-18 09:52:18,4.507s,PASSED
+delay(8),Chrome 114.0.0.0,,,2023-07-18 09:52:18,2023-07-18 09:52:26,8.009s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Filter/Page_Vite  React  TS/p_There is no result found""), ""There is no result found"")",Chrome 114.0.0.0,,,2023-07-18 09:52:26,2023-07-18 09:52:26,0.359s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)""), ""15"", true)",Chrome 114.0.0.0,,,2023-07-18 09:52:26,2023-07-18 09:52:28,1.100s,PASSED
+delay(8),Chrome 114.0.0.0,,,2023-07-18 09:52:28,2023-07-18 09:52:36,8.005s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-18 09:52:36,2023-07-18 09:52:36,0.738s,PASSED
+,,,,,,,
+Test Cases/LC/Searching,Chrome 114.0.0.0,,,2023-07-18 09:52:36,2023-07-18 09:53:33,57.029s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-18 09:52:37,2023-07-18 09:52:38,1.536s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-18 09:52:38,2023-07-18 09:52:39,1.018s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-18 09:52:39,2023-07-18 09:52:39,0.167s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-18 09:52:39,2023-07-18 09:52:40,0.507s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""Bún"")",Chrome 114.0.0.0,,,2023-07-18 09:52:40,2023-07-18 09:52:45,4.568s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5""))",Chrome 114.0.0.0,,,2023-07-18 09:52:45,2023-07-18 09:52:45,0.877s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7""))",Chrome 114.0.0.0,,,2023-07-18 09:52:45,2023-07-18 09:52:49,3.293s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/button_Reviews""))",Chrome 114.0.0.0,,,2023-07-18 09:52:49,2023-07-18 09:52:53,3.881s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/button_Description""))",Chrome 114.0.0.0,,,2023-07-18 09:52:53,2023-07-18 09:52:53,0.521s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/button_Reviews""))",Chrome 114.0.0.0,,,2023-07-18 09:52:53,2023-07-18 09:52:54,0.494s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:52:54,2023-07-18 09:52:54,0.513s,PASSED
+"doubleClick(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:52:54,2023-07-18 09:52:55,0.473s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:52:55,2023-07-18 09:52:55,0.369s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next""))",Chrome 114.0.0.0,,,2023-07-18 09:52:55,2023-07-18 09:52:55,0.383s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_Show more""))",Chrome 114.0.0.0,,,2023-07-18 09:52:55,2023-07-18 09:52:56,0.481s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_Show less""))",Chrome 114.0.0.0,,,2023-07-18 09:52:56,2023-07-18 09:52:56,0.538s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc""))",Chrome 114.0.0.0,,,2023-07-18 09:52:56,2023-07-18 09:52:57,0.578s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as""), ""23456789"")",Chrome 114.0.0.0,,,2023-07-18 09:52:57,2023-07-18 09:52:58,0.907s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/button_Add to cart""))",Chrome 114.0.0.0,,,2023-07-18 09:52:58,2023-07-18 09:52:58,0.495s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart""), 0)",Chrome 114.0.0.0,,,2023-07-18 09:52:58,2023-07-18 09:52:59,0.479s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Successfully""), 0)",Chrome 114.0.0.0,,,2023-07-18 09:52:59,2023-07-18 09:52:59,0.391s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-18 09:52:59,2023-07-18 09:53:00,0.966s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""Bánh tráng 73"")",Chrome 114.0.0.0,,,2023-07-18 09:53:00,2023-07-18 09:53:06,5.761s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword Bnh_3d0075""), ""There is no result found with keyword: Bánh tráng 73"")",Chrome 114.0.0.0,,,2023-07-18 09:53:06,2023-07-18 09:53:10,4.027s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_The best offer that we offer to the wor_ba291f""))",Chrome 114.0.0.0,,,2023-07-18 09:53:10,2023-07-18 09:53:10,0.409s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""@#$%^&*()"")",Chrome 114.0.0.0,,,2023-07-18 09:53:10,2023-07-18 09:53:11,0.765s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5""))",Chrome 114.0.0.0,,,2023-07-18 09:53:11,2023-07-18 09:53:12,0.841s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword ()""), ""There is no result found with keyword: @#$%^&*()"")",Chrome 114.0.0.0,,,2023-07-18 09:53:12,2023-07-18 09:53:15,3.084s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""34567890"")",Chrome 114.0.0.0,,,2023-07-18 09:53:15,2023-07-18 09:53:16,0.749s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword 34567890""), ""There is no result found with keyword: 34567890"")",Chrome 114.0.0.0,,,2023-07-18 09:53:16,2023-07-18 09:53:20,3.940s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_e97193""))",Chrome 114.0.0.0,,,2023-07-18 09:53:20,2023-07-18 09:53:20,0.386s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), "" Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water. Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water."")",Chrome 114.0.0.0,,,2023-07-18 09:53:20,2023-07-18 09:53:24,3.809s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_Too many characters, Enter major again""), ""Too many characters, Enter major again"")",Chrome 114.0.0.0,,,2023-07-18 09:53:24,2023-07-18 09:53:25,0.796s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""' or 1=1--"")",Chrome 114.0.0.0,,,2023-07-18 09:53:25,2023-07-18 09:53:26,0.775s,PASSED
+"click(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b""))",Chrome 114.0.0.0,,,2023-07-18 09:53:26,2023-07-18 09:53:26,0.838s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword  or 11--""), ""There is no result found with keyword: ' or 1=1--"")",Chrome 114.0.0.0,,,2023-07-18 09:53:26,2023-07-18 09:53:30,3.471s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""<script>alert(""hihiihi"")</script>"")",Chrome 114.0.0.0,,,2023-07-18 09:53:30,2023-07-18 09:53:31,0.801s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_Invalid searching keyword""), ""Invalid searching keyword"")",Chrome 114.0.0.0,,,2023-07-18 09:53:31,2023-07-18 09:53:31,0.358s,PASSED
+"setText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""b"")",Chrome 114.0.0.0,,,2023-07-18 09:53:31,2023-07-18 09:53:32,0.826s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Searching/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter""), ""Searching keyword should be more than 1 letter"")",Chrome 114.0.0.0,,,2023-07-18 09:53:32,2023-07-18 09:53:33,0.788s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-18 09:53:33,2023-07-18 09:53:33,0.746s,PASSED

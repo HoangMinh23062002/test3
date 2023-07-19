@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_allKhMinhhonag</name>
+   <tag></tag>
+   <elementGuidId>2d35d2ec-3e4e-4870-ac76-2c3aa0c2b1fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.chakra-select.css-9kisol</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[3]/div/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ddf00fd3-a64e-429b-8bbe-3d3254963649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-9kisol</value>
+      <webElementGuid>32bc0f99-29ac-4186-abcc-26b32cb7c8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>allKhôMinhhonag</value>
+      <webElementGuid>0daf52a5-bf6e-4061-8b8f-de7deb9ac9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-cv59qw&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-c7pnka&quot;]/div[@class=&quot;chakra-select__wrapper css-42b2qy&quot;]/select[@class=&quot;chakra-select css-9kisol&quot;]</value>
+      <webElementGuid>e6d9e165-a839-4dd6-a1dc-4304ba2e5510</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[3]/div/div[2]/div/select</value>
+      <webElementGuid>4f2f2434-4618-4dbe-8910-ccb6508f073e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='by category'])[1]/following::select[1]</value>
+      <webElementGuid>6be64b22-5002-4608-be55-81d1aff9f169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='by price'])[1]/following::select[1]</value>
+      <webElementGuid>cd0514c3-c38a-4ff1-a78a-bb5dfd082baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aaaaa Minh MInh Minh'])[1]/preceding::select[1]</value>
+      <webElementGuid>7472405f-6238-4b90-88ac-9ecc3a4da589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banh dau Xanh'])[1]/preceding::select[1]</value>
+      <webElementGuid>b502e9d3-eeef-465f-afeb-84dc4d835b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>d9acdc04-9dd8-4423-869e-cbf9883fd473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'allKhôMinhhonag' or . = 'allKhôMinhhonag')]</value>
+      <webElementGuid>68dc5fda-efdc-4900-bfb4-f634e1c39d90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

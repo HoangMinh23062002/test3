@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your Coupon is applied successfully (1)</name>
+   <tag></tag>
+   <elementGuidId>9e53ee3b-319f-48e8-ba98-13b4f56aa720</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'toast-10-description' and (text() = 'Your Coupon is applied successfully' or . = 'Your Coupon is applied successfully')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#toast-10-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be72e250-10b7-4ea4-a2ed-0dd521690101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-status</name>
+      <type>Main</type>
+      <value>success</value>
+      <webElementGuid>47e1cc92-1eec-4a6b-90e9-4d2dc4203067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>toast-10-description</value>
+      <webElementGuid>c42c4d0c-d893-4266-b1de-1dfccb217295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-alert__desc css-161kwbg</value>
+      <webElementGuid>f4d86a80-cd2d-4f25-afc5-f416866a730e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Coupon is applied successfully</value>
+      <webElementGuid>f8b871ba-8c7a-40d5-b80b-ec10d14ba548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-10-description&quot;)</value>
+      <webElementGuid>697a8c8e-0bad-4211-bb15-83264bb52693</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='toast-10-description']</value>
+      <webElementGuid>cfbd6216-2244-4f62-ab10-b51d000fa822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-10']/div/div[2]</value>
+      <webElementGuid>8b28fb91-293c-4dd8-9096-753a778fee94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successfully'])[1]/following::div[1]</value>
+      <webElementGuid>93861939-99f8-42db-bdb9-e867ca47b720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open React Query Devtools'])[1]/following::div[8]</value>
+      <webElementGuid>91c91d66-15de-4032-8fbf-9915652896df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'toast-10-description', '&quot;', ')')])[1]/preceding::div[6]</value>
+      <webElementGuid>6766dcca-bb29-4a2e-9cf0-89048ceedd21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your Coupon is applied successfully']/parent::*</value>
+      <webElementGuid>5e5775ac-c345-4759-b969-9f0c9463d93b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>17ab0794-748a-44d8-9222-9da6b30f2956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'toast-10-description' and (text() = 'Your Coupon is applied successfully' or . = 'Your Coupon is applied successfully')]</value>
+      <webElementGuid>13a94275-e03e-434e-a998-0c9663280a35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Banh khoai deo_chakra-image css-lxd7e7</name>
+   <tag></tag>
+   <elementGuidId>b083ec07-579b-4bd1-ace3-83217d48fd81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[3]/div[2]/div/div[5]/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.chakra-image.css-lxd7e7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>10b2cdcf-1e61-43e5-9ee7-89d65e86c26f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://localhost/wordpress/wp-content/uploads/woocommerce-placeholder.png</value>
+      <webElementGuid>e0b6843a-dd39-4793-b436-75e21eafcf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-image css-lxd7e7</value>
+      <webElementGuid>45fda802-67e2-4c9a-9d04-d966e4c4d7c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-cv59qw&quot;]/div[@class=&quot;css-yyiqbu&quot;]/div[@class=&quot;css-1w2pp6y&quot;]/div[@class=&quot;chakra-card css-e5f81e&quot;]/a[1]/div[@class=&quot;chakra-card__body css-ao8dev&quot;]/img[@class=&quot;chakra-image css-lxd7e7&quot;]</value>
+      <webElementGuid>a684c675-cfaa-4ec9-84c3-1b22b448b400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[3]/div[2]/div/div[5]/a/div/img</value>
+      <webElementGuid>e0730341-475a-4cf2-8efa-896c91eb0503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'http://localhost/wordpress/wp-content/uploads/woocommerce-placeholder.png')])[5]</value>
+      <webElementGuid>6d7d938d-3d73-48f3-a3c2-a78827633498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/div/img</value>
+      <webElementGuid>2c21502c-bcd6-476e-bc5e-b0d32088958a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://localhost/wordpress/wp-content/uploads/woocommerce-placeholder.png']</value>
+      <webElementGuid>b4b8dfbc-217e-4c2c-a531-e16af58cc775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

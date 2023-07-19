@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Local specialtys areasThe best offer th_e97193</name>
+   <tag></tag>
+   <elementGuidId>5894a85a-a25f-4fb5-aee2-a846b0bef492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-j74872</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9331d590-8a8b-4518-a505-cfb2f3db9ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-j74872</value>
+      <webElementGuid>5b37ea54-dc28-4229-b22a-1a665b22d25f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Local specialty's areasThe best offer that we offer to the worldFilterby price0 ₫ - 6.000.000 ₫ by categoryallKhôMinhhonagThere is no result found with keyword: 34567890</value>
+      <webElementGuid>8e5633f8-fe3a-4f25-a024-e9523176e351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]</value>
+      <webElementGuid>ab9e96c2-7604-4dc2-a540-a87f6225194d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div</value>
+      <webElementGuid>59577789-4cf6-4f35-9399-ced0d4b1fca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>070451f0-7329-436e-9625-58206124aa7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Local specialty&quot; , &quot;'&quot; , &quot;s areasThe best offer that we offer to the worldFilterby price0 ₫ - 6.000.000 ₫ by categoryallKhôMinhhonagThere is no result found with keyword: 34567890&quot;) or . = concat(&quot;Local specialty&quot; , &quot;'&quot; , &quot;s areasThe best offer that we offer to the worldFilterby price0 ₫ - 6.000.000 ₫ by categoryallKhôMinhhonagThere is no result found with keyword: 34567890&quot;))]</value>
+      <webElementGuid>08e2a0e8-9f76-4627-995e-12ba1ac4b55f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

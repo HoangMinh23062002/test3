@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Local specialtys areasThe best offer th_96ccf5</name>
+   <tag></tag>
+   <elementGuidId>db474348-98d8-4df0-b1d6-a5041cf4269c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-j74872</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b2d4ac1-4a03-4b8c-a3c0-283db305e3b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-j74872</value>
+      <webElementGuid>4d3697d3-dcf7-457c-bd6b-15a19d519ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Local specialty's areasThe best offer that we offer to the worldFilterby price0 ₫ - 6.000.000 ₫ by categoryallKhôMinhhonag</value>
+      <webElementGuid>2ede4063-146f-41f0-ac75-2f7b51a6140b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]</value>
+      <webElementGuid>08f2a733-2a82-4d2c-9ec7-0ea25cab06de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div</value>
+      <webElementGuid>63be5809-14fb-40b5-bbe8-2c2db8cdec61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>a6a252e8-bdac-4eef-a13b-f9c012225db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Local specialty&quot; , &quot;'&quot; , &quot;s areasThe best offer that we offer to the worldFilterby price0 ₫ - 6.000.000 ₫ by categoryallKhôMinhhonag&quot;) or . = concat(&quot;Local specialty&quot; , &quot;'&quot; , &quot;s areasThe best offer that we offer to the worldFilterby price0 ₫ - 6.000.000 ₫ by categoryallKhôMinhhonag&quot;))]</value>
+      <webElementGuid>bdc39859-6f10-48ec-8c8f-1adffc3b4f2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

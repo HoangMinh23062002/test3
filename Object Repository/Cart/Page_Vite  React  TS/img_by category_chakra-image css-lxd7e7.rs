@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_by category_chakra-image css-lxd7e7</name>
+   <tag></tag>
+   <elementGuidId>48c02be9-0e79-4c29-ab4f-a3863bc3d63c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[3]/div[2]/div/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.chakra-image.css-lxd7e7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f26726af-72e2-4664-bd8e-ac59a753a5ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://localhost/wordpress/wp-content/uploads/2023/06/iphone-14-5g-smartphone-256gb-lilla-pdp_zoom-3000-pdp_main-540-388.jpg</value>
+      <webElementGuid>9ff2c1e8-a64e-4f8b-bdc5-e4b0f6697691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-image css-lxd7e7</value>
+      <webElementGuid>c69d2f62-73ad-4673-8a2a-36afb7e35ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-cv59qw&quot;]/div[@class=&quot;css-yyiqbu&quot;]/div[@class=&quot;css-1w2pp6y&quot;]/div[@class=&quot;chakra-card css-e5f81e&quot;]/a[1]/div[@class=&quot;chakra-card__body css-ao8dev&quot;]/img[@class=&quot;chakra-image css-lxd7e7&quot;]</value>
+      <webElementGuid>809a9d3e-1e20-4fdd-a96a-1bb80dd3c0ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[3]/div[2]/div/div/a/div/img</value>
+      <webElementGuid>7e0479b6-c994-4d8a-9017-b7dedc88f786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'http://localhost/wordpress/wp-content/uploads/2023/06/iphone-14-5g-smartphone-256gb-lilla-pdp_zoom-3000-pdp_main-540-388.jpg')]</value>
+      <webElementGuid>4c0ea680-38ca-49be-a8c4-e724c70bda43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div/img</value>
+      <webElementGuid>05fab638-b741-4c0c-8d9b-ae716b626445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://localhost/wordpress/wp-content/uploads/2023/06/iphone-14-5g-smartphone-256gb-lilla-pdp_zoom-3000-pdp_main-540-388.jpg']</value>
+      <webElementGuid>5121b297-1683-4026-887b-cdde40bb0aaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

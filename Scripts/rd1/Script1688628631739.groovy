@@ -21,20 +21,20 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:5173/')
 
-WebUI.click(findTestObject('Object Repository/rd1/Page_Vite  React  TS/p_product'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/rd1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx'), 'ERTYUIOP#$%^&*()')
+WebUI.setText(findTestObject('null'), 'ERTYUIOP#$%^&*()')
 
-WebUI.click(findTestObject('Object Repository/rd1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_c2ee17'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/rd1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx'), 'sdfghertyudfghjdfghjkl')
+WebUI.setText(findTestObject('null'), 'sdfghertyudfghjdfghjkl')
 
-WebUI.click(findTestObject('Object Repository/rd1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_3515a7'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/rd1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx'), '876543')
+WebUI.setText(findTestObject('null'), '876543')
 
-WebUI.click(findTestObject('Object Repository/rd1/Page_Vite  React  TS/div_allMinhhonag'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/rd1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx'), 'jhgdttghrdhtrthyfg')
+WebUI.setText(findTestObject('null'), 'jhgdttghrdhtrthyfg')
 
 WebUI.closeBrowser()

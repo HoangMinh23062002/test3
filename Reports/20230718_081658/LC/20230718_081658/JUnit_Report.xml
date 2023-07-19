@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LC" time="170.334" tests="3" failures="0" errors="0">
+   <testsuite name="LC" tests="3" failures="0" errors="0" time="170.334" skipped="0" timestamp="2023-07-18 08:17:08" hostname="htminh - host.docker.internal" id="Test Suites/LC">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230718_081658\\LC\\20230718_081658"/>
+         <property name="logFiles" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230718_081658\\LC\\20230718_081658\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="htminh - host.docker.internal"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.79.183"/>
+         <property name="sessionId" value="f8c532f55112623dbb553386b8bc44e1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LC/Cart" time="80.959" classname="Test Cases/LC/Cart" status="PASSED">
+         <system-out><![CDATA[2023-07-18 08:17:08 - [TEST_CASE][PASSED] - Test Cases/LC/Cart: Test Cases/LC/Cart
+
+2023-07-18 08:17:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-18 08:17:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-18 08:17:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-18 08:17:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-18 08:17:11 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-18 08:17:12 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-18 08:17:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-18 08:17:13 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-18 08:17:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:17:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:17:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bún"): Text 'Bún' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:17:26 - [MESSAGE][PASSED] - Text 'Bún' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:17:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7")): Object: 'Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-18 08:17:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-18 08:17:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Show more")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-18 08:17:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-18 08:17:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d' is clicked on
+
+2023-07-18 08:17:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d' is clicked on
+
+2023-07-18 08:17:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Show less")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-18 08:17:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-18 08:17:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq' is clicked on
+
+2023-07-18 08:17:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq' is clicked on
+
+2023-07-18 08:17:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as"), "2345678"): Text '2345678' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-18 08:17:39 - [MESSAGE][PASSED] - Text '2345678' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-18 08:17:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-18 08:17:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-18 08:17:39 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-18 08:17:39 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-18 08:17:40 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-18 08:17:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Successfully"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-18 08:17:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-18 08:17:40 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-18 08:17:40 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-18 08:17:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-18 08:17:41 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-18 08:17:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-18 08:17:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:17:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-18 08:17:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-18 08:17:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Description")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-18 08:17:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-18 08:17:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-18 08:17:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-18 08:17:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk")): Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk' is clicked on
+
+2023-07-18 08:17:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk' is clicked on
+
+2023-07-18 08:17:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-18 08:17:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-18 08:17:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Cancel")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Cancel' is clicked on
+
+2023-07-18 08:17:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Cancel' is clicked on
+
+2023-07-18 08:17:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "blackfriday"): Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:17:48 - [MESSAGE][PASSED] - Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:17:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-18 08:17:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-18 08:17:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_- 1")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_- 1' is clicked on
+
+2023-07-18 08:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_- 1' is clicked on
+
+2023-07-18 08:17:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi")): Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi' is clicked on
+
+2023-07-18 08:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi' is clicked on
+
+2023-07-18 08:17:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-18 08:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-18 08:17:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Yes")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-18 08:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-18 08:17:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_OK")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-18 08:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-18 08:17:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Back to shop")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Back to shop' is clicked on
+
+2023-07-18 08:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Back to shop' is clicked on
+
+2023-07-18 08:17:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Buy now")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-18 08:18:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-18 08:18:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-18 08:18:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-18 08:18:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_23")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_23' is clicked on
+
+2023-07-18 08:18:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_23' is clicked on
+
+2023-07-18 08:18:04 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh"), "15", true): All options with value '15' are selected in object 'Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-18 08:18:08 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-18 08:18:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7")): Object: 'Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7' is clicked on
+
+2023-07-18 08:18:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7' is clicked on
+
+2023-07-18 08:18:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Buy now")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-18 08:18:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-18 08:18:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-18 08:18:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-18 08:18:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "eetyu"): Text 'eetyu' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:18:16 - [MESSAGE][PASSED] - Text 'eetyu' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:18:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-18 08:18:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-18 08:18:17 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid' is present
+
+2023-07-18 08:18:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-18 08:18:20 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid' is present
+
+2023-07-18 08:18:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-18 08:18:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-18 08:18:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "tyuioghjkl"): Text 'tyuioghjkl' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:18:22 - [MESSAGE][PASSED] - Text 'tyuioghjkl' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:18:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-18 08:18:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-18 08:18:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "blackfriday"): Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:18:23 - [MESSAGE][PASSED] - Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-18 08:18:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-18 08:18:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-18 08:18:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart' is clicked on
+
+2023-07-18 08:18:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart' is clicked on
+
+2023-07-18 08:18:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Yes")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-18 08:18:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-18 08:18:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_OK")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-18 08:18:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-18 08:18:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-18 08:18:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/Filter" time="35.611" classname="Test Cases/LC/Filter" status="PASSED">
+         <system-out><![CDATA[2023-07-18 08:18:29 - [TEST_CASE][PASSED] - Test Cases/LC/Filter: Test Cases/LC/Filter
+
+2023-07-18 08:18:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-18 08:18:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-18 08:18:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-18 08:18:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-18 08:18:31 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-18 08:18:32 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-18 08:18:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-18 08:18:32 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-18 08:18:32 - [TEST_STEP][PASSED] - click(findTestObject("Filter/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Filter/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:18:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Filter/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:18:32 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-18 08:18:41 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-18 08:18:41 - [TEST_STEP][PASSED] - dragAndDropToObject(findTestObject("Filter/Page_Vite  React  TS/div_by price_example-track example-track-1"), findTestObject("Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active")): Dragged object with id 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-track example-track-1' to object with id 'TestObject - 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active'' successfully
+
+2023-07-18 08:18:42 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-track example-track-1' to object with id 'TestObject - 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active'' successfully
+
+2023-07-18 08:18:42 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)"), "20", true): All options with value '20' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-18 08:18:46 - [MESSAGE][PASSED] - All options with value '20' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-18 08:18:46 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-18 08:18:54 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-18 08:18:54 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Filter/Page_Vite  React  TS/p_There is no result found"), "There is no result found"): Actual text and expected text of test object 'Object Repository/Filter/Page_Vite  React  TS/p_There is no result found' are matched.
+
+2023-07-18 08:18:55 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Filter/Page_Vite  React  TS/p_There is no result found' are matched.
+
+2023-07-18 08:18:55 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)"), "15", true): All options with value '15' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-18 08:18:56 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-18 08:18:56 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-18 08:19:04 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-18 08:19:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-18 08:19:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/Searching" time="53.42" classname="Test Cases/LC/Searching" status="PASSED">
+         <system-out><![CDATA[2023-07-18 08:19:05 - [TEST_CASE][PASSED] - Test Cases/LC/Searching: Test Cases/LC/Searching
+
+2023-07-18 08:19:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-18 08:19:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-18 08:19:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-18 08:19:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-18 08:19:07 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-18 08:19:07 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-18 08:19:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-18 08:19:07 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-18 08:19:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:19:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:19:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bún"): Text 'Bún' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:12 - [MESSAGE][PASSED] - Text 'Bún' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-18 08:19:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-18 08:19:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7")): Object: 'Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-18 08:19:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-18 08:19:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-18 08:19:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-18 08:19:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Description")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-18 08:19:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-18 08:19:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-18 08:19:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-18 08:19:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:19:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:19:21 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-18 08:19:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-18 08:19:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:19:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:19:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:19:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-18 08:19:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Show more")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-18 08:19:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-18 08:19:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Show less")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-18 08:19:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-18 08:19:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc")): Object: 'Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc' is clicked on
+
+2023-07-18 08:19:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc' is clicked on
+
+2023-07-18 08:19:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as"), "23456789"): Text '23456789' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-18 08:19:25 - [MESSAGE][PASSED] - Text '23456789' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-18 08:19:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-18 08:19:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-18 08:19:26 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart"), 0): Object 'Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-18 08:19:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-18 08:19:26 - [MESSAGE][PASSED] - Object 'Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-18 08:19:26 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Successfully"), 0): Object 'Object Repository/Searching/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-18 08:19:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-18 08:19:26 - [MESSAGE][PASSED] - Object 'Object Repository/Searching/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-18 08:19:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:19:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-18 08:19:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bánh tráng 73"): Text 'Bánh tráng 73' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:32 - [MESSAGE][PASSED] - Text 'Bánh tráng 73' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword Bnh_3d0075"), "There is no result found with keyword: Bánh tráng 73"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword Bnh_3d0075' are matched.
+
+2023-07-18 08:19:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword Bnh_3d0075' are matched.
+
+2023-07-18 08:19:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_The best offer that we offer to the wor_ba291f")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_The best offer that we offer to the wor_ba291f' is clicked on
+
+2023-07-18 08:19:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_The best offer that we offer to the wor_ba291f' is clicked on
+
+2023-07-18 08:19:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "@#$%^&*()"): Text '@#$%^&*()' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:37 - [MESSAGE][PASSED] - Text '@#$%^&*()' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-18 08:19:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-18 08:19:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword ()"), "There is no result found with keyword: @#$%^&*()"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword ()' are matched.
+
+2023-07-18 08:19:41 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword ()' are matched.
+
+2023-07-18 08:19:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "34567890"): Text '34567890' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:42 - [MESSAGE][PASSED] - Text '34567890' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword 34567890"), "There is no result found with keyword: 34567890"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword 34567890' are matched.
+
+2023-07-18 08:19:46 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword 34567890' are matched.
+
+2023-07-18 08:19:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_e97193")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_e97193' is clicked on
+
+2023-07-18 08:19:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_e97193' is clicked on
+
+2023-07-18 08:19:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), " Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water. Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water."): Text ' Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water. Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water.' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:49 - [MESSAGE][PASSED] - Text ' Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water. Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water.' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Too many characters, Enter major again"), "Too many characters, Enter major again"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Too many characters, Enter major again' are matched.
+
+2023-07-18 08:19:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Too many characters, Enter major again' are matched.
+
+2023-07-18 08:19:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "' or 1=1--"): Text '' or 1=1--' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:51 - [MESSAGE][PASSED] - Text '' or 1=1--' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b' is clicked on
+
+2023-07-18 08:19:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b' is clicked on
+
+2023-07-18 08:19:52 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword  or 11--"), "There is no result found with keyword: ' or 1=1--"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword  or 11--' are matched.
+
+2023-07-18 08:19:55 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword  or 11--' are matched.
+
+2023-07-18 08:19:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "<script>alert("hihiihi")</script>"): Text '<script>alert("hihiihi")</script>' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:55 - [MESSAGE][PASSED] - Text '<script>alert("hihiihi")</script>' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:55 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Invalid searching keyword"), "Invalid searching keyword"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Invalid searching keyword' are matched.
+
+2023-07-18 08:19:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Invalid searching keyword' are matched.
+
+2023-07-18 08:19:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "b"): Text 'b' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:57 - [MESSAGE][PASSED] - Text 'b' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-18 08:19:57 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter"), "Searching keyword should be more than 1 letter"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter' are matched.
+
+2023-07-18 08:19:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter' are matched.
+
+2023-07-18 08:19:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-18 08:19:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-18 08:17:08 - [TEST_SUITE][PASSED] - LC: Test Cases/LC/Searching]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

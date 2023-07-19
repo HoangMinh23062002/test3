@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_by price_example-track example-track-1</name>
+   <tag></tag>
+   <elementGuidId>035fba59-0ed0-4e73-bea8-3dd7e6709407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-cv59qw&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1fidt9a&quot;]/div[@class=&quot;css-wkpw2c&quot;]/div[@class=&quot;horizontal-slider&quot;]/div[@class=&quot;example-track example-track-1&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.example-track.example-track-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[3]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40a9e4e7-e71e-4981-b6c4-9d3cdfd9676e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>example-track example-track-1</value>
+      <webElementGuid>5a5f72ac-3f9d-4bc1-8866-1e39f32459f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-cv59qw&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1fidt9a&quot;]/div[@class=&quot;css-wkpw2c&quot;]/div[@class=&quot;horizontal-slider&quot;]/div[@class=&quot;example-track example-track-1&quot;]</value>
+      <webElementGuid>112182ea-d757-4290-84df-1535c7cd5c65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>b8452a43-b423-4dfb-bcc9-5ab3cc53ea54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>3c88cbc0-8a34-4c61-bd17-3c727dd230ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

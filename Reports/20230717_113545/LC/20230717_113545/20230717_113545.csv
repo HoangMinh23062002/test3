@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LC,Chrome 114.0.0.0,,,2023-07-17 11:35:54,2023-07-17 11:36:32,38.858s,FAILED
+,,,,,,,
+Test Cases/LC/Searching,Chrome 114.0.0.0,,,2023-07-17 11:35:54,2023-07-17 11:36:13,18.904s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-17 11:35:54,2023-07-17 11:35:57,2.650s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-17 11:35:57,2023-07-17 11:35:58,0.965s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-17 11:35:58,2023-07-17 11:35:58,0.170s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/p_product (1)""))",Chrome 114.0.0.0,,,2023-07-17 11:35:58,2023-07-17 11:35:59,0.825s,PASSED
+delay(5),Chrome 114.0.0.0,,,2023-07-17 11:35:59,2023-07-17 11:36:04,5.040s,PASSED
+"setText(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/input_Minhhonag_chakra-input css-1pdm0hx (3)""), ""Bún"")",Chrome 114.0.0.0,,,2023-07-17 11:36:04,2023-07-17 11:36:05,0.741s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_178a87 (1)""))",Chrome 114.0.0.0,,,2023-07-17 11:36:05,2023-07-17 11:36:06,0.823s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-17 11:36:06,2023-07-17 11:36:09,3.012s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/button_2 (1)""))",Chrome 114.0.0.0,,,2023-07-17 11:36:09,2023-07-17 11:36:09,0.412s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-17 11:36:09,2023-07-17 11:36:12,3.012s,PASSED
+"click(findTestObject(""Object Repository/Searching1/Page_Vite  React  TS/button_3 (1)""))",Chrome 114.0.0.0,,,2023-07-17 11:36:12,2023-07-17 11:36:13,0.740s,FAILED
+,,,,,,,
+Test Cases/LC/Product detail,Chrome 114.0.0.0,,,2023-07-17 11:36:13,2023-07-17 11:36:32,19.617s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-17 11:36:13,2023-07-17 11:36:16,2.394s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-17 11:36:16,2023-07-17 11:36:17,0.971s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-17 11:36:17,2023-07-17 11:36:17,0.149s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-17 11:36:17,2023-07-17 11:36:17,0.537s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/button_22""))",Chrome 114.0.0.0,,,2023-07-17 11:36:17,2023-07-17 11:36:21,3.968s,PASSED
+"click(findTestObject(""Object Repository/productdetail/Page_Vite  React  TS/img_d_chakra-image css-lxd7e7""))",Chrome 114.0.0.0,,,2023-07-17 11:36:21,2023-07-17 11:36:32,11.184s,FAILED
