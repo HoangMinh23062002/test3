@@ -3,11 +3,11 @@
    <description></description>
    <name>div_by price_example-thumb example-thumb-0 active</name>
    <tag></tag>
-   <elementGuidId>8ef90725-07ac-4d6f-b9e5-2f20d3175682</elementGuidId>
+   <elementGuidId>dd1915ca-e2fa-48bf-b1d1-a1c882ee24a4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-cv59qw&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1fidt9a&quot;]/div[@class=&quot;css-wkpw2c&quot;]/div[@class=&quot;horizontal-slider&quot;]/div[@class=&quot;example-thumb example-thumb-0 active&quot;]</value>
+         <value>//*[@hmm = '//*[@id=&quot;root&quot;]/div/div[2]/div/div[3]/div[1]/div[1]/div/div/div[4]']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bf454cda-23a4-4458-9dfa-2ee8a012d25d</webElementGuid>
+      <webElementGuid>d93cf60c-e31d-4c1d-8570-91d8cdf786bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>example-thumb example-thumb-0 active</value>
-      <webElementGuid>053f71b7-6ee3-4c79-9808-1399a8bb9c9d</webElementGuid>
+      <webElementGuid>3509c2e5-2f21-420f-8dbb-dffee39a8b8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>2b3d9080-7a04-4ece-acdd-76983144b572</webElementGuid>
+      <webElementGuid>bf8899c7-3435-4298-9b85-a61d1d090c43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>role</name>
       <type>Main</type>
       <value>slider</value>
-      <webElementGuid>3821fcbd-5d8d-45c5-96c1-db40f188ec48</webElementGuid>
+      <webElementGuid>77c4f842-2d45-4f11-9711-7700e11a8f30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,15 +58,15 @@
       <name>aria-orientation</name>
       <type>Main</type>
       <value>horizontal</value>
-      <webElementGuid>f30032e1-6dca-475c-8546-96d12d3a53da</webElementGuid>
+      <webElementGuid>71ec5f60-1b5d-476e-a76d-67369ddf28eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-valuenow</name>
       <type>Main</type>
-      <value>2263158</value>
-      <webElementGuid>edf1706c-44c5-489c-8c8c-f2fb18f5a7bb</webElementGuid>
+      <value>1457143</value>
+      <webElementGuid>120256d2-2ee7-4f94-9555-6b075057dcc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>aria-valuemin</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>85489b43-c74b-4b3c-9120-403435fcb418</webElementGuid>
+      <webElementGuid>e9cb4590-eb85-4e78-81f0-bd46c258f224</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>aria-valuemax</name>
       <type>Main</type>
       <value>6000000</value>
-      <webElementGuid>242ede20-1bed-46a3-9e74-5cb771c0b6d6</webElementGuid>
+      <webElementGuid>6c4d236e-1104-4b34-a5e1-d40b748ebeb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Lower thumb</value>
-      <webElementGuid>8c63deda-e359-4499-86e3-e19509e09b13</webElementGuid>
+      <webElementGuid>c5f317d0-7cf2-4fc1-b865-9689634554f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,23 +98,31 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4c54a562-e435-42ee-ab26-d6449a0095e5</webElementGuid>
+      <webElementGuid>4a6683c7-d5be-449c-ac8b-9af4d6f13184</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-valuetext</name>
       <type>Main</type>
-      <value>Thumb value 2263158</value>
-      <webElementGuid>bdc796d9-c600-462c-a191-d422ae404dc2</webElementGuid>
+      <value>Thumb value 1457143</value>
+      <webElementGuid>e7e8f6ff-3b9a-473c-a93e-060afe6577ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-j74872&quot;]/div[@class=&quot;css-cv59qw&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1fidt9a&quot;]/div[@class=&quot;css-wkpw2c&quot;]/div[@class=&quot;horizontal-slider&quot;]/div[@class=&quot;example-thumb example-thumb-0 active&quot;]</value>
-      <webElementGuid>664f2232-fd62-4422-8bfb-69236d007f87</webElementGuid>
+      <webElementGuid>977dfdde-855e-487a-9358-be08a76f2297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>hmm</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[2]/div/div[3]/div[1]/div[1]/div/div/div[4]</value>
+      <webElementGuid>16fabaa7-9e43-462f-9712-36997f8862e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -122,7 +130,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div[3]/div/div/div/div/div[4]</value>
-      <webElementGuid>1c89d2d5-432f-4e1d-8a71-1ff503988a7c</webElementGuid>
+      <webElementGuid>21f5e5a7-f5f3-4f07-ab85-a083f75a6301</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,6 +138,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div/div[4]</value>
-      <webElementGuid>34f8c6d6-7173-4477-ad86-0bd774e8e79f</webElementGuid>
+      <webElementGuid>4150bd57-bbf0-4e91-a46c-b7e3bbecdc0a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

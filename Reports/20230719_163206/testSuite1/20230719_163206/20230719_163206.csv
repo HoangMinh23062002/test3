@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+testSuite1,,,,2023-07-19 16:32:16,2023-07-19 16:32:17,1.177s,PASSED
+,,,,,,,
+Test Cases/LC/hhihih,,,,2023-07-19 16:32:17,2023-07-19 16:32:17,0.393s,PASSED
+Start setup action : setupTestCase,,,,2023-07-19 16:32:17,2023-07-19 16:32:17,0.004s,PASSED
+"println(""tui day ne"")",,,,2023-07-19 16:32:17,2023-07-19 16:32:17,0.001s,PASSED
+Start tear down : tearDownTestCase,,,,2023-07-19 16:32:17,2023-07-19 16:32:17,0.006s,PASSED

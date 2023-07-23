@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LC" time="239.794" tests="5" failures="1" errors="0">
+   <testsuite name="LC" tests="5" failures="1" errors="0" time="239.794" skipped="0" timestamp="2023-07-19 15:29:29" hostname="htminh - host.docker.internal" id="Test Suites/LC">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230719_152920\\LC\\20230719_152920"/>
+         <property name="logFiles" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230719_152920\\LC\\20230719_152920\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230719_152920\\LC\\20230719_152920\\1689755609528.png"/>
+         <property name="hostName" value="htminh - host.docker.internal"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.79.183"/>
+         <property name="sessionId" value="d0111095f95c544956c75bf225cf96c5"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LC/Cart" time="74.025" classname="Test Cases/LC/Cart" status="PASSED">
+         <system-out><![CDATA[2023-07-19 15:29:30 - [TEST_CASE][PASSED] - Test Cases/LC/Cart: Test Cases/LC/Cart
+
+2023-07-19 15:29:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 15:29:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-19 15:29:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 15:29:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 15:29:33 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:29:34 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:29:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-19 15:29:34 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-19 15:29:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:29:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:29:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bún"): Text 'Bún' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:29:41 - [MESSAGE][PASSED] - Text 'Bún' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:29:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7")): Object: 'Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-19 15:29:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-19 15:29:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Show more")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-19 15:29:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-19 15:29:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d' is clicked on
+
+2023-07-19 15:29:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d' is clicked on
+
+2023-07-19 15:29:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Show less")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-19 15:29:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-19 15:29:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq' is clicked on
+
+2023-07-19 15:29:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq' is clicked on
+
+2023-07-19 15:29:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as"), "2345678"): Text '2345678' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-19 15:29:52 - [MESSAGE][PASSED] - Text '2345678' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-19 15:29:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-19 15:29:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-19 15:29:52 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-19 15:29:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-19 15:29:53 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-19 15:29:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Successfully"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-19 15:29:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-19 15:29:53 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-19 15:29:53 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-19 15:29:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-19 15:29:54 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-19 15:29:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-19 15:29:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:29:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-19 15:29:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-19 15:29:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Description")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-19 15:29:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-19 15:29:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-19 15:29:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-19 15:29:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk")): Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk' is clicked on
+
+2023-07-19 15:29:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk' is clicked on
+
+2023-07-19 15:29:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-19 15:30:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-19 15:30:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Cancel")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Cancel' is clicked on
+
+2023-07-19 15:30:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Cancel' is clicked on
+
+2023-07-19 15:30:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "blackfriday"): Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:02 - [MESSAGE][PASSED] - Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-19 15:30:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-19 15:30:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_- 1")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_- 1' is clicked on
+
+2023-07-19 15:30:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_- 1' is clicked on
+
+2023-07-19 15:30:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi")): Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi' is clicked on
+
+2023-07-19 15:30:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi' is clicked on
+
+2023-07-19 15:30:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-19 15:30:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-19 15:30:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Yes")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-19 15:30:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-19 15:30:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_OK")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-19 15:30:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-19 15:30:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Back to shop")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Back to shop' is clicked on
+
+2023-07-19 15:30:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Back to shop' is clicked on
+
+2023-07-19 15:30:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Buy now")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-19 15:30:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-19 15:30:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-19 15:30:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-19 15:30:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_23")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_23' is clicked on
+
+2023-07-19 15:30:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_23' is clicked on
+
+2023-07-19 15:30:18 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh"), "15", true): All options with value '15' are selected in object 'Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-19 15:30:23 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-19 15:30:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7")): Object: 'Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7' is clicked on
+
+2023-07-19 15:30:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7' is clicked on
+
+2023-07-19 15:30:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Buy now")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-19 15:30:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-19 15:30:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-19 15:30:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-19 15:30:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "eetyu"): Text 'eetyu' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:31 - [MESSAGE][PASSED] - Text 'eetyu' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-19 15:30:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-19 15:30:32 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid' is present
+
+2023-07-19 15:30:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-19 15:30:35 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid' is present
+
+2023-07-19 15:30:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-19 15:30:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-19 15:30:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "tyuioghjkl"): Text 'tyuioghjkl' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:37 - [MESSAGE][PASSED] - Text 'tyuioghjkl' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-19 15:30:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-19 15:30:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "blackfriday"): Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:38 - [MESSAGE][PASSED] - Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-19 15:30:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-19 15:30:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-19 15:30:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart' is clicked on
+
+2023-07-19 15:30:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart' is clicked on
+
+2023-07-19 15:30:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Yes")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-19 15:30:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-19 15:30:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_OK")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-19 15:30:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-19 15:30:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-19 15:30:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/Filter" time="36.627" classname="Test Cases/LC/Filter" status="PASSED">
+         <system-out><![CDATA[2023-07-19 15:30:44 - [TEST_CASE][PASSED] - Test Cases/LC/Filter: Test Cases/LC/Filter
+
+2023-07-19 15:30:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 15:30:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-19 15:30:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 15:30:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 15:30:46 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:30:46 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:30:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-19 15:30:47 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-19 15:30:47 - [TEST_STEP][PASSED] - click(findTestObject("Filter/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Filter/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:30:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Filter/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:30:47 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-19 15:30:55 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-19 15:30:55 - [TEST_STEP][PASSED] - dragAndDropToObject(findTestObject("Filter/Page_Vite  React  TS/div_by price_example-track example-track-1"), findTestObject("Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active")): Dragged object with id 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-track example-track-1' to object with id 'TestObject - 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active'' successfully
+
+2023-07-19 15:30:57 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-track example-track-1' to object with id 'TestObject - 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active'' successfully
+
+2023-07-19 15:30:57 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)"), "20", true): All options with value '20' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-19 15:31:02 - [MESSAGE][PASSED] - All options with value '20' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-19 15:31:02 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-19 15:31:10 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-19 15:31:10 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Filter/Page_Vite  React  TS/p_There is no result found"), "There is no result found"): Actual text and expected text of test object 'Object Repository/Filter/Page_Vite  React  TS/p_There is no result found' are matched.
+
+2023-07-19 15:31:10 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Filter/Page_Vite  React  TS/p_There is no result found' are matched.
+
+2023-07-19 15:31:10 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)"), "15", true): All options with value '15' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-19 15:31:12 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-19 15:31:12 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-19 15:31:20 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-19 15:31:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-19 15:31:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/Searching" time="55.895" classname="Test Cases/LC/Searching" status="PASSED">
+         <system-out><![CDATA[2023-07-19 15:31:20 - [TEST_CASE][PASSED] - Test Cases/LC/Searching: Test Cases/LC/Searching
+
+2023-07-19 15:31:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 15:31:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-19 15:31:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 15:31:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 15:31:22 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:31:23 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:31:23 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-19 15:31:23 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-19 15:31:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:31:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:31:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bún"): Text 'Bún' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:28 - [MESSAGE][PASSED] - Text 'Bún' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-19 15:31:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-19 15:31:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7")): Object: 'Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-19 15:31:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-19 15:31:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-19 15:31:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-19 15:31:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Description")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-19 15:31:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-19 15:31:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-19 15:31:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-19 15:31:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:31:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:31:37 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-19 15:31:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-19 15:31:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:31:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:31:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:31:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-19 15:31:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Show more")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-19 15:31:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-19 15:31:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Show less")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-19 15:31:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-19 15:31:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc")): Object: 'Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc' is clicked on
+
+2023-07-19 15:31:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc' is clicked on
+
+2023-07-19 15:31:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as"), "23456789"): Text '23456789' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-19 15:31:41 - [MESSAGE][PASSED] - Text '23456789' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-19 15:31:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-19 15:31:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-19 15:31:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart"), 0): Object 'Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-19 15:31:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-19 15:31:42 - [MESSAGE][PASSED] - Object 'Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-19 15:31:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Successfully"), 0): Object 'Object Repository/Searching/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-19 15:31:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-19 15:31:42 - [MESSAGE][PASSED] - Object 'Object Repository/Searching/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-19 15:31:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:31:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:31:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bánh tráng 73"): Text 'Bánh tráng 73' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:48 - [MESSAGE][PASSED] - Text 'Bánh tráng 73' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword Bnh_3d0075"), "There is no result found with keyword: Bánh tráng 73"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword Bnh_3d0075' are matched.
+
+2023-07-19 15:31:52 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword Bnh_3d0075' are matched.
+
+2023-07-19 15:31:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_The best offer that we offer to the wor_ba291f")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_The best offer that we offer to the wor_ba291f' is clicked on
+
+2023-07-19 15:31:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_The best offer that we offer to the wor_ba291f' is clicked on
+
+2023-07-19 15:31:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "@#$%^&*()"): Text '@#$%^&*()' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:53 - [MESSAGE][PASSED] - Text '@#$%^&*()' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-19 15:31:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-19 15:31:54 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword ()"), "There is no result found with keyword: @#$%^&*()"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword ()' are matched.
+
+2023-07-19 15:31:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword ()' are matched.
+
+2023-07-19 15:31:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "34567890"): Text '34567890' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:58 - [MESSAGE][PASSED] - Text '34567890' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:31:58 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword 34567890"), "There is no result found with keyword: 34567890"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword 34567890' are matched.
+
+2023-07-19 15:32:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword 34567890' are matched.
+
+2023-07-19 15:32:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_e97193")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_e97193' is clicked on
+
+2023-07-19 15:32:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_e97193' is clicked on
+
+2023-07-19 15:32:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), " Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water. Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water."): Text ' Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water. Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water.' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:08 - [MESSAGE][PASSED] - Text ' Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water. Soaked the sticky rice overnight, then drain and shake with salt.  - Soak crushed mung beans in water for 2-4 hours, wash away the husks, cook,  grind, and shape them into fist-sized balls  - Cut the pork into squares and season them with salt, pepper, and minced onion.  - Place dong leaves on a flat surface; put a small bowl portion of rice on it, sprinkle on half of a mong bean ball, place 2 pork squares in the middle, sprinkle on the other half of the mung bean ball, and cover with another small bowl portion of rice. Fold the leaves over, wrap the cake into a square shape, and tie it with bamboo strings.  - Place cakes in a pot padded with dong leaf stalks, pour in enough water to submerge the cakes, and boil on high heat. As the water boils off, add enough to keep the cakes submerged. Boil continuously for 12 hours. After the cakes are taken from the pot, press them to remove excess water.' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:08 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Too many characters, Enter major again"), "Too many characters, Enter major again"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Too many characters, Enter major again' are matched.
+
+2023-07-19 15:32:09 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Too many characters, Enter major again' are matched.
+
+2023-07-19 15:32:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "' or 1=1--"): Text '' or 1=1--' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:09 - [MESSAGE][PASSED] - Text '' or 1=1--' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b' is clicked on
+
+2023-07-19 15:32:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_d9771b' is clicked on
+
+2023-07-19 15:32:10 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword  or 11--"), "There is no result found with keyword: ' or 1=1--"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword  or 11--' are matched.
+
+2023-07-19 15:32:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_There is no result found with keyword  or 11--' are matched.
+
+2023-07-19 15:32:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "<script>alert("hihiihi")</script>"): Text '<script>alert("hihiihi")</script>' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:14 - [MESSAGE][PASSED] - Text '<script>alert("hihiihi")</script>' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Invalid searching keyword"), "Invalid searching keyword"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Invalid searching keyword' are matched.
+
+2023-07-19 15:32:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Invalid searching keyword' are matched.
+
+2023-07-19 15:32:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "b"): Text 'b' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:15 - [MESSAGE][PASSED] - Text 'b' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:15 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter"), "Searching keyword should be more than 1 letter"): Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter' are matched.
+
+2023-07-19 15:32:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Searching/Page_Vite  React  TS/p_Searching keyword should be more than 1 letter' are matched.
+
+2023-07-19 15:32:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-19 15:32:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/test" time="16.739" classname="Test Cases/LC/test" status="PASSED">
+         <system-out><![CDATA[2023-07-19 15:32:16 - [TEST_CASE][PASSED] - Test Cases/LC/test: Test Cases/LC/test
+
+2023-07-19 15:32:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 15:32:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-19 15:32:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 15:32:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 15:32:18 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:32:19 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:32:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/hmmm/Page_Vite  React  TS/p_product")): Object: 'Object Repository/hmmm/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:32:20 - [MESSAGE][PASSED] - Object: 'Object Repository/hmmm/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:32:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/hmmm/Page_Vite  React  TS/div_by price_horizontal-slider")): Object: 'Object Repository/hmmm/Page_Vite  React  TS/div_by price_horizontal-slider' is clicked on
+
+2023-07-19 15:32:24 - [MESSAGE][PASSED] - Object: 'Object Repository/hmmm/Page_Vite  React  TS/div_by price_horizontal-slider' is clicked on
+
+2023-07-19 15:32:24 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active"), 0): Object 'Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active' is present
+
+2023-07-19 15:32:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-19 15:32:28 - [MESSAGE][PASSED] - Object 'Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active' is present
+
+2023-07-19 15:32:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-1 active"), 0): Object 'Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-1 active' is present
+
+2023-07-19 15:32:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-19 15:32:28 - [MESSAGE][PASSED] - Object 'Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-1 active' is present
+
+2023-07-19 15:32:28 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/hmmm/Page_Vite  React  TS/select_all NgtKh"), "20", true): All options with value '20' are selected in object 'Object Repository/hmmm/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-19 15:32:29 - [MESSAGE][PASSED] - All options with value '20' are selected in object 'Object Repository/hmmm/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-19 15:32:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/hmmm/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "IPH"): Text 'IPH' is set on object 'Object Repository/hmmm/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-19 15:32:33 - [MESSAGE][PASSED] - Text 'IPH' is set on object 'Object Repository/hmmm/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/Test3" time="56.183" classname="Test Cases/LC/Test3" status="FAILED">
+         <failure type="FAILED" message="Test Cases/LC/Test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Test3.run(Test3:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1689755360367.run(TempTestSuite1689755360367.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/getText/Page_Vite  React  TS/minValue' located by '//div[@class =&quot;example-thumb example-thumb-0 &quot;]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.doCall(GetAttributeKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.call(GetAttributeKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2023-07-19 15:32:33 - [TEST_CASE][FAILED] - Test Cases/LC/Test3: Test Cases/LC/Test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Test3.run(Test3:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1689755360367.run(TempTestSuite1689755360367.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/getText/Page_Vite  React  TS/minValue' located by '//div[@class ="example-thumb example-thumb-0 "]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.doCall(GetAttributeKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.call(GetAttributeKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2023-07-19 15:32:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 15:32:33 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-07-19 15:32:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-19 15:32:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 15:32:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 15:32:36 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:32:37 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-19 15:32:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/getText/Page_Vite  React  TS/p_product")): Object: 'Object Repository/getText/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:32:37 - [MESSAGE][PASSED] - Object: 'Object Repository/getText/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-19 15:32:37 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-07-19 15:32:47 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-07-19 15:32:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/getText/Page_Vite  React  TS/div_by price_horizontal-slider")): Object: 'Object Repository/getText/Page_Vite  React  TS/div_by price_horizontal-slider' is clicked on
+
+2023-07-19 15:32:48 - [MESSAGE][PASSED] - Object: 'Object Repository/getText/Page_Vite  React  TS/div_by price_horizontal-slider' is clicked on
+
+2023-07-19 15:32:48 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-07-19 15:32:58 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-07-19 15:32:58 - [TEST_STEP][FAILED] - minValue = getAttribute(findTestObject("Object Repository/getText/Page_Vite  React  TS/minValue"), "aria-valuenow"): Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Test3.run(Test3:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1689755360367.run(TempTestSuite1689755360367.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/getText/Page_Vite  React  TS/minValue' located by '//div[@class ="example-thumb example-thumb-0 "]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.doCall(GetAttributeKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.call(GetAttributeKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Script1689577189801.run(Script1689577189801.groovy:34)
+	... 13 more
+)
+
+2023-07-19 15:33:29 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@class ="example-thumb example-thumb-0 "]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-07-19 15:33:29 - [MESSAGE][FAILED] - Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Test3.run(Test3:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1689755360367.run(TempTestSuite1689755360367.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/getText/Page_Vite  React  TS/minValue' located by '//div[@class ="example-thumb example-thumb-0 "]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.doCall(GetAttributeKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.call(GetAttributeKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Script1689577189801.run(Script1689577189801.groovy:34)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\htminh\\git\\test3\\Reports\\20230719_152920\\LC\\20230719_152920\\1689755609528.png]]]]></system-out>
+         <system-err><![CDATA[2023-07-19 15:32:33 - [TEST_CASE][FAILED] - Test Cases/LC/Test3: Test Cases/LC/Test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Test3.run(Test3:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1689755360367.run(TempTestSuite1689755360367.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/getText/Page_Vite  React  TS/minValue' located by '//div[@class ="example-thumb example-thumb-0 "]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.doCall(GetAttributeKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.call(GetAttributeKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-19 15:29:29 - [TEST_SUITE][FAILED] - LC: Test Cases/LC/Test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Test3.run(Test3:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1689755360367.run(TempTestSuite1689755360367.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/getText/Page_Vite  React  TS/minValue' located by '//div[@class ="example-thumb example-thumb-0 "]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.doCall(GetAttributeKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.call(GetAttributeKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-07-19 15:29:29 - [TEST_SUITE][FAILED] - LC: Test Cases/LC/Test3 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get attribute 'aria-valuenow' of object 'Object Repository/getText/Page_Vite  React  TS/minValue'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.getAttribute(GetAttributeKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword.execute(GetAttributeKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(WebUiBuiltInKeywords.groovy:951)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getAttribute$10.call(Unknown Source)
+	at Test3.run(Test3:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1689755360367.run(TempTestSuite1689755360367.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/getText/Page_Vite  React  TS/minValue' located by '//div[@class ="example-thumb example-thumb-0 "]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.doCall(GetAttributeKeyword.groovy:83)
+	at com.kms.katalon.core.webui.keyword.builtin.GetAttributeKeyword$_getAttribute_closure1.call(GetAttributeKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

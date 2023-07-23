@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="testSuite1" time="1.177" tests="1" failures="0" errors="0">
+   <testsuite name="testSuite1" tests="1" failures="0" errors="0" time="1.177" skipped="0" timestamp="2023-07-19 16:32:16" hostname="htminh - host.docker.internal" id="Test Suites/testSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230719_163206\\testSuite1\\20230719_163206"/>
+         <property name="logFiles" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230719_163206\\testSuite1\\20230719_163206\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="htminh - host.docker.internal"/>
+         <property name="hostAddress" value="192.168.79.183"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+      </properties>
+      <testcase name="Test Cases/LC/hhihih" time="0.393" classname="Test Cases/LC/hhihih" status="PASSED">
+         <system-out><![CDATA[2023-07-19 16:32:17 - [TEST_CASE][PASSED] - Test Cases/LC/hhihih: Test Cases/LC/hhihih
+
+2023-07-19 16:32:17 - [TEST_STEP][PASSED] - Start setup action : setupTestCase: Method 'setupTestCase' complete successfully
+
+2023-07-19 16:32:17 - [TEST_STEP][PASSED] - println("I am inside testcase setup"): null
+
+2023-07-19 16:32:17 - [MESSAGE][PASSED] - Method 'setupTestCase' complete successfully
+
+2023-07-19 16:32:17 - [TEST_STEP][PASSED] - println("tui day ne"): null
+
+2023-07-19 16:32:17 - [TEST_STEP][PASSED] - Start tear down : tearDownTestCase: Method 'tearDownTestCase' complete successfully
+
+2023-07-19 16:32:17 - [TEST_STEP][PASSED] - println("i am inside.............................."): null
+
+2023-07-19 16:32:17 - [MESSAGE][PASSED] - Method 'tearDownTestCase' complete successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-19 16:32:16 - [TEST_SUITE][PASSED] - testSuite1: Test Cases/LC/hhihih]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

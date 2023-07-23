@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LC,Chrome 114.0.0.0,,,2023-07-19 08:04:10,2023-07-19 08:05:06,55.810s,FAILED
+,,,,,,,
+Test Cases/LC/test,Chrome 114.0.0.0,,,2023-07-19 08:04:10,2023-07-19 08:04:29,19.196s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-19 08:04:11,2023-07-19 08:04:13,2.734s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-19 08:04:13,2023-07-19 08:04:14,0.935s,PASSED
+"click(findTestObject(""Object Repository/hmmm/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-19 08:04:14,2023-07-19 08:04:15,0.684s,PASSED
+"click(findTestObject(""Object Repository/hmmm/Page_Vite  React  TS/div_by price_horizontal-slider""))",Chrome 114.0.0.0,,,2023-07-19 08:04:15,2023-07-19 08:04:20,5.256s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active""), 0)",Chrome 114.0.0.0,,,2023-07-19 08:04:20,2023-07-19 08:04:24,3.527s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/hmmm/Page_Vite  React  TS/div_by price_example-thumb example-thumb-1 active""), 0)",Chrome 114.0.0.0,,,2023-07-19 08:04:24,2023-07-19 08:04:24,0.328s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/hmmm/Page_Vite  React  TS/select_all NgtKh""), ""20"", true)",Chrome 114.0.0.0,,,2023-07-19 08:04:24,2023-07-19 08:04:25,1.140s,PASSED
+"setText(findTestObject(""Object Repository/hmmm/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""IPH"")",Chrome 114.0.0.0,,,2023-07-19 08:04:25,2023-07-19 08:04:29,4.115s,PASSED
+,,,,,,,
+Test Cases/LC/Test3,Chrome 114.0.0.0,,,2023-07-19 08:04:29,2023-07-19 08:05:06,36.309s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-19 08:04:30,2023-07-19 08:04:32,2.267s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 114.0.0.0,,,2023-07-19 08:04:32,2023-07-19 08:04:33,0.894s,PASSED
+"click(findTestObject(""Object Repository/getText/Page_Vite  React  TS/p_product""))",Chrome 114.0.0.0,,,2023-07-19 08:04:33,2023-07-19 08:04:33,0.651s,PASSED
+delay(10),Chrome 114.0.0.0,,,2023-07-19 08:04:33,2023-07-19 08:04:44,10.032s,PASSED
+"click(findTestObject(""Object Repository/getText/Page_Vite  React  TS/div_by price_horizontal-slider""))",Chrome 114.0.0.0,,,2023-07-19 08:04:44,2023-07-19 08:04:44,0.446s,PASSED
+delay(10),Chrome 114.0.0.0,,,2023-07-19 08:04:44,2023-07-19 08:04:54,10.009s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/getText/Page_Vite  React  TS/minValue""), 10)",Chrome 114.0.0.0,,,2023-07-19 08:04:54,2023-07-19 08:05:06,11.573s,FAILED

@@ -17,38 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://localhost:5173/')
-
-WebUI.click(findTestObject('Object Repository/getText/Page_Vite  React  TS/p_product'))
-
-WebUI.delay(10)
-
-WebUI.click(findTestObject('Object Repository/getText/Page_Vite  React  TS/div_by price_horizontal-slider'))
-
-WebUI.delay(10)
-
-//WebUI.verifyElementPresent(findTestObject('Object Repository/getText/Page_Vite  React  TS/minValue'), 10)
-
-minValue = WebUI.getAttribute(findTestObject('Object Repository/getText/Page_Vite  React  TS/minValue'), 'aria-valuenow')
-
-maxValue = WebUI.getAttribute(findTestObject('Object Repository/getText/Page_Vite  React  TS/maxValue'), 'aria-valuemax')
-
-System.out.print(minValue);
-
-println minValue
-
-print maxValue
-
-length =WebUI.getText(findTestObject('Object Repository/getText/Page_Vite  React  TS/getPrice'))
-
-for( int i=1; i<=length.i;i++) {
-		
-	if(minValue <= length && maxValue >= length) {
-		
-		System.out.print();
-	}
-	else
-		System.out.print();
-}
+println("tui day ne")
