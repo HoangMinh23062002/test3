@@ -11,7 +11,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:5173')
 
-
 WebUI.click(findTestObject('hmmm/Page_Vite  React  TS/p_product'))
 
 def minVal, maxVal, getValue
@@ -45,8 +44,6 @@ for (int i =1 ; i <= 9; i++ ) {
 }
 println(Arrays.toString(list));
 
-
-
 def newArray = []
 ArrayList<String> newList = list;
 for (int i = 0; i < list.size(); i++) {
@@ -65,6 +62,7 @@ KeywordUtil.logInfo(newArray.toString())
 
 println(resultValue)
 
+
 WebUI.closeBrowser()
 
  
@@ -72,4 +70,6 @@ WebUI.closeBrowser()
 // convert từ sang int
 // lưu vô mảng
 // compare min max
+
+
 

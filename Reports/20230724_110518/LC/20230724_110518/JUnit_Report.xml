@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LC" time="249.875" tests="4" failures="1" errors="0">
+   <testsuite name="LC" tests="4" failures="1" errors="0" time="249.875" skipped="0" timestamp="2023-07-24 11:05:27" hostname="htminh - host.docker.internal" id="Test Suites/LC">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230724_110518\\LC\\20230724_110518"/>
+         <property name="logFiles" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230724_110518\\LC\\20230724_110518\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\htminh\\git\\test3\\Reports\\20230724_110518\\LC\\20230724_110518\\1690171752902.png"/>
+         <property name="hostName" value="htminh - host.docker.internal"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.79.183"/>
+         <property name="sessionId" value="8c6aecb6b57c74225657c1229b2a7d39"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LC/Cart" time="70.189" classname="Test Cases/LC/Cart" status="PASSED">
+         <system-out><![CDATA[2023-07-24 11:05:27 - [TEST_CASE][PASSED] - Test Cases/LC/Cart: Test Cases/LC/Cart
+
+2023-07-24 11:05:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-24 11:05:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-24 11:05:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-24 11:05:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-24 11:05:31 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-24 11:05:32 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-24 11:05:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-24 11:05:32 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-24 11:05:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:05:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:05:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bún"): Text 'Bún' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-24 11:05:38 - [MESSAGE][PASSED] - Text 'Bún' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-24 11:05:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7")): Object: 'Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-24 11:05:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-24 11:05:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Show more")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-24 11:05:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-24 11:05:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d' is clicked on
+
+2023-07-24 11:05:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d' is clicked on
+
+2023-07-24 11:05:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Show less")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-24 11:05:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-24 11:05:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq' is clicked on
+
+2023-07-24 11:05:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq' is clicked on
+
+2023-07-24 11:05:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as"), "2345678"): Text '2345678' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-24 11:05:48 - [MESSAGE][PASSED] - Text '2345678' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-24 11:05:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-24 11:05:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-24 11:05:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-24 11:05:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-24 11:05:49 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-24 11:05:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Successfully"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-24 11:05:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-24 11:05:50 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-24 11:05:50 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-24 11:05:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-24 11:05:50 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-24 11:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-24 11:05:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:05:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-24 11:05:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-24 11:05:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Description")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-24 11:05:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-24 11:05:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-24 11:05:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-24 11:05:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk")): Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk' is clicked on
+
+2023-07-24 11:05:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-1ev3uyk' is clicked on
+
+2023-07-24 11:05:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-24 11:05:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-24 11:05:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Cancel")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Cancel' is clicked on
+
+2023-07-24 11:05:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Cancel' is clicked on
+
+2023-07-24 11:05:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "blackfriday"): Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:05:58 - [MESSAGE][PASSED] - Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:05:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-24 11:05:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-24 11:05:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_- 1")): Object: 'Object Repository/Cart/Page_Vite  React  TS/p_- 1' is clicked on
+
+2023-07-24 11:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/p_- 1' is clicked on
+
+2023-07-24 11:06:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi")): Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi' is clicked on
+
+2023-07-24 11:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/svg_apply_chakra-icon css-onkibi' is clicked on
+
+2023-07-24 11:06:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-24 11:06:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_bn bn_chakra-button css-1cquxk8' is clicked on
+
+2023-07-24 11:06:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Yes")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-24 11:06:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-24 11:06:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_OK")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-24 11:06:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-24 11:06:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Back to shop")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Back to shop' is clicked on
+
+2023-07-24 11:06:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Back to shop' is clicked on
+
+2023-07-24 11:06:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Buy now")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-24 11:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-24 11:06:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-24 11:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-24 11:06:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_23")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_23' is clicked on
+
+2023-07-24 11:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_23' is clicked on
+
+2023-07-24 11:06:13 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh"), "15", true): All options with value '15' are selected in object 'Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-24 11:06:17 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Cart/Page_Vite  React  TS/select_all NgtKh'  using regular expression
+
+2023-07-24 11:06:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7")): Object: 'Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7' is clicked on
+
+2023-07-24 11:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/img_Banh khoai deo_chakra-image css-lxd7e7' is clicked on
+
+2023-07-24 11:06:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Buy now")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-24 11:06:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Buy now' is clicked on
+
+2023-07-24 11:06:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-24 11:06:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout' is clicked on
+
+2023-07-24 11:06:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "eetyu"): Text 'eetyu' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:06:26 - [MESSAGE][PASSED] - Text 'eetyu' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:06:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-24 11:06:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-24 11:06:26 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid"), 0): Object 'Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid' is present
+
+2023-07-24 11:06:26 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-24 11:06:29 - [MESSAGE][PASSED] - Object 'Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid' is present
+
+2023-07-24 11:06:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-24 11:06:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-24 11:06:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "tyuioghjkl"): Text 'tyuioghjkl' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:06:31 - [MESSAGE][PASSED] - Text 'tyuioghjkl' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:06:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25")): Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-24 11:06:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25' is clicked on
+
+2023-07-24 11:06:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh"), "blackfriday"): Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:06:32 - [MESSAGE][PASSED] - Text 'blackfriday' is set on object 'Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'
+
+2023-07-24 11:06:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_apply")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-24 11:06:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_apply' is clicked on
+
+2023-07-24 11:06:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart' is clicked on
+
+2023-07-24 11:06:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Clean Cart' is clicked on
+
+2023-07-24 11:06:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_Yes")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-24 11:06:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_Yes' is clicked on
+
+2023-07-24 11:06:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Cart/Page_Vite  React  TS/button_OK")): Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-24 11:06:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Cart/Page_Vite  React  TS/button_OK' is clicked on
+
+2023-07-24 11:06:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-24 11:06:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/Filter" time="65.174" classname="Test Cases/LC/Filter" status="PASSED">
+         <system-out><![CDATA[2023-07-24 11:06:38 - [TEST_CASE][PASSED] - Test Cases/LC/Filter: Test Cases/LC/Filter
+
+2023-07-24 11:06:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-24 11:06:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-24 11:06:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-24 11:06:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-24 11:06:40 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-24 11:06:40 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-24 11:06:40 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-24 11:06:41 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-24 11:06:41 - [TEST_STEP][PASSED] - click(findTestObject("Filter/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Filter/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:06:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Filter/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:06:41 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-24 11:06:49 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-24 11:06:49 - [TEST_STEP][PASSED] - dragAndDropToObject(findTestObject("Filter/Page_Vite  React  TS/div_by price_example-track example-track-1"), findTestObject("Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active")): Dragged object with id 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-track example-track-1' to object with id 'TestObject - 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active'' successfully
+
+2023-07-24 11:07:08 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-track example-track-1' to object with id 'TestObject - 'Object Repository/Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active'' successfully
+
+2023-07-24 11:07:08 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)"), "20", true): All options with value '20' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-24 11:07:18 - [MESSAGE][PASSED] - All options with value '20' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-24 11:07:18 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-24 11:07:26 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-24 11:07:26 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Filter/Page_Vite  React  TS/p_There is no result found"), "There is no result found"): Actual text and expected text of test object 'Object Repository/Filter/Page_Vite  React  TS/p_There is no result found' are matched.
+
+2023-07-24 11:07:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Filter/Page_Vite  React  TS/p_There is no result found' are matched.
+
+2023-07-24 11:07:28 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)"), "15", true): All options with value '15' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-24 11:07:34 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)'  using regular expression
+
+2023-07-24 11:07:34 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2023-07-24 11:07:42 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2023-07-24 11:07:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-24 11:07:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/LC/Searching" time="90.273" classname="Test Cases/LC/Searching" status="FAILED">
+         <failure type="FAILED" message="Test Cases/LC/Searching FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Searching.run(Searching:65)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1690171518363.run(TempTestSuite1690171518363.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;p class=&quot;chakra-text css-r547q5&quot;>...&lt;/p> is not clickable at point (1174, 20). Other element would receive the click: &lt;div data-status=&quot;success&quot; id=&quot;toast-1-title&quot; class=&quot;chakra-alert__title css-tidvy5&quot;>...&lt;/div>
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DN-AAVN-WS-650', ip: '192.168.79.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\htminh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8aedb2b9ec3e86d9fbcfa527c162584
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2023-07-24 11:07:43 - [TEST_CASE][FAILED] - Test Cases/LC/Searching: Test Cases/LC/Searching FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Searching.run(Searching:65)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1690171518363.run(TempTestSuite1690171518363.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <p class="chakra-text css-r547q5">...</p> is not clickable at point (1174, 20). Other element would receive the click: <div data-status="success" id="toast-1-title" class="chakra-alert__title css-tidvy5">...</div>
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DN-AAVN-WS-650', ip: '192.168.79.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\htminh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8aedb2b9ec3e86d9fbcfa527c162584
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2023-07-24 11:07:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-24 11:07:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-24 11:07:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-24 11:07:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-24 11:07:45 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173/"): Navigate to 'http://localhost:5173/' successfully
+
+2023-07-24 11:07:46 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173/' successfully
+
+2023-07-24 11:07:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-24 11:07:46 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-24 11:07:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_product")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:07:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:07:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838"), "Bún"): Text 'Bún' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-24 11:07:54 - [MESSAGE][PASSED] - Text 'Bún' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838'
+
+2023-07-24 11:07:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-24 11:07:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Local specialtys areasThe best offer th_96ccf5' is clicked on
+
+2023-07-24 11:07:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7")): Object: 'Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-24 11:08:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7' is clicked on
+
+2023-07-24 11:08:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-24 11:08:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-24 11:08:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Description")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-24 11:08:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Description' is clicked on
+
+2023-07-24 11:08:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Reviews")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-24 11:08:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Reviews' is clicked on
+
+2023-07-24 11:08:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:08:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:08:12 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-24 11:08:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is double clicked on
+
+2023-07-24 11:08:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:08:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:08:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next")): Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:08:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/div_Add to cart_swiper-button-next' is clicked on
+
+2023-07-24 11:08:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Show more")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-24 11:08:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show more' is clicked on
+
+2023-07-24 11:08:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_Show less")): Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-24 11:08:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/p_Show less' is clicked on
+
+2023-07-24 11:08:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc")): Object: 'Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc' is clicked on
+
+2023-07-24 11:08:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/svg_Add to cart_chakra-icon css-a7mwtc' is clicked on
+
+2023-07-24 11:08:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as"), "23456789"): Text '23456789' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-24 11:08:31 - [MESSAGE][PASSED] - Text '23456789' is set on object 'Object Repository/Searching/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'
+
+2023-07-24 11:08:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/button_Add to cart")): Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-24 11:08:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Searching/Page_Vite  React  TS/button_Add to cart' is clicked on
+
+2023-07-24 11:08:34 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart"), 0): Object 'Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-24 11:08:34 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-24 11:08:36 - [MESSAGE][PASSED] - Object 'Object Repository/Searching/Page_Vite  React  TS/div_You item already in shopping cart' is present
+
+2023-07-24 11:08:36 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Searching/Page_Vite  React  TS/div_Successfully"), 0): Object 'Object Repository/Searching/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-24 11:08:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-24 11:08:38 - [MESSAGE][PASSED] - Object 'Object Repository/Searching/Page_Vite  React  TS/div_Successfully' is present
+
+2023-07-24 11:08:38 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Searching/Page_Vite  React  TS/p_product")): Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Searching.run(Searching:65)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1690171518363.run(TempTestSuite1690171518363.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <p class="chakra-text css-r547q5">...</p> is not clickable at point (1174, 20). Other element would receive the click: <div data-status="success" id="toast-1-title" class="chakra-alert__title css-tidvy5">...</div>
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DN-AAVN-WS-650', ip: '192.168.79.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\htminh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8aedb2b9ec3e86d9fbcfa527c162584
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1689583131824.run(Script1689583131824.groovy:65)
+	... 13 more
+)
+
+2023-07-24 11:09:13 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Searching.run(Searching:65)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1690171518363.run(TempTestSuite1690171518363.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <p class="chakra-text css-r547q5">...</p> is not clickable at point (1174, 20). Other element would receive the click: <div data-status="success" id="toast-1-title" class="chakra-alert__title css-tidvy5">...</div>
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DN-AAVN-WS-650', ip: '192.168.79.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\htminh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8aedb2b9ec3e86d9fbcfa527c162584
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1689583131824.run(Script1689583131824.groovy:65)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\htminh\\git\\test3\\Reports\\20230724_110518\\LC\\20230724_110518\\1690171752902.png]]]]></system-out>
+         <system-err><![CDATA[2023-07-24 11:07:43 - [TEST_CASE][FAILED] - Test Cases/LC/Searching: Test Cases/LC/Searching FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Searching.run(Searching:65)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1690171518363.run(TempTestSuite1690171518363.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <p class="chakra-text css-r547q5">...</p> is not clickable at point (1174, 20). Other element would receive the click: <div data-status="success" id="toast-1-title" class="chakra-alert__title css-tidvy5">...</div>
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DN-AAVN-WS-650', ip: '192.168.79.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\htminh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8aedb2b9ec3e86d9fbcfa527c162584
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/getValue/test1" time="23.9" classname="Test Cases/getValue/test1" status="PASSED">
+         <system-out><![CDATA[2023-07-24 11:09:13 - [TEST_CASE][PASSED] - Test Cases/getValue/test1: Test Cases/getValue/test1
+
+2023-07-24 11:09:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-24 11:09:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-07-24 11:09:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-24 11:09:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-24 11:09:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-24 11:09:17 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:5173"): Navigate to 'http://localhost:5173' successfully
+
+2023-07-24 11:09:18 - [MESSAGE][PASSED] - Navigate to 'http://localhost:5173' successfully
+
+2023-07-24 11:09:18 - [TEST_STEP][PASSED] - click(findTestObject("hmmm/Page_Vite  React  TS/p_product")): Object: 'Object Repository/hmmm/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:09:18 - [MESSAGE][PASSED] - Object: 'Object Repository/hmmm/Page_Vite  React  TS/p_product' is clicked on
+
+2023-07-24 11:09:18 - [TEST_STEP][PASSED] - minVal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2023-07-24 11:09:18 - [TEST_STEP][PASSED] - maxVal = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2023-07-24 11:09:18 - [TEST_STEP][PASSED] - getValue = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2023-07-24 11:09:18 - [TEST_STEP][PASSED] - allPrice = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>: null
+
+2023-07-24 11:09:18 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/test/minValue"), 20): Object 'Object Repository/test/minValue' is present
+
+2023-07-24 11:09:22 - [MESSAGE][PASSED] - Object 'Object Repository/test/minValue' is present
+
+2023-07-24 11:09:22 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-07-24 11:09:32 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-07-24 11:09:32 - [TEST_STEP][PASSED] - minVal = getAttribute(findTestObject("Object Repository/test/minValue"), "aria-valuenow"): Attribute 'aria-valuenow' of object 'Object Repository/test/minValue' is: '0'
+
+2023-07-24 11:09:33 - [MESSAGE][PASSED] - Attribute 'aria-valuenow' of object 'Object Repository/test/minValue' is: '0'
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - myIntMin = minVal.toInteger(): null
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - println(myIntMin.getClass()): null
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - maxVal = getAttribute(findTestObject("Object Repository/test/maxValue"), "aria-valuenow"): Attribute 'aria-valuenow' of object 'Object Repository/test/maxValue' is: '6000000'
+
+2023-07-24 11:09:33 - [MESSAGE][PASSED] - Attribute 'aria-valuenow' of object 'Object Repository/test/maxValue' is: '6000000'
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - myIntMax = maxVal.toInteger(): null
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - println(myIntMax.getClass()): null
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - result = getText(findTestObject("Object Repository/test/Price")): Text of object 'Object Repository/test/Price' is: '6.000.000 ₫'
+
+2023-07-24 11:09:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/test/Price' is: '6.000.000 ₫'
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - list = new java.util.ArrayList(): null
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - for ([i = 1, i <= 9, (i++)]): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:33 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:34 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:34 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000 ₫'
+
+2023-07-24 11:09:34 - [MESSAGE][PASSED] - Text of object '' is: '6.000 ₫'
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:34 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:35 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:35 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:35 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:35 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:36 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:36 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - to = new com.kms.katalon.core.testobject.TestObject(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - to.addProperty("xpath", EQUALS, "//*[@id="root"]/div/div[2]/div/div[3]/div[2]/div[1]/div[" + i + "]/a/div/div/div/p "): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - list.add(getText(to)): Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:36 - [MESSAGE][PASSED] - Text of object '' is: '6.000.000 ₫'
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - println(Arrays.toString(list)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray = []: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newList = list: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - for ([i = 0, i < list.size(), (i++)]): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - s = replaceAll("[₫]", "").trim(): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - newArray.add(Integer.parseInt(s)): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = false: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - for (int r : newArray): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - if (r >= myIntMin && r <= myIntMax): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - resultValue = true: null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - logInfo(newArray.toString()): [6000000, 6000000, 6000, 6000000, 6000000, 6000000, 6000000, 6000000, 6000000]
+
+2023-07-24 11:09:36 - [MESSAGE][INFO] - [6000000, 6000000, 6000, 6000000, 6000000, 6000000, 6000000, 6000000, 6000000]
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - println(resultValue): null
+
+2023-07-24 11:09:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-24 11:09:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-24 11:05:27 - [TEST_SUITE][FAILED] - LC: Test Cases/LC/Searching FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Searching.run(Searching:65)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1690171518363.run(TempTestSuite1690171518363.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <p class="chakra-text css-r547q5">...</p> is not clickable at point (1174, 20). Other element would receive the click: <div data-status="success" id="toast-1-title" class="chakra-alert__title css-tidvy5">...</div>
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DN-AAVN-WS-650', ip: '192.168.79.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\htminh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8aedb2b9ec3e86d9fbcfa527c162584
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-07-24 11:05:27 - [TEST_SUITE][FAILED] - LC: Test Cases/LC/Searching FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Searching/Page_Vite  React  TS/p_product'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Searching.run(Searching:65)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1690171518363.run(TempTestSuite1690171518363.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <p class="chakra-text css-r547q5">...</p> is not clickable at point (1174, 20). Other element would receive the click: <div data-status="success" id="toast-1-title" class="chakra-alert__title css-tidvy5">...</div>
+  (Session info: chrome=114.0.5735.248)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DN-AAVN-WS-650', ip: '192.168.79.183', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.248, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\htminh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d8aedb2b9ec3e86d9fbcfa527c162584
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>
