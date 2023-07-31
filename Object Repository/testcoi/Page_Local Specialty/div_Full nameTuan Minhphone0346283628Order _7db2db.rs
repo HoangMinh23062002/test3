@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Full nameTuan Minhphone0346283628Order _7db2db</name>
+   <tag></tag>
+   <elementGuidId>696fedb5-7a42-4558-b420-b8de7d7f9206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-161flp2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97cb2ce2-0f50-4731-84db-9622bc1e599c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-161flp2</value>
+      <webElementGuid>28516c05-5f32-40e3-b6a2-4548b4a36f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full name:Tuan Minhphone:0346283628Order Date:4:06:21 AM 07/28/2023items:Banh khoai ba Khíatotal:7.333.333.920.000 ₫Shipping Address:101b lê hữu trác, Huyện Mường Khương, Xã Tung Chung Phố, Tỉnh Lào Cai, Việt Nam</value>
+      <webElementGuid>51bb7128-36a5-4447-93a4-008e03c346d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-19lu15j&quot;]/div[@class=&quot;css-qfdd9t&quot;]/div[@class=&quot;css-1e2iwx8&quot;]/div[@class=&quot;css-161flp2&quot;]</value>
+      <webElementGuid>536d967d-a326-49ba-8106-5dd63e58c556</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>3c7c00c5-642b-43f4-bbdd-f7583d62db98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank You For Your Ordering'])[1]/following::div[1]</value>
+      <webElementGuid>4ffd3f57-bc12-4def-9aea-f2353af49e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::div[7]</value>
+      <webElementGuid>38412fdb-eb72-4a27-9f39-3fd2c2fb7fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='subscribe'])[1]/preceding::div[11]</value>
+      <webElementGuid>7584bd35-726f-4ebc-b136-3b37654970b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>8169ec35-1624-4215-82e0-64fa94c501e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Full name:Tuan Minhphone:0346283628Order Date:4:06:21 AM 07/28/2023items:Banh khoai ba Khíatotal:7.333.333.920.000 ₫Shipping Address:101b lê hữu trác, Huyện Mường Khương, Xã Tung Chung Phố, Tỉnh Lào Cai, Việt Nam' or . = 'Full name:Tuan Minhphone:0346283628Order Date:4:06:21 AM 07/28/2023items:Banh khoai ba Khíatotal:7.333.333.920.000 ₫Shipping Address:101b lê hữu trác, Huyện Mường Khương, Xã Tung Chung Phố, Tỉnh Lào Cai, Việt Nam')]</value>
+      <webElementGuid>5ec28072-78dc-470c-8ff0-a1904614f878</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

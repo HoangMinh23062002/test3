@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_01Presonal details</name>
+   <tag></tag>
+   <elementGuidId>10c04ab6-e544-4731-9094-4d78877f0e30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/form/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-b95f0i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>457a8954-24c4-4306-8ac4-093b45a0e8f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-b95f0i</value>
+      <webElementGuid>dff9dc7a-7d20-4a55-a8e8-7e6ff8394e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01Presonal details</value>
+      <webElementGuid>68f8aa79-2b91-4924-b6ce-2abd40e9152d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-j7qwjs&quot;]/form[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-qfdd9t&quot;]/div[@class=&quot;css-14ak72f&quot;]/div[@class=&quot;css-b95f0i&quot;]</value>
+      <webElementGuid>e7b97f64-95fb-4c6e-8306-5dd1d47f69e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/form/div/div/div</value>
+      <webElementGuid>a555f787-961c-4679-8ef5-79ec803c8b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='checkout'])[1]/following::div[3]</value>
+      <webElementGuid>6e75b4b9-16da-4bb2-ab96-1b9f80437555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::div[1]</value>
+      <webElementGuid>a4cb7ad0-ab66-4b4a-aadd-22922b300e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>9b2c8bd7-c88b-4ad2-9a03-f954bb3967d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '01Presonal details' or . = '01Presonal details')]</value>
+      <webElementGuid>1d0d1e4d-2ad7-42f5-b7ed-02d3066f9b2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

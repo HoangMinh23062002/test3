@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_checkout01Presonal detailsFirst NameLas_f3258d</name>
+   <tag></tag>
+   <elementGuidId>b4a56116-e819-4732-85a5-66417bdafb07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-j7qwjs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37da2ca5-4ea1-44d6-a8ad-fe33abeab438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-j7qwjs</value>
+      <webElementGuid>132c25ac-756c-49da-b728-8a8e1d09e4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>checkout01Presonal detailsFirst NameLast NameLast Name can not include number and special characters EmailPlease input vaild emailPhone NumberPhone is required02shipping detailsSelect Your Province/CitySelect your provinceThành phố Hà NộiTỉnh Hà GiangTỉnh Cao BằngTỉnh Bắc KạnTỉnh Tuyên QuangTỉnh Lào CaiTỉnh Điện BiênTỉnh Lai ChâuTỉnh Sơn LaTỉnh Yên BáiTỉnh Hoà BìnhTỉnh Thái NguyênTỉnh Lạng SơnTỉnh Quảng NinhTỉnh Bắc GiangTỉnh Phú ThọTỉnh Vĩnh PhúcTỉnh Bắc NinhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hưng YênTỉnh Thái BìnhTỉnh Hà NamTỉnh Nam ĐịnhTỉnh Ninh BìnhTỉnh Thanh HóaTỉnh Nghệ AnTỉnh Hà TĩnhTỉnh Quảng BìnhTỉnh Quảng TrịTỉnh Thừa Thiên HuếThành phố Đà NẵngTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Bình ĐịnhTỉnh Phú YênTỉnh Khánh HòaTỉnh Ninh ThuậnTỉnh Bình ThuậnTỉnh Kon TumTỉnh Gia LaiTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Lâm ĐồngTỉnh Bình PhướcTỉnh Tây NinhTỉnh Bình DươngTỉnh Đồng NaiTỉnh Bà Rịa - Vũng TàuThành phố Hồ Chí MinhTỉnh Long AnTỉnh Tiền GiangTỉnh Bến TreTỉnh Trà VinhTỉnh Vĩnh LongTỉnh Đồng ThápTỉnh An GiangTỉnh Kiên GiangThành phố Cần ThơTỉnh Hậu GiangTỉnh Sóc TrăngTỉnh Bạc LiêuTỉnh Cà MauProvince is requiredSelect Your DistrictSelect your districtDistrict is requiredSelect Your WardSelect your wardWard is requiredYour StreetAddress is required03Order summaryBanh khoai ba Khíaunit price:6.000.000 ₫quantity:1234568total:7.407.408.000.000 ₫sub total:7.407.408.000.000 ₫voucher:-1 ₫Total:7.407.407.999.999 ₫04payment methodvnpaycashChoose your payment methodplace order</value>
+      <webElementGuid>99549815-e3cc-4309-a25b-5686be353bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-j7qwjs&quot;]</value>
+      <webElementGuid>dbab02c6-5124-4654-be8b-115e48c19ec3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]</value>
+      <webElementGuid>9afa9a92-e2b5-40b2-80c2-be26876e7f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>b07e6f89-67a7-4cfc-94fe-5dca441a0f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'checkout01Presonal detailsFirst NameLast NameLast Name can not include number and special characters EmailPlease input vaild emailPhone NumberPhone is required02shipping detailsSelect Your Province/CitySelect your provinceThành phố Hà NộiTỉnh Hà GiangTỉnh Cao BằngTỉnh Bắc KạnTỉnh Tuyên QuangTỉnh Lào CaiTỉnh Điện BiênTỉnh Lai ChâuTỉnh Sơn LaTỉnh Yên BáiTỉnh Hoà BìnhTỉnh Thái NguyênTỉnh Lạng SơnTỉnh Quảng NinhTỉnh Bắc GiangTỉnh Phú ThọTỉnh Vĩnh PhúcTỉnh Bắc NinhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hưng YênTỉnh Thái BìnhTỉnh Hà NamTỉnh Nam ĐịnhTỉnh Ninh BìnhTỉnh Thanh HóaTỉnh Nghệ AnTỉnh Hà TĩnhTỉnh Quảng BìnhTỉnh Quảng TrịTỉnh Thừa Thiên HuếThành phố Đà NẵngTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Bình ĐịnhTỉnh Phú YênTỉnh Khánh HòaTỉnh Ninh ThuậnTỉnh Bình ThuậnTỉnh Kon TumTỉnh Gia LaiTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Lâm ĐồngTỉnh Bình PhướcTỉnh Tây NinhTỉnh Bình DươngTỉnh Đồng NaiTỉnh Bà Rịa - Vũng TàuThành phố Hồ Chí MinhTỉnh Long AnTỉnh Tiền GiangTỉnh Bến TreTỉnh Trà VinhTỉnh Vĩnh LongTỉnh Đồng ThápTỉnh An GiangTỉnh Kiên GiangThành phố Cần ThơTỉnh Hậu GiangTỉnh Sóc TrăngTỉnh Bạc LiêuTỉnh Cà MauProvince is requiredSelect Your DistrictSelect your districtDistrict is requiredSelect Your WardSelect your wardWard is requiredYour StreetAddress is required03Order summaryBanh khoai ba Khíaunit price:6.000.000 ₫quantity:1234568total:7.407.408.000.000 ₫sub total:7.407.408.000.000 ₫voucher:-1 ₫Total:7.407.407.999.999 ₫04payment methodvnpaycashChoose your payment methodplace order' or . = 'checkout01Presonal detailsFirst NameLast NameLast Name can not include number and special characters EmailPlease input vaild emailPhone NumberPhone is required02shipping detailsSelect Your Province/CitySelect your provinceThành phố Hà NộiTỉnh Hà GiangTỉnh Cao BằngTỉnh Bắc KạnTỉnh Tuyên QuangTỉnh Lào CaiTỉnh Điện BiênTỉnh Lai ChâuTỉnh Sơn LaTỉnh Yên BáiTỉnh Hoà BìnhTỉnh Thái NguyênTỉnh Lạng SơnTỉnh Quảng NinhTỉnh Bắc GiangTỉnh Phú ThọTỉnh Vĩnh PhúcTỉnh Bắc NinhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hưng YênTỉnh Thái BìnhTỉnh Hà NamTỉnh Nam ĐịnhTỉnh Ninh BìnhTỉnh Thanh HóaTỉnh Nghệ AnTỉnh Hà TĩnhTỉnh Quảng BìnhTỉnh Quảng TrịTỉnh Thừa Thiên HuếThành phố Đà NẵngTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Bình ĐịnhTỉnh Phú YênTỉnh Khánh HòaTỉnh Ninh ThuậnTỉnh Bình ThuậnTỉnh Kon TumTỉnh Gia LaiTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Lâm ĐồngTỉnh Bình PhướcTỉnh Tây NinhTỉnh Bình DươngTỉnh Đồng NaiTỉnh Bà Rịa - Vũng TàuThành phố Hồ Chí MinhTỉnh Long AnTỉnh Tiền GiangTỉnh Bến TreTỉnh Trà VinhTỉnh Vĩnh LongTỉnh Đồng ThápTỉnh An GiangTỉnh Kiên GiangThành phố Cần ThơTỉnh Hậu GiangTỉnh Sóc TrăngTỉnh Bạc LiêuTỉnh Cà MauProvince is requiredSelect Your DistrictSelect your districtDistrict is requiredSelect Your WardSelect your wardWard is requiredYour StreetAddress is required03Order summaryBanh khoai ba Khíaunit price:6.000.000 ₫quantity:1234568total:7.407.408.000.000 ₫sub total:7.407.408.000.000 ₫voucher:-1 ₫Total:7.407.407.999.999 ₫04payment methodvnpaycashChoose your payment methodplace order')]</value>
+      <webElementGuid>a5fb62ca-4c06-4ae7-b479-18896fc8738c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

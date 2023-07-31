@@ -113,7 +113,7 @@ WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/img_Banh
 WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/button_Buy now'))
 
 
-WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout'))
+//WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/button_Proceed to Checkout'))
 
 WebUI.setText(findTestObject('Object Repository/Cart/Page_Vite  React  TS/input_bn bn_chakra-input css-1868lrh'), 
     'eetyu')
@@ -121,7 +121,7 @@ WebUI.setText(findTestObject('Object Repository/Cart/Page_Vite  React  TS/input_
 WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/button_apply'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Cart/Page_Vite  React  TS/p_Your coupon is invalid'), 
-    0)
+  0)
 
 WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/div_homeproductabout uscontact0Shopping car_242c25'))
 

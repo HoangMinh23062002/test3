@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Full nameYuan Minhphone0365876523Order _a1dcf2</name>
+   <tag></tag>
+   <elementGuidId>58e9632a-69cd-44d5-a97d-1f5910f5de33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-161flp2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5ee6225-3336-40c2-bebf-81534832cb77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-161flp2</value>
+      <webElementGuid>a025e235-408e-45ef-975e-7de926238513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full name:Yuan Minhphone:0365876523Order Date:8:48:26 AM 07/31/2023items:Banh khoai deototal:36.000.000 ₫Shipping Address:1010 b lê Hữu trác, Thành phố Cao Bằng, Phường Sông Bằng, Tỉnh Cao Bằng, Việt Nam</value>
+      <webElementGuid>0cb50438-4c2a-421e-865a-37863fdb21f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-19lu15j&quot;]/div[@class=&quot;css-qfdd9t&quot;]/div[@class=&quot;css-1e2iwx8&quot;]/div[@class=&quot;css-161flp2&quot;]</value>
+      <webElementGuid>1bebb712-7db2-4f5e-90ca-d79540e716cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>8821471a-aad0-4976-929f-701d80e403c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank You For Your Ordering'])[1]/following::div[1]</value>
+      <webElementGuid>2004ff79-ddd3-4131-9e43-c1c3e2ea86a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::div[7]</value>
+      <webElementGuid>ccf42d28-61b3-4ed2-869c-e22249fb705b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='subscribe'])[1]/preceding::div[11]</value>
+      <webElementGuid>19a82186-2dbc-44cf-9f65-b2685038948f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>79ff34a8-913f-47be-9db2-283671d6cfe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Full name:Yuan Minhphone:0365876523Order Date:8:48:26 AM 07/31/2023items:Banh khoai deototal:36.000.000 ₫Shipping Address:1010 b lê Hữu trác, Thành phố Cao Bằng, Phường Sông Bằng, Tỉnh Cao Bằng, Việt Nam' or . = 'Full name:Yuan Minhphone:0365876523Order Date:8:48:26 AM 07/31/2023items:Banh khoai deototal:36.000.000 ₫Shipping Address:1010 b lê Hữu trác, Thành phố Cao Bằng, Phường Sông Bằng, Tỉnh Cao Bằng, Việt Nam')]</value>
+      <webElementGuid>9a4f4a2a-baf9-4b20-993d-067f99104170</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

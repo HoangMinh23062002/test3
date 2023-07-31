@@ -6,12 +6,12 @@
    <elementGuidId>a7a1cd0c-a993-439d-9a9c-52a4045d3c08</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.chakra-input.css-1868lrh</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type = 'text' and @placeholder = 'Your voucher']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.css-1868lrh</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ef2443d5-0832-4dd9-bc1f-ad075f1e55f0</webElementGuid>
+      <webElementGuid>fbe01be2-f70f-4165-963a-a212590647d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>79f270e0-b49c-46c4-b359-db546b1a830e</webElementGuid>
+      <webElementGuid>2793fec8-aa25-4a87-ad57-da115d379fe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Your voucher</value>
-      <webElementGuid>a9eaa22c-c902-439f-9590-dee06da4e805</webElementGuid>
+      <webElementGuid>05f9857c-efe2-4f5f-94e6-0f43c13911cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-1868lrh</value>
-      <webElementGuid>81e802a0-b093-4050-95a6-2fe4d4c56d67</webElementGuid>
+      <webElementGuid>31fd0c12-c4d5-4303-9fdf-0c6da1ca30b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1umhvfw&quot;]/div[@class=&quot;css-s2wams&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-stack css-1igwmid&quot;]/input[@class=&quot;chakra-input css-1868lrh&quot;]</value>
-      <webElementGuid>5a1aaf4e-6878-4ca9-bfb7-4d19b5bf50f7</webElementGuid>
+      <webElementGuid>1c6b3790-d05a-4cec-986a-b9d9fb310524</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='']</value>
-      <webElementGuid>cf0044e6-b430-4f8f-9df1-59519793c298</webElementGuid>
+      <webElementGuid>710ee2d1-3c80-4a04-8536-d1ce081b38eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div[3]/div/div/div/input</value>
-      <webElementGuid>b7c03709-4ee7-4154-9768-daa1d9d5b352</webElementGuid>
+      <webElementGuid>87314717-9596-4f22-9a60-c08f5192f84e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/input</value>
-      <webElementGuid>fba81574-6873-4ff4-9ed9-9bab514e76e2</webElementGuid>
+      <webElementGuid>140bdb46-8322-4a55-821f-c0f1f0df6339</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Your voucher']</value>
-      <webElementGuid>756ba373-39d4-483f-8133-0df740081ce0</webElementGuid>
+      <webElementGuid>deb17c09-1575-411c-97b3-cff73ab75865</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

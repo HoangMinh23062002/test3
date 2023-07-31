@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_product</name>
+   <tag></tag>
+   <elementGuidId>5f75af0d-3485-4a71-b4c4-882f9c1ec3df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'product' or . = 'product')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.chakra-text.css-r547q5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>001e1494-e088-4d51-85a1-d7ea2905aa28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-text css-r547q5</value>
+      <webElementGuid>5e00651c-a996-439e-ab51-f757cbb1b1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>product</value>
+      <webElementGuid>1daf59d5-c2a2-42b7-9d1f-e0a0e7b0c7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-s90c9j&quot;]/div[@class=&quot;css-1n2mv2k&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-1lf2fxr&quot;]/a[2]/p[@class=&quot;chakra-text css-r547q5&quot;]</value>
+      <webElementGuid>0906ef73-0152-48f9-8ef7-39b674f6e9d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/a[2]/p</value>
+      <webElementGuid>3b1d860a-6ba6-43e9-92aa-eb131e3c60c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='subscribe'])[1]/preceding::p[9]</value>
+      <webElementGuid>dcb2ff31-2d06-4818-bfd1-12cf44383eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::p[22]</value>
+      <webElementGuid>7844ba4b-57ae-48ca-9c3f-fb3fe567baa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='product']/parent::*</value>
+      <webElementGuid>06f7e193-75b0-455f-9633-3b99e6526ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/p</value>
+      <webElementGuid>c9dd0717-abcf-4228-822a-580594976b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'product' or . = 'product')]</value>
+      <webElementGuid>27dcde4f-d5cc-4e54-b628-8a4a8650b34b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

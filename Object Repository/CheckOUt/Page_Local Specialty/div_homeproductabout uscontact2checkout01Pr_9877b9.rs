@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_homeproductabout uscontact2checkout01Pr_9877b9</name>
+   <tag></tag>
+   <elementGuidId>c13a4e6d-3539-4a3b-bcfd-14cdc6dd46ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-container.css-16dnvck</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17b62a68-f8d6-484e-ab84-32dc10e9e323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-container css-16dnvck</value>
+      <webElementGuid>0940505d-4284-4d1f-95ab-36fb47c62f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>homeproductabout uscontact2checkout01Presonal detailsFirst NameLast NameEmailPlease input vaild emailPhone NumberPhone is required02shipping detailsSelect Your Province/CitySelect your provinceThành phố Hà NộiTỉnh Hà GiangTỉnh Cao BằngTỉnh Bắc KạnTỉnh Tuyên QuangTỉnh Lào CaiTỉnh Điện BiênTỉnh Lai ChâuTỉnh Sơn LaTỉnh Yên BáiTỉnh Hoà BìnhTỉnh Thái NguyênTỉnh Lạng SơnTỉnh Quảng NinhTỉnh Bắc GiangTỉnh Phú ThọTỉnh Vĩnh PhúcTỉnh Bắc NinhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hưng YênTỉnh Thái BìnhTỉnh Hà NamTỉnh Nam ĐịnhTỉnh Ninh BìnhTỉnh Thanh HóaTỉnh Nghệ AnTỉnh Hà TĩnhTỉnh Quảng BìnhTỉnh Quảng TrịTỉnh Thừa Thiên HuếThành phố Đà NẵngTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Bình ĐịnhTỉnh Phú YênTỉnh Khánh HòaTỉnh Ninh ThuậnTỉnh Bình ThuậnTỉnh Kon TumTỉnh Gia LaiTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Lâm ĐồngTỉnh Bình PhướcTỉnh Tây NinhTỉnh Bình DươngTỉnh Đồng NaiTỉnh Bà Rịa - Vũng TàuThành phố Hồ Chí MinhTỉnh Long AnTỉnh Tiền GiangTỉnh Bến TreTỉnh Trà VinhTỉnh Vĩnh LongTỉnh Đồng ThápTỉnh An GiangTỉnh Kiên GiangThành phố Cần ThơTỉnh Hậu GiangTỉnh Sóc TrăngTỉnh Bạc LiêuTỉnh Cà MauProvince is requiredSelect Your DistrictSelect your districtDistrict is requiredSelect Your WardSelect your wardWard is requiredYour StreetAddress is required03Order summaryBanh khoai chuoiunit price:6.000 ₫quantity:1total:6.000 ₫Banh khoai ba Khíaunit price:6.000.000 ₫quantity:134570total:807.420.000.000 ₫sub total:807.420.006.000 ₫voucher:-1 ₫Total:807.420.005.999 ₫04payment methodvnpaycashChoose your payment methodplace orderCustomer ServiceBlogPayment OptionsCancellationsTrack Your AnimalSubscribe to our NewslettersubscribeConnect With Us On Social MediaNavigationHomeAbout UsContact UsFAQsHelp with navigationCookies SettingsCookie PolicyCopyright 2021 Luxe Animal Spa, LLC. All rights reserved.TermsPrivacySecurity</value>
+      <webElementGuid>2d5f5496-b23c-44d7-bc15-306a54d63b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]</value>
+      <webElementGuid>dd5e2f8a-88e5-47b2-b899-1eedcbfd67a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div</value>
+      <webElementGuid>e871a355-80a7-42a2-8368-daf7ec54714d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>32b14344-8cc7-411e-9fe1-7bd12264c841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'homeproductabout uscontact2checkout01Presonal detailsFirst NameLast NameEmailPlease input vaild emailPhone NumberPhone is required02shipping detailsSelect Your Province/CitySelect your provinceThành phố Hà NộiTỉnh Hà GiangTỉnh Cao BằngTỉnh Bắc KạnTỉnh Tuyên QuangTỉnh Lào CaiTỉnh Điện BiênTỉnh Lai ChâuTỉnh Sơn LaTỉnh Yên BáiTỉnh Hoà BìnhTỉnh Thái NguyênTỉnh Lạng SơnTỉnh Quảng NinhTỉnh Bắc GiangTỉnh Phú ThọTỉnh Vĩnh PhúcTỉnh Bắc NinhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hưng YênTỉnh Thái BìnhTỉnh Hà NamTỉnh Nam ĐịnhTỉnh Ninh BìnhTỉnh Thanh HóaTỉnh Nghệ AnTỉnh Hà TĩnhTỉnh Quảng BìnhTỉnh Quảng TrịTỉnh Thừa Thiên HuếThành phố Đà NẵngTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Bình ĐịnhTỉnh Phú YênTỉnh Khánh HòaTỉnh Ninh ThuậnTỉnh Bình ThuậnTỉnh Kon TumTỉnh Gia LaiTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Lâm ĐồngTỉnh Bình PhướcTỉnh Tây NinhTỉnh Bình DươngTỉnh Đồng NaiTỉnh Bà Rịa - Vũng TàuThành phố Hồ Chí MinhTỉnh Long AnTỉnh Tiền GiangTỉnh Bến TreTỉnh Trà VinhTỉnh Vĩnh LongTỉnh Đồng ThápTỉnh An GiangTỉnh Kiên GiangThành phố Cần ThơTỉnh Hậu GiangTỉnh Sóc TrăngTỉnh Bạc LiêuTỉnh Cà MauProvince is requiredSelect Your DistrictSelect your districtDistrict is requiredSelect Your WardSelect your wardWard is requiredYour StreetAddress is required03Order summaryBanh khoai chuoiunit price:6.000 ₫quantity:1total:6.000 ₫Banh khoai ba Khíaunit price:6.000.000 ₫quantity:134570total:807.420.000.000 ₫sub total:807.420.006.000 ₫voucher:-1 ₫Total:807.420.005.999 ₫04payment methodvnpaycashChoose your payment methodplace orderCustomer ServiceBlogPayment OptionsCancellationsTrack Your AnimalSubscribe to our NewslettersubscribeConnect With Us On Social MediaNavigationHomeAbout UsContact UsFAQsHelp with navigationCookies SettingsCookie PolicyCopyright 2021 Luxe Animal Spa, LLC. All rights reserved.TermsPrivacySecurity' or . = 'homeproductabout uscontact2checkout01Presonal detailsFirst NameLast NameEmailPlease input vaild emailPhone NumberPhone is required02shipping detailsSelect Your Province/CitySelect your provinceThành phố Hà NộiTỉnh Hà GiangTỉnh Cao BằngTỉnh Bắc KạnTỉnh Tuyên QuangTỉnh Lào CaiTỉnh Điện BiênTỉnh Lai ChâuTỉnh Sơn LaTỉnh Yên BáiTỉnh Hoà BìnhTỉnh Thái NguyênTỉnh Lạng SơnTỉnh Quảng NinhTỉnh Bắc GiangTỉnh Phú ThọTỉnh Vĩnh PhúcTỉnh Bắc NinhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hưng YênTỉnh Thái BìnhTỉnh Hà NamTỉnh Nam ĐịnhTỉnh Ninh BìnhTỉnh Thanh HóaTỉnh Nghệ AnTỉnh Hà TĩnhTỉnh Quảng BìnhTỉnh Quảng TrịTỉnh Thừa Thiên HuếThành phố Đà NẵngTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Bình ĐịnhTỉnh Phú YênTỉnh Khánh HòaTỉnh Ninh ThuậnTỉnh Bình ThuậnTỉnh Kon TumTỉnh Gia LaiTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Lâm ĐồngTỉnh Bình PhướcTỉnh Tây NinhTỉnh Bình DươngTỉnh Đồng NaiTỉnh Bà Rịa - Vũng TàuThành phố Hồ Chí MinhTỉnh Long AnTỉnh Tiền GiangTỉnh Bến TreTỉnh Trà VinhTỉnh Vĩnh LongTỉnh Đồng ThápTỉnh An GiangTỉnh Kiên GiangThành phố Cần ThơTỉnh Hậu GiangTỉnh Sóc TrăngTỉnh Bạc LiêuTỉnh Cà MauProvince is requiredSelect Your DistrictSelect your districtDistrict is requiredSelect Your WardSelect your wardWard is requiredYour StreetAddress is required03Order summaryBanh khoai chuoiunit price:6.000 ₫quantity:1total:6.000 ₫Banh khoai ba Khíaunit price:6.000.000 ₫quantity:134570total:807.420.000.000 ₫sub total:807.420.006.000 ₫voucher:-1 ₫Total:807.420.005.999 ₫04payment methodvnpaycashChoose your payment methodplace orderCustomer ServiceBlogPayment OptionsCancellationsTrack Your AnimalSubscribe to our NewslettersubscribeConnect With Us On Social MediaNavigationHomeAbout UsContact UsFAQsHelp with navigationCookies SettingsCookie PolicyCopyright 2021 Luxe Animal Spa, LLC. All rights reserved.TermsPrivacySecurity')]</value>
+      <webElementGuid>4a3feafc-68df-4768-9bb1-6de41b6be8ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

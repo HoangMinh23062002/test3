@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Banh khoai ba Kha_chakra-input css-10tbmt2</name>
+   <tag></tag>
+   <elementGuidId>ff01410c-bd07-469e-b7d6-0a3cd91acf25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.chakra-input.css-10tbmt2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>269dce3b-fcc7-4938-b8cc-b3a327331802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ce7702ff-4213-4e4e-98d6-3684bf95a6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Your voucher</value>
+      <webElementGuid>01fc1e3a-fa31-44c4-a064-a76b854d954c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-input css-10tbmt2</value>
+      <webElementGuid>af026911-da64-4f16-8508-02994a14c7e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1umhvfw&quot;]/div[@class=&quot;css-s2wams&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;css-9jay18&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-stack css-1igwmid&quot;]/input[@class=&quot;chakra-input css-10tbmt2&quot;]</value>
+      <webElementGuid>dfeedb36-5da8-44f4-bf6d-7d6973b60e61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>97148ed7-98e1-403f-9931-83935cdc0915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[3]/div/div/div/input</value>
+      <webElementGuid>c1e61cb3-aa92-4363-9824-d033a86d636d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/input</value>
+      <webElementGuid>aae8e328-da90-464b-8735-72978091f3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Your voucher']</value>
+      <webElementGuid>9afc046f-e5ac-44ac-85cd-60bf1cc486c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

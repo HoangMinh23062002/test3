@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='button']</value>
+         <value>//button[@type = 'button' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ee525b30-8dd1-4e9f-84e2-70d2e6128238</webElementGuid>
+      <webElementGuid>9788ac05-3076-4216-b550-1e27db561171</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8eda8919-b45f-4eec-8d54-8acac086ab6b</webElementGuid>
+      <webElementGuid>308b78b1-25e6-4a0c-a561-2425a3a7e4f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-button css-hyxcbr</value>
-      <webElementGuid>470ad298-013f-4cc4-83f3-a7c6c3e7e353</webElementGuid>
+      <webElementGuid>355638e9-4dd5-44bf-8a2f-6d64f903711f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add to cart</value>
-      <webElementGuid>94dea4e8-7ef6-41e0-912d-652928fa9831</webElementGuid>
+      <webElementGuid>9cc65b17-01d6-4146-aa6c-d8f4cc2668a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;chakra-container css-16dnvck&quot;]/div[@class=&quot;css-1avrgqm&quot;]/div[@class=&quot;css-12uwmyy&quot;]/div[@class=&quot;css-1p2cbqg&quot;]/div[@class=&quot;css-1a56p1a&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;chakra-stack css-qlxuh7&quot;]/button[@class=&quot;chakra-button css-hyxcbr&quot;]</value>
-      <webElementGuid>e93bbdaf-1e5f-40dd-920f-721ebea91ef6</webElementGuid>
+      <webElementGuid>6dbec66d-835d-4a2d-bae3-baba205d135e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>68984657-9f4f-46bb-82d3-3c4e18c15a3b</webElementGuid>
+      <webElementGuid>1db9eb07-8128-4322-913c-2d17fc915baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div[8]/button</value>
-      <webElementGuid>90f29704-b5fd-4e63-af7b-faa3691c8c2a</webElementGuid>
+      <webElementGuid>c1729627-f800-4df8-901b-e6411addcbe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy now'])[1]/preceding::button[1]</value>
-      <webElementGuid>95af7271-0e6d-43af-9210-0ee875f8b91b</webElementGuid>
+      <webElementGuid>fee4dfde-62e9-4a9e-81c4-c325d9dafbf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::button[2]</value>
-      <webElementGuid>858fb4b3-850b-46b1-9c75-effacc07cc50</webElementGuid>
+      <webElementGuid>47e469d5-a8cb-4403-a3e7-6dc6786015c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add to cart']/parent::*</value>
-      <webElementGuid>0f5a157f-f874-43b8-92a4-e72fcdf4901a</webElementGuid>
+      <webElementGuid>73214cf6-e250-485a-adb8-23e83e79b112</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>b47467e3-db05-4051-9bd6-3d32614fef90</webElementGuid>
+      <webElementGuid>e488a8d8-abd8-426e-ba47-7e0244302215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
-      <webElementGuid>9d0833e3-a0e1-456b-8cae-fd8d5cc600f9</webElementGuid>
+      <webElementGuid>7bdeb728-c9bf-4dd2-ace4-e4c108b92997</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
