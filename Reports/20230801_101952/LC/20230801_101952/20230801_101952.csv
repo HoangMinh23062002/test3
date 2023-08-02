@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LC,Chrome 115.0.0.0,,,2023-08-01 10:20:06,2023-08-01 10:21:58,1m - 51.861s,FAILED
+,,,,,,,
+Test Cases/LC/Cart,Chrome 115.0.0.0,,,2023-08-01 10:20:07,2023-08-01 10:21:12,1m - 5.136s,FAILED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-01 10:20:08,2023-08-01 10:20:15,6.580s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 115.0.0.0,,,2023-08-01 10:20:15,2023-08-01 10:20:17,1.955s,PASSED
+maximizeWindow(),Chrome 115.0.0.0,,,2023-08-01 10:20:17,2023-08-01 10:20:17,0.357s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_product""))",Chrome 115.0.0.0,,,2023-08-01 10:20:17,2023-08-01 10:20:19,2.110s,PASSED
+"setText(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/input_The best offer that we offer to the w_af0838""), ""Bún"")",Chrome 115.0.0.0,,,2023-08-01 10:20:19,2023-08-01 10:20:28,8.484s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/img_by category_chakra-image css-lxd7e7""))",Chrome 115.0.0.0,,,2023-08-01 10:20:28,2023-08-01 10:20:33,5.350s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_Show more""))",Chrome 115.0.0.0,,,2023-08-01 10:20:33,2023-08-01 10:20:38,5.114s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_Pellentesque habitan morbi tristiquePelle_e1746d""))",Chrome 115.0.0.0,,,2023-08-01 10:20:38,2023-08-01 10:20:39,0.638s,PASSED
+"click(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/p_Show less""))",Chrome 115.0.0.0,,,2023-08-01 10:20:39,2023-08-01 10:20:39,0.474s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Cart/Page_Vite  React  TS/div_Successfully""), 0)",Chrome 115.0.0.0,,,2023-08-01 10:20:39,2023-08-01 10:21:12,32.569s,FAILED
+,,,,,,,
+Test Cases/LC/Filter,Chrome 115.0.0.0,,,2023-08-01 10:21:12,2023-08-01 10:21:58,46.197s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-01 10:21:13,2023-08-01 10:21:18,5.439s,PASSED
+"navigateToUrl(""http://localhost:5173/"")",Chrome 115.0.0.0,,,2023-08-01 10:21:18,2023-08-01 10:21:20,2.185s,PASSED
+maximizeWindow(),Chrome 115.0.0.0,,,2023-08-01 10:21:20,2023-08-01 10:21:21,0.578s,PASSED
+"click(findTestObject(""Filter/Page_Vite  React  TS/p_product""))",Chrome 115.0.0.0,,,2023-08-01 10:21:21,2023-08-01 10:21:23,1.732s,PASSED
+delay(8),Chrome 115.0.0.0,,,2023-08-01 10:21:23,2023-08-01 10:21:31,8.036s,PASSED
+"dragAndDropToObject(findTestObject(""Filter/Page_Vite  React  TS/div_by price_example-track example-track-1""), findTestObject(""Filter/Page_Vite  React  TS/div_by price_example-thumb example-thumb-0 active""))",Chrome 115.0.0.0,,,2023-08-01 10:21:31,2023-08-01 10:21:33,1.875s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)""), ""20"", true)",Chrome 115.0.0.0,,,2023-08-01 10:21:33,2023-08-01 10:21:38,5.810s,PASSED
+delay(8),Chrome 115.0.0.0,,,2023-08-01 10:21:38,2023-08-01 10:21:46,8.004s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Filter/Page_Vite  React  TS/p_There is no result found""), ""There is no result found"")",Chrome 115.0.0.0,,,2023-08-01 10:21:46,2023-08-01 10:21:47,0.433s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Filter/Page_Vite  React  TS/select_allKhMinhhonag (1)""), ""15"", true)",Chrome 115.0.0.0,,,2023-08-01 10:21:47,2023-08-01 10:21:49,2.043s,PASSED
+delay(8),Chrome 115.0.0.0,,,2023-08-01 10:21:49,2023-08-01 10:21:57,8.003s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-01 10:21:57,2023-08-01 10:21:58,1.187s,PASSED

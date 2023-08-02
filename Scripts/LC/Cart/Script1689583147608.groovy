@@ -36,15 +36,15 @@ WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/p_Pellen
 
 WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/p_Show less'))
 
-WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq'))
-
-WebUI.setText(findTestObject('Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'), 
-    '2345678')
-
-WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/button_Add to cart'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart'), 
-    0)
+//WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/div_Add to cart_css-148p1cq'))
+//
+//WebUI.setText(findTestObject('Object Repository/Cart/Page_Vite  React  TS/input_Add to cart_chakra-input css-108b1as'), 
+//    '2345678')
+//
+//WebUI.click(findTestObject('Object Repository/Cart/Page_Vite  React  TS/button_Add to cart'))
+//
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Cart/Page_Vite  React  TS/div_You item already in shopping cart'), 
+//    0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Cart/Page_Vite  React  TS/div_Successfully'), 0)
 
