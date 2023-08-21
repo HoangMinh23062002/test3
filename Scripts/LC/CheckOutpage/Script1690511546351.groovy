@@ -281,6 +281,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/testcoi/Page_Local 
 
 WebUI.click(findTestObject('Object Repository/testcoi/Page_Local Specialty/label_cash'))
 
+
+WebUI.verifyMatch('7.407.407.999.999 ₫', WebUI.getText(findTestObject('Object Repository/CheckOUt/Page_Local Specialty/priceMatching')), false)
+
 WebUI.click(findTestObject('Object Repository/testcoi/Page_Local Specialty/button_place order'))
 
 WebUI.delay(10)
